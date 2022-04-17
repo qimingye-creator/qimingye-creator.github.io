@@ -6,6 +6,9 @@
    Typography
    ========================================================================== */
 
+
+$JetBrainsMono              : "JetBrains Mono ExtraLight";
+
 $doc-font-size              : 14;
 
 /* paragraph indention */
@@ -13,27 +16,40 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 0.5em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+// $serif                      : Georgia, Times, serif;
+// $sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+
+$serif                      : $JetBrainsMono;
+$sans-serif                 : $JetBrainsMono;
 // $sans-serif                 : Georgia, serif, sans-serif;
 
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
+
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
-/* serif typefaces */
-$georgia                    : Georgia, serif;
-$times                      : Times, serif;
-$bodoni                     : "Bodoni MT", serif;
-$calisto                    : "Calisto MT", serif;
-$garamond                   : Garamond, serif;
+// /* serif typefaces */
+// $georgia                    : Georgia, serif;
+// $times                      : Times, serif;
+// $bodoni                     : "Bodoni MT", serif;
+// $calisto                    : "Calisto MT", serif;
+// $garamond                   : Garamond, serif;
+// $JetBrainsMono              : "JetBrains Mono ExtraLight";
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$georgia                    : $JetBrainsMono;
+$times                      : $JetBrainsMono;
+$bodoni                     : $JetBrainsMono;
+$calisto                    : $JetBrainsMono;
+$garamond                   : $JetBrainsMono;
+
+
+$sans-serif-narrow          : $JetBrainsMono;
+
+$global-font-family         : $JetBrainsMono;
+$header-font-family         : $JetBrainsMono;
+$caption-font-family        : $JetBrainsMono;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
