@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Shaofei Cai (蔡少斐 in Chinese, shaofei.cai@vipl.ict.ac.cn). I received my bachelor degree from Xi'an Jiaotong University in 2019. Now I am a master's student in the Institue of Computing Technology, Chinese Academy of Science, under the directing of Liang Li since 2019. I’m interested in graph neural network, neural architecture search and neural-symbolic. 
+I’m Shaofei Cai (蔡少斐 in Chinese, shaofei.cai@vipl.ict.ac.cn). I received my bachelor degree from Xi'an Jiaotong University in 2019. Now I am a master's student in the Institue of Computing Technology, Chinese Academy of Science, under the directing of Liang Li since 2019. I’m interested in graph neural network, neural architecture search and neural-symbolic. Besides, I'm also interested in solving algorithm problems. 
 
 
 
@@ -76,10 +76,10 @@ I’m Shaofei Cai (蔡少斐 in Chinese, shaofei.cai@vipl.ict.ac.cn). I received
 
   *2018.11* 🏅 Gold Medal(Rank: 6th/180), Beijing Site, 43rd Asia Regional
 
-  *2018.05* 🏅 Gold Medal, Xian Site, National invitational
+  *2018.05* 🏅 Gold Medal, Xi'an Site, National invitational
 
-- **2019.6** 👍🏻 Outstanding Student Award of Xi'an Jiaotong University. 
+- *2019.06* 👍🏻 Outstanding Student Award of Xi'an Jiaotong University. 
 
 # 📖 Educations
 - *2019.09 - 2022.06 (now)*, Master, Institute of Computing Technology, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing, China. 
-- *2015.09 - 2019.06*, Undergraduate, Software college, Xi'an Jiaotong University, Xi'an.
+- *2015.09 - 2019.06*, Undergraduate, Software college, Xi'an Jiaotong University, Xi'an, China. 

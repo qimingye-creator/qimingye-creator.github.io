@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shaofei Cai"
   avatar           : "images/avatar.png"
-  bio              : "Master's student at Institute of Computing Technology, Chinese Academy of Sciences, University of Chinese Academy of Sciences"
+  bio              : "Master's student at Institute of Computing Technology, Chinese Academy of Sciences. "
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "phython96"
   google_plus      :
   keybase          :
   instagram        :
