@@ -35,7 +35,7 @@ I’m Shaofei Cai (蔡少斐 in Chinese, shaofei.cai@vipl.ict.ac.cn). I received
 
 **Shaofei Cai**, Liang Li, Xinzhe Han, Jiebo Luo, Zheng-jun Zha, Qingming Huang
 
-**CVPR 2022** <span style="color:red">(Oral)</span> \| [cite] \| [[code](https://github.com/phython96/ARGNP)]
+**CVPR 2022** <span style="color:red">(Oral)</span> \| [cite] \| [[code](https://github.com/phython96/ARGNP)] \| [video] 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
@@ -74,12 +74,17 @@ I’m Shaofei Cai (蔡少斐 in Chinese, shaofei.cai@vipl.ict.ac.cn). I received
 # 🎖 Honors and Awards
 - ACM International Collegiate Programming Contest (ACM-ICPC)
 
-  *2018.11* 🏅 Gold Medal(Rank: 6th/180), Beijing Site, 43rd Asia Regional
+  *2018.11* 🏅 Gold Medal (Rank: 6th/180), 43rd Asia Beijing Regional
 
-  *2018.05* 🏅 Gold Medal, Xi'an Site, National invitational
+  *2018.05* 🏅 Gold Medal, National Xi'an Invitational
 
 - *2019.06* 👍🏻 Outstanding Student Award of Xi'an Jiaotong University. 
 
 # 📖 Educations
 - *2019.09 - 2022.06 (now)*, Master, Institute of Computing Technology, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing, China. 
-- *2015.09 - 2019.06*, Undergraduate, Software college, Xi'an Jiaotong University, Xi'an, China. 
+- *2015.09 - 2019.06*, Undergraduate, Software College, Xi'an Jiaotong University, Xi'an, China. 
+
+# 💻 Internships
+
+- *2020.10 - 2021.08*, Bytedance, Beijing. 
+  Computer Vision Intern of Image Generation Group, Douyin. 
