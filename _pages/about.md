@@ -35,41 +35,50 @@ I’m Shaofei Cai (蔡少斐 in Chinese, shaofei.cai@vipl.ict.ac.cn). I received
 
 **Shaofei Cai**, Liang Li, Xinzhe Han, Jiebo Luo, Zheng-jun Zha, Qingming Huang
 
-**CVPR 2022** <span style="color:red">(Oral)</span> \| [cite] \| [[code](https://github.com/phython96/ARGNP)] \| [video] 
+**CVPR 2022** <span style="color:red">(Oral)</span> \| 
+[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)]() \| 
+[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/ARGNP) \| 
+[![](https://img.shields.io/badge/video-red?style=plastic&logo=airplayvideo)]() \| 
+[![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)]()
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 </div>
 </div>
 
-- [Rethinking Graph Neural Architecture Search from Message-Passing](https://github.com), 
+- [Rethinking Graph Neural Architecture Search from Message-Passing](https://github.com)
   
   **Shaofei Cai**, Liang Li, Jincan Deng, Beichen Zhang, Zheng-Jun Zha, Li Su, Qingming Huang
 
-  **CVPR 2021** \| [[cite](https://dblp.org/rec/conf/cvpr/Cai0DZZ0H21.html?view=bibtex)] \| [[code](https://github.com/phython96/GNAS-MP)] 
+  **CVPR 2021** \| 
+  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/cvpr/Cai0DZZ0H21.html?view=bibtex) \| 
+  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/GNAS-MP)
+
 - [Edge-featured Graph Neural Architecture Search](https://arxiv.org/pdf/2109.01356.pdf)
 
-  **Shaofei Cai**, Liang Li, Xinzhe Han, Zheng-jun Zha, Qingming Huang, 
+  **Shaofei Cai**, Liang Li, Xinzhe Han, Zheng-jun Zha, Qingming Huang
 
-  [[cite](https://dblp.org/rec/journals/corr/abs-2109-01356.html?view=bibtex)] 
+  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-01356.html?view=bibtex)
 
 - [Semantic and Correlation Disentangled Graph Propagation for Multi-label Image Recognition](-)
 
   **Shaofei Cai**, Liang Li, Xinzhe Han, Qi Tian, Qingming Huang
 
-  [cite]
+  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)]()
 
 - [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
 
   Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
 
-  [[cite](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex)] \| [[code](https://github.com/phycvgan/DyStyle)]
+  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
+  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phycvgan/DyStyle)
 
 - [IR-GAN: Image Manipulation with Linguistic Instruction by Increment Reasoning](https://vipl.ict.ac.cn/uploadfile/upload/2020122810513917.pdf)
 
   Zhenhuan Liu, Jincan Deng, Liang Li, **Shaofei Cai**, Qianqian Xu, Shuhui Wang, Qingming Huang
 
-  **ACM MM 2020** <span style="color:red">(Oral)</span> \| [[cite](https://dblp.org/rec/conf/mm/LiuDLCXWH20.html?view=bibtex)]
+  **ACM MM 2020** <span style="color:red">(Oral)</span> \| 
+  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/mm/LiuDLCXWH20.html?view=bibtex)
 
 # 🎖 Honors and Awards
 - ACM International Collegiate Programming Contest (ACM-ICPC)
