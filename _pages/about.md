@@ -52,26 +52,37 @@ I’m Shaofei Cai (蔡少斐 in Chinese, shaofei.cai@vipl.ict.ac.cn). I received
 
   **CVPR 2021** \| 
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/cvpr/Cai0DZZ0H21.html?view=bibtex) \| 
-  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/GNAS-MP)
+  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/GNAS-MP) 
+  
+  -----
 
 - [Edge-featured Graph Neural Architecture Search](https://arxiv.org/pdf/2109.01356.pdf)
 
   **Shaofei Cai**, Liang Li, Xinzhe Han, Zheng-jun Zha, Qingming Huang
 
+  Arxiv \|
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-01356.html?view=bibtex)
+
+  -----
 
 - [Semantic and Correlation Disentangled Graph Propagation for Multi-label Image Recognition](-)
 
   **Shaofei Cai**, Liang Li, Xinzhe Han, Qi Tian, Qingming Huang
 
+  **TNNLS** (Under Review) \|
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)]()
+
+  -----
 
 - [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
 
   Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
 
+  Arxiv \|
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
   [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phycvgan/DyStyle)
+
+  -----
 
 - [IR-GAN: Image Manipulation with Linguistic Instruction by Increment Reasoning](https://vipl.ict.ac.cn/uploadfile/upload/2020122810513917.pdf)
 
@@ -79,6 +90,8 @@ I’m Shaofei Cai (蔡少斐 in Chinese, shaofei.cai@vipl.ict.ac.cn). I received
 
   **ACM MM 2020** <span style="color:red">(Oral)</span> \| 
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/mm/LiuDLCXWH20.html?view=bibtex)
+
+  -----
 
 # 🎖 Honors and Awards
 - ACM International Collegiate Programming Contest (ACM-ICPC)
