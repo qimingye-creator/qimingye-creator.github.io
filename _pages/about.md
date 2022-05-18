@@ -38,8 +38,8 @@ I’m Shaofei Cai (蔡少斐 in Chinese, shaofei.cai@vipl.ict.ac.cn). I received
 **CVPR 2022** <span style="color:red">(Oral)</span> \| 
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)]() \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/ARGNP) \| 
-[![](https://img.shields.io/badge/video-red?style=plastic&logo=airplayvideo)]() \| 
-[![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)]()
+[![](https://img.shields.io/badge/video-red?style=plastic&logo=airplayvideo)](https://0633e92166c0a27ea1aa-ab47878a9e45eb9e2f15be38a59f867e.ssl.cf1.rackcdn.com/PJNEQWFQ-2100498-1663000-Upload-1652882468.mp4) \| 
+[![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)](https://www.conferenceharvester.com/uploads/harvester/presentations/PJNEQWFQ/PJNEQWFQ-PDF-2100498-1663000-1-PDF(1).pdf)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
