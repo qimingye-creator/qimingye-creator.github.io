@@ -31,7 +31,7 @@ I’m Shaofei Cai (蔡少斐 in Chinese, shaofei.cai@vipl.ict.ac.cn). I received
 <div class='paper-box-image'><div class="badge">CVPR 2022 (Oral)</div><img src='images/ARGNP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Automatic Relation-aware Graph Network Proliferation]()
+[Automatic Relation-aware Graph Network Proliferation](https://arxiv.org/abs/2205.15678)
 
 **Shaofei Cai**, Liang Li, Xinzhe Han, Jiebo Luo, Zheng-jun Zha, Qingming Huang
 
