@@ -15,9 +15,14 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# About Me
 <span class='anchor' id='about-me'></span>
 
-I’m Shaofei Cai (蔡少斐 in Chinese, shaofei.cai@vipl.ict.ac.cn). I received my bachelor degree from Xi'an Jiaotong University in 2019. Now I am a master's student in the Institue of Computing Technology, Chinese Academy of Science, under the directing of Liang Li since 2019. I’m interested in graph neural network, neural architecture search and neural-symbolic. Besides, I'm also interested in solving algorithm problems. 
+I’m Shaofei Cai (蔡少斐 in Chinese, <u>caishaofei@bigai.ai</u>). 
+I received my bachelor degree from **Xi'an Jiaotong University** in 2019. 
+I received my master degree from **Institue of Computing Technology, Chinese Academy of Science** in 2022, under the directing of Liang Li since 2019. 
+Now I am a PhD candidate student in the School of Artifical Intelligence, **Peking University**, under the directing of Yitao Liang since 2022. My research interest are neural networks and symbolic systems. 
+I’m also interested in graph neural network, neural architecture search. 
 
 
 
@@ -94,19 +99,56 @@ I’m Shaofei Cai (蔡少斐 in Chinese, shaofei.cai@vipl.ict.ac.cn). I received
   -----
 
 # 🎖 Honors and Awards
-- ACM International Collegiate Programming Contest (ACM-ICPC)
 
-  *2018.11* 🏅 Gold Medal (Rank: 6th/180), 43rd Asia Beijing Regional
-
-  *2018.05* 🏅 Gold Medal, National Xi'an Invitational
-
-- *2019.06* 👍🏻 Outstanding Student Award of Xi'an Jiaotong University. 
+| Date    | Award  | Project |
+| ---     | ---    | ---     |     
+| 2018.11 | **Gold Medal (Rank: 6th/180)** | 43rd Asia Beijing Regional (ACM-ICPC) |
+| 2018.05 | Gold Medal | National Xi'an Invitational (ACM-ICPC) |
+| 2019.06 | Outstanding Student Award | Xi'an Jiaotong University |
 
 # 📖 Educations
-- *2019.09 - 2022.06 (now)*, Master, Institute of Computing Technology, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing, China. 
-- *2015.09 - 2019.06*, Undergraduate, Software College, Xi'an Jiaotong University, Xi'an, China. 
+
+<div class='school-box'>
+<div><img src='images/pku.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2022.09 - 2026.06, PhD candidate
+
+School of Artifical Intelligence
+
+Peking University, Beijing
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/ucas.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2019.09 - 2022.06, Master
+
+Institute of Computing Technology, Chinese Academy of Sciences
+
+University of Chinese Academy of Sciences, Beijing
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/xjtu.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2015.09 - 2019.06, Undergraduate
+
+Software College
+
+Xi'an Jiaotong University, Xi'an
+</div>
+</div>
+
+<!-- <img src='images/ucas.jpg' alt="sym" width="100">
+*2019.09 - 2022.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing. 
+<img src='images/xjtu.png' alt="sym" width="100">
+*2015.09 - 2019.06*, Undergraduate, Software College, Xi'an Jiaotong University, Xi'an.  -->
 
 # 💻 Internships
 
-- *2020.10 - 2021.08*, Bytedance, Beijing. 
-  Computer Vision Intern of Image Generation Group, Douyin. 
+| Date    | Institution  | Group | Role | 
+| ---     | ---          | ---   | ---  |
+| 2022.06 - now | Beijing Institute for General Artificial Intelligence | Machine learning | Research Assistant |
+| 2020.10 - 2021.08 | Beijing Bytedance Technology Co. LTD | Image Generation | Computer Vision Intern |

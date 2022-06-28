@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shaofei Cai"
   avatar           : "images/avatar.png"
-  bio              : "Master's student at Institute of Computing Technology, Chinese Academy of Sciences. "
+  bio              : "PhD candidate student at the School of Artifical Intelligence, Peking University. "
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "1744260356@qq.com"
+  email            : "caishaofei@bigai.ai"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "https://www.zhihu.com/people/cai-shao-fei-76"
 
 
 # Reading Files
