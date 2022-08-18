@@ -28,6 +28,7 @@ I’m also interested in graph neural architecture search.
 
 
 # 🔥 News
+- *2022.08*: &nbsp;🎉🎉 Our paper ''DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing'' is accepted by the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023. 
 - *2022.03*: &nbsp;🎉🎉 Our paper ''Automatic Relation-aware Graph Network Proliferation'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2022 and is selected for an oral presentation. 
 - *2021.03*: &nbsp;🎉🎉 Our paper ''Rethinking Graph Neural Architecture Search from Message-Passing'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2021. 
 
@@ -61,6 +62,16 @@ I’m also interested in graph neural architecture search.
   [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/GNAS-MP) 
   
   -----
+  
+  - [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
+
+  Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
+
+  **WACV 2023** \|
+  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
+  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phycvgan/DyStyle)
+
+  -----
 
 - [Edge-featured Graph Neural Architecture Search](https://arxiv.org/pdf/2109.01356.pdf)
 
@@ -80,15 +91,6 @@ I’m also interested in graph neural architecture search.
 
   -----
 
-- [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
-
-  Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
-
-  Arxiv \|
-  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
-  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phycvgan/DyStyle)
-
-  -----
 
 - [IR-GAN: Image Manipulation with Linguistic Instruction by Increment Reasoning](https://vipl.ict.ac.cn/uploadfile/upload/2020122810513917.pdf)
 
