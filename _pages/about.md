@@ -63,7 +63,7 @@ I’m also interested in graph neural architecture search.
   
   -----
   
-  - [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
+- [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
 
   Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
 
