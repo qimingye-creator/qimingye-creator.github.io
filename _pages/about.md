@@ -59,7 +59,7 @@ Institue of Computing Technology, Chinese Academy of Science
 
   Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
   
-  ByteDance
+  Beijing Bytedance Technology Co. LTD
 
   **WACV 2023** \|
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
