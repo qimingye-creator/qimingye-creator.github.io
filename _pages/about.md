@@ -34,6 +34,16 @@ I’m also interested in graph neural architecture search.
 
 # 📝 Publications 
 
+- [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
+
+  Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
+
+  **WACV 2023** \|
+  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
+  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phycvgan/DyStyle)
+
+  -----
+
 <div class='paper-box'>
 <div class='paper-box-image'><div class="badge">CVPR 2022 (Oral)</div><img src='images/ARGNP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -63,15 +73,6 @@ I’m also interested in graph neural architecture search.
   
   -----
   
-- [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
-
-  Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
-
-  **WACV 2023** \|
-  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
-  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phycvgan/DyStyle)
-
-  -----
 
 - [Edge-featured Graph Neural Architecture Search](https://arxiv.org/pdf/2109.01356.pdf)
 
