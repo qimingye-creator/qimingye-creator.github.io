@@ -58,12 +58,14 @@ Institue of Computing Technology, Chinese Academy of Science
 - [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
 
   Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
+  
+  ByteDance
 
   **WACV 2023** \|
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
   [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phycvgan/DyStyle)
 
-  ByteDance
+
 
   -----
 
