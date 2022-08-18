@@ -42,6 +42,8 @@ I’m also interested in graph neural architecture search.
 
 **Shaofei Cai**, Liang Li, Xinzhe Han, Jiebo Luo, Zheng-jun Zha, Qingming Huang
 
+Institue of Computing Technology, Chinese Academy of Science
+
 **CVPR 2022** <span style="color:red">(Oral)</span> \| 
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2205-15678.html?view=bibtex) \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/ARGNP) \| 
@@ -61,11 +63,15 @@ I’m also interested in graph neural architecture search.
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
   [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phycvgan/DyStyle)
 
+  ByteDance
+
   -----
 
 - [Rethinking Graph Neural Architecture Search from Message-Passing](https://github.com)
   
   **Shaofei Cai**, Liang Li, Jincan Deng, Beichen Zhang, Zheng-Jun Zha, Li Su, Qingming Huang
+
+  Institue of Computing Technology, Chinese Academy of Science
 
   **CVPR 2021** \| 
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/cvpr/Cai0DZZ0H21.html?view=bibtex) \| 
@@ -78,6 +84,8 @@ I’m also interested in graph neural architecture search.
 
   **Shaofei Cai**, Liang Li, Xinzhe Han, Zheng-jun Zha, Qingming Huang
 
+  Institue of Computing Technology, Chinese Academy of Science
+
   Arxiv \|
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-01356.html?view=bibtex)
 
@@ -86,6 +94,8 @@ I’m also interested in graph neural architecture search.
 - [Semantic and Correlation Disentangled Graph Propagation for Multi-label Image Recognition](-)
 
   **Shaofei Cai**, Liang Li, Xinzhe Han, Qi Tian, Qingming Huang
+
+  Institue of Computing Technology, Chinese Academy of Science
 
   **TNNLS** (Under Review) \|
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)]()
@@ -96,6 +106,8 @@ I’m also interested in graph neural architecture search.
 - [IR-GAN: Image Manipulation with Linguistic Instruction by Increment Reasoning](https://vipl.ict.ac.cn/uploadfile/upload/2020122810513917.pdf)
 
   Zhenhuan Liu, Jincan Deng, Liang Li, **Shaofei Cai**, Qianqian Xu, Shuhui Wang, Qingming Huang
+
+  Institue of Computing Technology, Chinese Academy of Science
 
   **ACM MM 2020** <span style="color:red">(Oral)</span> \| 
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/mm/LiuDLCXWH20.html?view=bibtex)
