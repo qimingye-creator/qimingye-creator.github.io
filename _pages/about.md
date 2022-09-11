@@ -118,7 +118,7 @@ Institue of Computing Technology, Chinese Academy of Science
 
 # 🎖 Honors and Awards
 
-| Date    | Award  | Project |
+| Date    | Award  | Contest & Project |
 | ---     | ---    | ---     |     
 | 2018.11 | **Gold Medal (Rank: 6th/180)** | 43rd Asia Beijing Regional (ACM-ICPC) |
 | 2018.05 | Gold Medal | National Xi'an Invitational (ACM-ICPC) |
