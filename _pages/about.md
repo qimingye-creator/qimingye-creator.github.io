@@ -19,11 +19,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I’m Shaofei Cai (蔡少斐 in Chinese, <u>caishaofei@stu.pku.edu.cn</u>). 
-Now I am a PhD student in the School of Artifical Intelligence, **Peking University**, under the directing of Yitao Liang since 2022. 
+Now I am a PhD student in the School of Intelligence Science and Technology, **Peking University**, under the directing of Yitao Liang since 2022. 
 I received my bachelor degree from **Xi'an Jiaotong University** in 2019. 
 Besides, I received my master degree from **Institue of Computing Technology, Chinese Academy of Science** in 2022, under the directing of Liang Li since 2019. 
-My research interest are neural networks and symbolic systems. 
-I’m also interested in computer vision and graph neural architecture search. 
+My research interest are computer vision and decision making. 
+I’m also interested in graph neural architecture search. 
 
 
 
