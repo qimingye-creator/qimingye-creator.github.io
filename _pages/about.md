@@ -55,6 +55,17 @@ Institue of Computing Technology, Chinese Academy of Science
 </div>
 </div>
 
+
+- [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
+
+  Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
+  
+  School of Intelligence Science and Technology, Peking University
+  
+  **Arxiv**
+  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
+  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/MC-Planner)
+
 - [Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction](https://arxiv.org/pdf/2301.10034.pdf)
 
   **Shaofei Cai**, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
