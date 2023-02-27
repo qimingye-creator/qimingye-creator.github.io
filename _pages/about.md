@@ -28,6 +28,7 @@ I’m also interested in graph neural architecture search.
 
 
 # 🔥 News
+- *2023.03*: &nbsp;🎉🎉 Our paper ''Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2023.
 - *2022.08*: &nbsp;🎉🎉 Our paper ''DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing'' is accepted by the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023. 
 - *2022.03*: &nbsp;🎉🎉 Our paper ''Automatic Relation-aware Graph Network Proliferation'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2022 and is selected for an oral presentation. 
 - *2021.03*: &nbsp;🎉🎉 Our paper ''Rethinking Graph Neural Architecture Search from Message-Passing'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2021. 
@@ -72,7 +73,7 @@ Institue of Computing Technology, Chinese Academy of Science
   
   School of Intelligence Science and Technology, Peking University
   
-  **Arxiv**
+  **CVPR 2023**
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
   [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/MC-Controller)
 
