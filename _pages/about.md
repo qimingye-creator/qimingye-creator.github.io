@@ -142,7 +142,7 @@ Institue of Computing Technology, Chinese Academy of Science
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">Under Review</div><img src='images/scdgc.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">Under Review</div><img src='images/SCDGC.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Semantic and Correlation Disentangled Graph Propagation for Multi-label Image Recognition](-)
