@@ -36,7 +36,41 @@ I’m also interested in graph neural architecture search.
 # 📝 Publications 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">CVPR 2022 (Oral)</div><img src='images/ARGNP.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/deps.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
+
+Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
+  
+School of Intelligence Science and Technology, Peking University
+  
+**Arxiv**
+[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
+[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/MC-Planner) \| Open World | Minecraft
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">CVPR 2023</div><img src='images/MC-Controller.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction](https://arxiv.org/pdf/2301.10034.pdf)
+
+**Shaofei Cai**, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
+
+School of Intelligence Science and Technology, Peking University
+
+**CVPR 2023** \| 
+[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
+[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/MC-Controller) \| Open World | Minecraft
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">CVPR 2022</div><img src='images/ARGNP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Automatic Relation-aware Graph Network Proliferation](https://arxiv.org/abs/2205.15678)
@@ -49,94 +83,99 @@ Institue of Computing Technology, Chinese Academy of Science
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2205-15678.html?view=bibtex) \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/ARGNP) \| 
 [![](https://img.shields.io/badge/video-red?style=plastic&logo=airplayvideo)](https://0633e92166c0a27ea1aa-ab47878a9e45eb9e2f15be38a59f867e.ssl.cf1.rackcdn.com/PJNEQWFQ-2100498-1663000-Upload-1652882468.mp4) \| 
-[![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)](https://www.conferenceharvester.com/uploads/harvester/presentations/PJNEQWFQ/PJNEQWFQ-PDF-2100498-1663000-1-PDF(1).pdf)
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+[![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)](https://www.conferenceharvester.com/uploads/harvester/presentations/PJNEQWFQ/PJNEQWFQ-PDF-2100498-1663000-1-PDF(1).pdf) \| GNAS
 
 </div>
 </div>
 
 
-- [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
 
-  Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
-  
-  School of Intelligence Science and Technology, Peking University
-  
-  **Arxiv**
-  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
-  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/MC-Planner)
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">CVPR 2021</div><img src='images/GNAS.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 
-- [Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction](https://arxiv.org/pdf/2301.10034.pdf)
+[Rethinking Graph Neural Architecture Search from Message-Passing](https://github.com)
 
-  **Shaofei Cai**, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
-  
-  School of Intelligence Science and Technology, Peking University
-  
-  **CVPR 2023**
-  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
-  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/MC-Controller)
+**Shaofei Cai**, Liang Li, Jincan Deng, Beichen Zhang, Zheng-Jun Zha, Li Su, Qingming Huang
 
-- [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
+Institue of Computing Technology, Chinese Academy of Science
 
-  Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
-  
+  **CVPR 2021** \| 
+  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/cvpr/Cai0DZZ0H21.html?view=bibtex) \| 
+  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/GNAS-MP) \| GNAS
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">WACV 2023</div><img src='images/dystyle.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
+
+ Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
+
   Beijing Bytedance Technology Co. LTD
 
   **WACV 2023** \|
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2301-10034.html?view=bibtex) \| 
-  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phycvgan/DyStyle)
+  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phycvgan/DyStyle) \| GAN
+
+</div>
+</div>
 
 
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">ACM MM 2020</div><img src='images/irgan.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 
-  -----
+[IR-GAN: Image Manipulation with Linguistic Instruction by Increment Reasoning](https://vipl.ict.ac.cn/uploadfile/upload/2020122810513917.pdf)
 
-- [Rethinking Graph Neural Architecture Search from Message-Passing](https://github.com)
-  
-  **Shaofei Cai**, Liang Li, Jincan Deng, Beichen Zhang, Zheng-Jun Zha, Li Su, Qingming Huang
+Zhenhuan Liu, Jincan Deng, Liang Li, **Shaofei Cai**, Qianqian Xu, Shuhui Wang, Qingming Huang
 
-  Institue of Computing Technology, Chinese Academy of Science
+Institue of Computing Technology, Chinese Academy of Science
 
-  **CVPR 2021** \| 
-  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/cvpr/Cai0DZZ0H21.html?view=bibtex) \| 
-  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/GNAS-MP) 
-  
-  -----
-  
+**ACM MM 2020** <span style="color:red">(Oral)</span> \| 
+[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/mm/LiuDLCXWH20.html?view=bibtex) \| GAN
 
-- [Edge-featured Graph Neural Architecture Search](https://arxiv.org/pdf/2109.01356.pdf)
+</div>
+</div>
 
-  **Shaofei Cai**, Liang Li, Xinzhe Han, Zheng-jun Zha, Qingming Huang
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">Under Review</div><img src='images/scdgc.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 
-  Institue of Computing Technology, Chinese Academy of Science
-
-  Arxiv \|
-  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-01356.html?view=bibtex)
-
-  -----
-
-- [Semantic and Correlation Disentangled Graph Propagation for Multi-label Image Recognition](-)
+[Semantic and Correlation Disentangled Graph Propagation for Multi-label Image Recognition](-)
 
   **Shaofei Cai**, Liang Li, Xinzhe Han, Qi Tian, Qingming Huang
 
   Institue of Computing Technology, Chinese Academy of Science
 
   **TNNLS** (Under Review) \|
-  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)]()
+[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)]() 
 
-  -----
+</div>
+</div>
 
 
-- [IR-GAN: Image Manipulation with Linguistic Instruction by Increment Reasoning](https://vipl.ict.ac.cn/uploadfile/upload/2020122810513917.pdf)
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/egnas.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 
-  Zhenhuan Liu, Jincan Deng, Liang Li, **Shaofei Cai**, Qianqian Xu, Shuhui Wang, Qingming Huang
+[Edge-featured Graph Neural Architecture Search](https://arxiv.org/pdf/2109.01356.pdf)
 
-  Institue of Computing Technology, Chinese Academy of Science
+**Shaofei Cai**, Liang Li, Xinzhe Han, Zheng-jun Zha, Qingming Huang
 
-  **ACM MM 2020** <span style="color:red">(Oral)</span> \| 
-  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/mm/LiuDLCXWH20.html?view=bibtex)
+Institue of Computing Technology, Chinese Academy of Science
 
-  -----
+Arxiv \|
+[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-01356.html?view=bibtex) \| GNAS
+
+</div>
+</div>
+
+
+
 
 # 🎖 Honors and Awards
 
