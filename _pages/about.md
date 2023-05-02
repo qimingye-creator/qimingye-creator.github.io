@@ -137,42 +137,6 @@ Institue of Computing Technology, Chinese Academy of Science
 
 **ACM MM 2020** <span style="color:red">(Oral)</span> \| 
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/mm/LiuDLCXWH20.html?view=bibtex) \| GAN
-<!-- 
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image'><div class="badge">Under Review</div><img src='images/SCDGC.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1"> -->
-
-<!-- [Semantic and Correlation Disentangled Graph Propagation for Multi-label Image Recognition](-)
-
-  **Shaofei Cai**, Liang Li, Xinzhe Han, Qi Tian, Qingming Huang
-
-  Institue of Computing Technology, Chinese Academy of Science
-
-  **TNNLS** (Under Review) \|
-[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)]()  -->
-
-<!-- </div>
-</div>
-
-
-<div class='paper-box'>
-<div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/egnas.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1"> -->
-
-<!-- [Edge-featured Graph Neural Architecture Search](https://arxiv.org/pdf/2109.01356.pdf)
-
-**Shaofei Cai**, Liang Li, Xinzhe Han, Zheng-jun Zha, Qingming Huang
-
-Institue of Computing Technology, Chinese Academy of Science
-
-Arxiv \|
-[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-01356.html?view=bibtex) \| GNAS -->
-
-<!-- </div>
-</div> -->
 
 
 
