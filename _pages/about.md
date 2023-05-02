@@ -189,9 +189,9 @@ Xi'an Jiaotong University, Xi'an
 <img src='images/xjtu.png' alt="sym" width="100">
 *2015.09 - 2019.06*, Undergraduate, Software College, Xi'an Jiaotong University, Xi'an.  -->
 
-# 💻 Internships
+<!-- # 💻 Internships
 
 | Date    | Institution  | Group | Role | 
 | ---     | ---          | ---   | ---  |
 | 2022.06 - now | Beijing Institute for General Artificial Intelligence | Machine learning | Research Assistant |
-| 2020.10 - 2021.08 | Beijing Bytedance Technology Co. LTD | Image Generation | Computer Vision Intern |
+| 2020.10 - 2021.08 | Beijing Bytedance Technology Co. LTD | Image Generation | Computer Vision Intern | -->
