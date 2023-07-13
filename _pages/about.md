@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-I am Shaofei Cai, also known as 蔡少斐 in Chinese. You can reach me at <u>caishaofei@stu.pku.edu.cn</u>. Currently, I am pursuing my Ph.D. under the supervision of Professor Yitao Liang at the School of Intelligence Science and Technology, **Peking University**, a journey I embarked on in 2022. Prior to this, I obtained my bachelor's degree from **Xi’an Jiaotong University** in 2019, followed by a master's degree from the **Institute of Computing Technology at the Chinese Academy of Sciences** in 2022, under the guidance of Professor Liang Li. My primary research interests lie in computer vision and decision-making. Additionally, I am intrigued by graph neural architecture search.
+I am Shaofei Cai, also known as 蔡少斐 in Chinese. You can reach me at <u>caishaofei@stu.pku.edu.cn</u>. Currently, I am pursuing my Ph.D. under the supervision of Professor Yitao Liang at the School of Intelligence Science and Technology, **Peking University**, a journey I embarked on in 2022. Prior to this, I obtained my bachelor's degree from **Xi’an Jiaotong University** in 2019, followed by a master's degree from the **Institute of Computing Technology at the Chinese Academy of Sciences** in 2022, under the guidance of Professor Liang Li. My primary research interests lie in computer vision and decision-making. **At present, I’m dedicated to building generally capable agents in open-world environments such as Minecraft.** Additionally, I am intrigued by graph neural architecture search.
 
 
 # 🔥 News
