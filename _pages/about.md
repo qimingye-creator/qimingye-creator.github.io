@@ -19,6 +19,9 @@ redirect_from:
 
 My research interest includes 3D object detection and 3D scene understanding.
 
+# 🎉 Dynamic
+
+
 # 🔥 News
 - *2023.07*: Create my homepage.
 
