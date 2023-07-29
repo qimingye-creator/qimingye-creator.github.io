@@ -11,11 +11,9 @@ Received my B.E degree in Automation from JiLin University, ChangChun, China(吉
 and now I am pursuing my AI phd in Xi'an jiaotong University, Xi'an, China(西安交通大学).
 now, My research interest focus on 3D scene understanding.
 
-# 🎉 Dynamic
-
 
 # 🔥 News
-- *2023.07*: Create my homepage.
+- *2023.07*: Finsh my first CVPR Challenge
 
 
 # 📖 Educations
