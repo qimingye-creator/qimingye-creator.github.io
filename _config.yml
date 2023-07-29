@@ -212,6 +212,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _thoughts
+  - scope:
+      path: ""
+      type: thoughts
+    values:
+      layout: single
+      author_profile: true
   # _teaching
   - scope:
       path: ""
