@@ -3,7 +3,7 @@ title: "CVPR2023 Challenge Occupancy Prediction总结"
 collection: thoughts
 type: "Undergraduate course"
 permalink: /thoughts/2023-07-thoughts
-venue: "University 1, Department"
+venue: ""
 date: 2023-07-29
 location: "City, Country"
 ---
@@ -12,7 +12,7 @@ location: "City, Country"
 
 # 前言
 
-![这是图片](/2023-07/rank.jpg "Magic Gardens")
+![这是图片](/_thoughts/2023-07/rank.jpg)
 
 第一次参加CVPR的比赛，前前后后大概花了2个多月的时间，虽然最后只得到第9名的成绩，但从后面的总结来看，如果做的好一点，
-应该是可以到第五左右的名次的，这里将总结文章放到了知乎上：[总结文章][https://zhuanlan.zhihu.com/p/638481909]。
+应该是可以到第五左右的名次的，这里将总结文章放到了知乎上:[CVPR2023 Occupancy Prediction比赛方案总结](https://zhuanlan.zhihu.com/p/638481909)。
