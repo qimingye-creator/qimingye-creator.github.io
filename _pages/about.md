@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-My research interest includes 3D object detection and 3D scene understanding.
+Received my B.E degree in Automation from JiLin University, ChangChun, China(吉林大学) in 2023 
+and now I am pursuing my AI phd in XJTU.
+now, My research interest focus on 3D scene understanding.
 
 # 🎉 Dynamic
 
