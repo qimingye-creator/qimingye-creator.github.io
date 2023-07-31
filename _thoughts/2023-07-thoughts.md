@@ -54,15 +54,6 @@ $$
 \mathcal L = \sum_{r\in R}||C_{gt} - C_{render}||^{2}
 $$
 
-## NeRF成功的关键以及问题
-
-NeRF的成功之一在于其利用神经网络表达能力强的特点，去建模空间信息，来获得空间中每个点的颜色和密度信息，最后利用体渲染来渲染图像，另一就是其提出的positional encoding，有效的解决了MLP表达对于高频信息缺少的问题。
-
-其问题主要如下：
-
-* 其对于Unbounded场景的表达是有问题的（虽然作者用NDC参数化了unbounded的场景）
-* 效率问题，原始NeRF效率很低
-* 具有模糊性，原始NeRF中采用光线的方式去建模，对于unbounded场景远处物体容易产生歧义。
 
 # NeRF与Occ
 
@@ -84,6 +75,36 @@ NeRF的成功之一在于其利用神经网络表达能力强的特点，去建�
 
 * 可以表达更高维度的信息：原来Occ的思路只是对某个分辨率进行监督，如果降低分辨率或者提高分辨率都会影响结果，但NeRF的思路，预测的本来就是每个点，理论上可以做到非常高的分辨率。
 
-# NeRF室外改进
+# NeRF问题与改进
 
-NeRF其实主要是对
+NeRF想要应用到Occ上至少需要解决以下问题和改进：
+
+**1、Generalization**
+
+![nerf泛化性缺点图](/images/thoughts/2023-07/nerf泛化性缺点图.png)
+
+原始的NeRF在泛化性上有一定的问题，在针对每个新场景的时候都需要重新训练，但在自动驾驶领域显然是不能接受的。另外，对于同一场景下，在训练和推理时也需要十分多的视角才能合成比较好的图像。
+
+* Yu, Alex, et al. “pixelNeRF: Neural Radiance Fields from One or Few Images.” 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, https://doi.org/10.1109/cvpr46437.2021.00455.
+
+**2、Efficiency**
+
+原始的NeRF只是单独渲染单个场景，都需要几个小时的训练时间，更不说要对多个场景进行学习了，难以学习
+
+* Fridovich-Keil, Sara, et al. “Plenoxels: Radiance Fields without Neural Networks.” 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, https://doi.org/10.1109/cvpr52688.2022.00542.
+
+
+**3、Ambiguity**
+
+最原始的NeRF其实主要是对像lego这种合成数据有比较好的效果，对于室外unbounded的场景，生成来说存在不一致性，简单的说，越远的景，在像素空间中有可能只占据一个像素点，单实际上在三维空间中占据很大一部分，如果简单的同近景同样处理，会产生歧义。
+
+
+* Zhang, Kai, et al. “NeRF++: Analyzing and Improving Neural Radiance Fields.” arXiv: Computer Vision and Pattern Recognition,arXiv: Computer Vision and Pattern Recognition, Oct. 2020.
+
+* Barron, Jonathan T., et al. “Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields.” 2021 IEEE/CVF International Conference on Computer Vision (ICCV), 2021, https://doi.org/10.1109/iccv48922.2021.00580.
+
+* Barron, Jonathan T., et al. “Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields.” 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, https://doi.org/10.1109/cvpr52688.2022.00539.
+
+# 最后的碎碎念
+
+这里的blog性质的记录，应该也没有什么人会看到，希望这些都会成为我读博路上的沉淀。
