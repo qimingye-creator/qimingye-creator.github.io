@@ -105,6 +105,10 @@ NeRF想要应用到Occ上至少需要解决以下问题和改进：
 
 * Barron, Jonathan T., et al. “Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields.” 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, https://doi.org/10.1109/cvpr52688.2022.00539.
 
+## 2023.07 PPT
+
+[Download paper here](http://academicpages.github.io/files/thoughts-2023.07.pdf)
+
 # 最后的碎碎念
 
 这里的blog性质的记录，应该也没有什么人会看到，希望这些都会成为我读博路上的沉淀。
