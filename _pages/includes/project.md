@@ -8,6 +8,7 @@
 - Achieve the "Data visualization Matplotlib" via DataWhale organization and award Excellent learner and Excellent leader.  [\[Certificate 1\]](https://drive.google.com/file/d/1mdfHNli2tn9dJ5ZHGkvX52I_L8hu7TB-/view?usp=sharing), [\[Certificate 2\]](https://drive.google.com/file/d/1s7uJt0e8tvKwxx4j_OJun9swY1qI5XSj/view?usp=sharing),  [\[Note\]](https://www.yangsuoly.com/2022/01/11/Fantastic-Matplotlib/)
 
 ## 💡 Open-Source Projects
+- [whale-quant](http://www.yangsuoly.com/WhaleQuant/): A quantitative open source course, which can help people quickly master quantitative financial knowledge and the ability to use Python for quantitative development, with DataWhale open source organization. [\[Link\]](https://github.com/datawhalechina/whale-quant)
 - [Undingable-Optimization](https://github.com/datawhalechina/undingable-optimization): A optimization methods tutorial for elucidating the theory and algorithm implementation of operation research and optimization algorithms with DataWhale open source organization. [\[Link\]](http://www.yangsuoly.com/datawhale-operational-research/#/)
 - [Python Machine Learning](https://www.heywhale.com/home/activity/detail/6188defe7b6f7d001813a3e9/content/4): A briefly practical course for implementing simple machine learning in Python.
 - Write a tutorial [*100 questions take you to get started with the basic opretions of Python language*](https://www.heywhale.com/mw/project/621c9e28e3d3a00017a4cc5a) on the [HeyWhale](https://www.heywhale.com/home) platform, and obtain 4k+ reads and 160+ forks.

@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Keqin Guan"
-  avatar           : "images/YangSu.jpeg"
-  bio              : "Xiamen University"
-  location         : "Xiamen, China"
+  avatar           : "images/YangSu.jpg"
+  bio              : "Tsinghua University"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=xLYHeSUAAAAJ"

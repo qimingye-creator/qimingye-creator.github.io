@@ -41,7 +41,7 @@ Gong, X., **Guan, K.**, Chen, L., Liu, T. \*, Fu, C. (2021)
 吴育辉，田亚男，管柯琴, 碳信息披露与债券信用利差，管理科学（CSSCI 检索，管理科学 A 级重要期刊，Impact Factor：1.020）.
 </div>
 <div class='paper-box-text' markdown="1">
-- Gong, X., Li, M., **Guan, K.**, Sun, C. (2023). Climate change attention and carbon futures return prediction. Journal of Futures Markets, Forthcoming.
+- Gong, X., Li, M., **Guan, K.**, Sun, C. (2023). Climate change attention and carbon futures return prediction. Journal of Futures Markets, 43, 1261–1288
 </div>
 
 

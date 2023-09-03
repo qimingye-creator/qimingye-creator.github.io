@@ -1,5 +1,6 @@
 # 🎖 HONORS AND AWARDS
 ## 🏅 Scholarship
+- *2023*, Anta Graduate Scholarship, Xiamen University.
 - *2022*, Hong Xin Graduate Scholarship, Xiamen University. [\[Certificate\]](https://drive.google.com/file/d/1kqxGSojIxLLWrJYBdyEIA80-l-i0UgZf/view?usp=sharing)
 - *2021*, China National Scholarship (Top 0.2% in Chinese students). [\[Certificate\]](https://drive.google.com/file/d/1kqxGSojIxLLWrJYBdyEIA80-l-i0UgZf/view?usp=sharing)
 - *2021*, Liu YuBin Graduate Scholarship, Xiamen University.
