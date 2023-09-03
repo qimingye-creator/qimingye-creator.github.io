@@ -75,8 +75,6 @@ Huang, W., **Guan, K.\***, Hu, Y.
 </div>
 </div>
 
----
-
 ## 📖 Recent work
 
 <div class='paper-box-text' markdown="1">
