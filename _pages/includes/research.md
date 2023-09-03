@@ -75,11 +75,6 @@ Huang, W., **Guan, K.\***, Hu, Y.
 </div>
 </div>
 
-## 📖 Co-authored papers
-
-<div class='paper-box-text' markdown="1">
-- Attention to climate change and carbon returns prediction, Gong, X.\*, Li, M., **Guan, K.**, International Journal of Forecasting (ABS 3-star), Submit to Journal.
-</div>
 ---
 
 ## 📖 Recent work
