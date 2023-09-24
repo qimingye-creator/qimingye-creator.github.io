@@ -41,7 +41,7 @@ Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
   
 School of Intelligence Science and Technology, Peking University
   
-**Neurips 2023**<span style="color:red">(ICML 2023 TEACH Workshop Best Paper)</span> 
+**Neurips 2023**, <span style="color:red">ICML 2023 TEACH Workshop Best Paper</span> 
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/MC-Planner) \| Open World | Minecraft
 
