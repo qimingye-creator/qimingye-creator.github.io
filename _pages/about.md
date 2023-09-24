@@ -26,7 +26,7 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 - *2023.08*: &nbsp;🎉🎉 Our paper ''Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents'' has won the **best paper prize** in ICML 2023 TEACH workshop.
 - *2023.03*: &nbsp;🎉🎉 Our paper ''Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2023.
 - *2022.08*: &nbsp;🎉🎉 Our paper ''DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing'' is accepted by the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023. 
-- *2022.03*: &nbsp;🎉🎉 Our paper ''Automatic Relation-aware Graph Network Proliferation'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2022 and is selected for an oral presentation. 
+- *2022.03*: &nbsp;🎉🎉 Our paper ''Automatic Relation-aware Graph Network Proliferation'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2022 and is selected for an **oral presentation**. 
 - *2021.03*: &nbsp;🎉🎉 Our paper ''Rethinking Graph Neural Architecture Search from Message-Passing'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2021. 
 
 # 📝 Publications 
@@ -41,7 +41,7 @@ Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
   
 School of Intelligence Science and Technology, Peking University
   
-**Neurips 2023**, <span style="color:red">ICML 2023 TEACH Workshop Best Paper</span> 
+**Neurips 2023**, <span style="color:red">ICML 2023 TEACH Workshop Best Paper</span> \|
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/MC-Planner)
 
@@ -164,7 +164,7 @@ Institue of Computing Technology, Chinese Academy of Science
 Institue of Computing Technology, Chinese Academy of Science
 
 Arxiv \|
-[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-01356.html?view=bibtex) \| GNAS
+[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-01356.html?view=bibtex)
 
 </div>
 </div>
