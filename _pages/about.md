@@ -32,7 +32,7 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 # 📝 Publications 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/deps.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">Neurips 2023, ICML 2023 TEACH Workshop Best Paper</div><img src='images/deps.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
