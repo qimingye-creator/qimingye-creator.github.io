@@ -32,6 +32,22 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 # 📝 Publications 
 
 <div class='paper-box'>
+<div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/GROOT.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[GROOT: Learning to Follow Instructions by Watching Gameplay Videos]()
+
+**Shaofei Cai**, Bowei Zhang, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
+  
+School of Intelligence Science and Technology, Peking University
+  
+**Arxiv** 
+
+</div>
+</div>
+
+
+<div class='paper-box'>
 <div class='paper-box-image'><div class="badge">Neurips 2023, ICML 2023 TEACH Workshop Best Paper</div><img src='images/deps.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
