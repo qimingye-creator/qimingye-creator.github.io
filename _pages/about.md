@@ -23,7 +23,7 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 
 # 🔥 News
 - *2023.09*: &nbsp;🎉🎉 Our paper ''Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents'' has been accepted by Neural Information Processing Systems (Neurips) 2023.
-- *2023.08*: &nbsp;🎉🎉 Our paper ''Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents'' has won the **best paper prize** in ICML 2023 TEACH workshop.
+- *2023.08*: &nbsp;🎉🎉 Our paper ''Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents'' has won the **best paper award** in ICML 2023 TEACH workshop.
 - *2023.03*: &nbsp;🎉🎉 Our paper ''Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2023.
 - *2022.08*: &nbsp;🎉🎉 Our paper ''DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing'' is accepted by the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023. 
 - *2022.03*: &nbsp;🎉🎉 Our paper ''Automatic Relation-aware Graph Network Proliferation'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2022 and is selected for an **oral presentation**. 
@@ -35,20 +35,23 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 <div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/GROOT.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[GROOT: Learning to Follow Instructions by Watching Gameplay Videos]()
+[GROOT: Learning to Follow Instructions by Watching Gameplay Videos](https://craftjarvis-groot.github.io/)
 
 **Shaofei Cai**, Bowei Zhang, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
   
 School of Intelligence Science and Technology, Peking University
   
-**Arxiv** 
+**Arxiv** \|
+[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://arxiv.org/abs/2310.08235) \| 
+[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/GROOT) \|
+[![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)](https://craftjarvis-groot.github.io/) 
 
 </div>
 </div>
 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">Neurips 2023, ICML 2023 TEACH Workshop Best Paper</div><img src='images/deps.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">Neurips 2023</div><img src='images/deps.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
@@ -56,8 +59,10 @@ School of Intelligence Science and Technology, Peking University
 Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
   
 School of Intelligence Science and Technology, Peking University
-  
-**Neurips 2023**, <span style="color:red">ICML 2023 TEACH Workshop Best Paper</span> \|
+
+<span style="color:red">ICML 2023 TEACH Workshop Best Paper Award</span>
+
+**Neurips 2023** \|
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/MC-Planner)
 
@@ -91,7 +96,9 @@ School of Intelligence Science and Technology, Peking University
 
 Institue of Computing Technology, Chinese Academy of Science
 
-**CVPR 2022** <span style="color:red">(Oral)</span> \| 
+<span style="color:red">Oral Presentation</span>
+
+**CVPR 2022**  \| 
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2205-15678.html?view=bibtex) \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/ARGNP) \| 
 [![](https://img.shields.io/badge/video-red?style=plastic&logo=airplayvideo)](https://0633e92166c0a27ea1aa-ab47878a9e45eb9e2f15be38a59f867e.ssl.cf1.rackcdn.com/PJNEQWFQ-2100498-1663000-Upload-1652882468.mp4) \| 
@@ -146,7 +153,9 @@ Zhenhuan Liu, Jincan Deng, Liang Li, **Shaofei Cai**, Qianqian Xu, Shuhui Wang, 
 
 Institue of Computing Technology, Chinese Academy of Science
 
-**ACM MM 2020** <span style="color:red">(Oral)</span> \| 
+<span style="color:red">Oral Presentation</span>
+
+**ACM MM 2020**  \| 
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/mm/LiuDLCXWH20.html?view=bibtex)
 
 </div>
