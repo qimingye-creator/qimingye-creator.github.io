@@ -48,7 +48,7 @@
     flex-wrap: wrap;
     border-bottom: 1px hsl(0, 0%, 94%) solid;
     padding: 0.75em 0 0.75em 0;
-    font-family: serif, Google Fonts, sans-serif;
+    
     .school-box-image{
         justify-content: center;
         display: flex;
@@ -59,13 +59,13 @@
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
-        font-family: serif, Google Fonts, sans-serif;
+        
     }
     
     .school-box-text{
         max-width: 100%;
         order: 1;
-        font-family: serif, Google Fonts, sans-serif;
+        
     }
     
     @include breakpoint($medium) {
@@ -74,7 +74,7 @@
             min-width: 200px;
             max-width: 40%;
             order: 1;
-            font-family: serif, Google Fonts, sans-serif;
+            
         }
         
         .school-box-text{
@@ -82,7 +82,7 @@
             padding-left: 2em;
             max-width: 60%;
             order: 2;
-            font-family: serif, Google Fonts, sans-serif;
+            
         }
 
     }
@@ -96,7 +96,7 @@
     flex-wrap: wrap;
     border-bottom: 1px hsl(0, 0%, 94%) solid;
     padding: 2em 0 2em 0;
-    font-family: serif, Google Fonts, sans-serif;
+    
     
 
     .paper-box-image{
@@ -109,13 +109,13 @@
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
-        font-family: serif, Google Fonts, sans-serif;
+        
     }
     
     .paper-box-text{
         max-width: 100%;
         order: 1;
-        font-family: serif, Google Fonts, sans-serif;
+        
     }
     
     @include breakpoint($medium) {
@@ -124,7 +124,7 @@
             min-width: 200px;
             max-width: 40%;
             order: 1;
-            font-family: serif, Google Fonts, sans-serif;
+            
         }
         
         .paper-box-text{
@@ -132,7 +132,7 @@
             padding-left: 2em;
             max-width: 60%;
             order: 2;
-            font-family: serif, Google Fonts, sans-serif;
+            
         }
 
     }
@@ -148,7 +148,7 @@ h1:before, .anchor:before {
     width: 0; 
     height: $scroll_offset; 
     margin-top: -$scroll_offset;
-    font-family: serif, Google Fonts, sans-serif;
+    
 }
 
 .badge {
@@ -160,5 +160,5 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
-    font-family: serif, Google Fonts, sans-serif;
+    
 }
