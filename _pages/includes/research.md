@@ -52,11 +52,11 @@ Gong, X., **Guan, K.**, Chen, L., Liu, T. \*, Fu, C. (2021)
 </div>
 
 <div class='paper-box-text' markdown="1">
-- Wu, Y., Tian, Y., **Guan, K.** (2022), Carbon Information Disclosure and Bond Credit Spreads, [[Link]](http://glkx.hit.edu.cn/glkxcn/ch/reader/view_abstract.aspx?file_no=202206092&flag=1) Journal of Management Science (Chinese).\\
+- Wu, Y., Tian, Y., **Guan, K.** (2022), [Carbon Information Disclosure and Bond Credit Spreads](http://glkx.hit.edu.cn/glkxcn/ch/reader/view_abstract.aspx?file_no=202206092&flag=1). Journal of Management Science (Chinese).\\
 吴育辉，田亚男，管柯琴, 碳信息披露与债券信用利差，管理科学（CSSCI 检索，管理科学 A 级重要期刊，Impact Factor：1.020）.
 </div>
 <div class='paper-box-text' markdown="1">
-- Gong, X., Li, M., **Guan, K.**, Sun, C. (2023). Climate change attention and carbon futures return prediction. Journal of Futures Markets, 43, 1261–1288. [[Link]](https://doi.org/10.1002/fut.22443)
+- Gong, X., Li, M., **Guan, K.**, Sun, C. (2023). [Climate change attention and carbon futures return prediction](https://doi.org/10.1002/fut.22443). Journal of Futures Markets, 43, 1261–1288.
 </div>
 
 
