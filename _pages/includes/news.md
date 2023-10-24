@@ -1,4 +1,5 @@
 # 🔥 News
+- *2023.10*: My Paper *A new hybrid deep learning model for monthly oil prices forecasting* is accepted by *Energy Economics*, a leading journal in Energy Finance with ABS-3 star!!
 - *2023.09*: 🎉🎉  I finally become a student of Tsinghua University, Congradulations!
 - *2023.05*: My another collaborative paper “Climate change attention and carbon futures return prediction” has been accepted by *Journal of Futures Markets*!
 - *2023.02*: My collaborative paper [Carbon Information Disclosure and Bond Credit Spreads](http://glkx.hit.edu.cn/glkxcn/ch/reader/view_abstract.aspx?file_no=202206092&flag=1) is published on *Journal of Management Science* (Chinese)!

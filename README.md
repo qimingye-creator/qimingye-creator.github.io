@@ -51,7 +51,7 @@ Some examples:
     1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
         ```html
         <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
+        ```
         > Q: How to get the google scholar paper ID?   
         > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
 1. Your page will be published at `https://USERNAME.github.io`.
@@ -69,4 +69,4 @@ Some examples:
 
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
 - AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License. 
