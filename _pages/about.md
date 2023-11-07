@@ -36,8 +36,6 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 
 **Shaofei Cai**, Bowei Zhang, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
   
-School of Intelligence Science and Technology, Peking University
-  
 **Arxiv** \|
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://arxiv.org/abs/2310.08235) \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/GROOT) \|
@@ -54,8 +52,6 @@ School of Intelligence Science and Technology, Peking University
 [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
 
 Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
-  
-School of Intelligence Science and Technology, Peking University
 
 <span style="color:red">ICML 2023 TEACH Workshop Best Paper Award</span>
 
@@ -74,8 +70,6 @@ School of Intelligence Science and Technology, Peking University
 
 **Shaofei Cai**, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
 
-School of Intelligence Science and Technology, Peking University
-
 **CVPR 2023** \| 
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/MC-Controller) 
@@ -90,8 +84,6 @@ School of Intelligence Science and Technology, Peking University
 [Automatic Relation-aware Graph Network Proliferation](https://arxiv.org/abs/2205.15678)
 
 **Shaofei Cai**, Liang Li, Xinzhe Han, Jiebo Luo, Zheng-jun Zha, Qingming Huang
-
-Institue of Computing Technology, Chinese Academy of Science
 
 <span style="color:red">Oral Presentation</span>
 
@@ -114,8 +106,6 @@ Institue of Computing Technology, Chinese Academy of Science
 
 **Shaofei Cai**, Liang Li, Jincan Deng, Beichen Zhang, Zheng-Jun Zha, Li Su, Qingming Huang
 
-Institue of Computing Technology, Chinese Academy of Science
-
   **CVPR 2021** \| 
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/cvpr/Cai0DZZ0H21.html?view=bibtex) \| 
   [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/GNAS-MP) 
@@ -130,8 +120,6 @@ Institue of Computing Technology, Chinese Academy of Science
 [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
 
  Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
-
-  Beijing Bytedance Technology Co. LTD
 
   **WACV 2023** \|
   [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2301-10034.html?view=bibtex) \| 
@@ -148,8 +136,6 @@ Institue of Computing Technology, Chinese Academy of Science
 
 Zhenhuan Liu, Jincan Deng, Liang Li, **Shaofei Cai**, Qianqian Xu, Shuhui Wang, Qingming Huang
 
-Institue of Computing Technology, Chinese Academy of Science
-
 <span style="color:red">Oral Presentation</span>
 
 **ACM MM 2020**  \| 
@@ -159,17 +145,15 @@ Institue of Computing Technology, Chinese Academy of Science
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">Under Review</div><img src='images/SCDGC.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">TNNLS 2023</div><img src='images/SCDGC.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Semantic and Correlation Disentangled Graph Propagation for Multi-label Image Recognition](-)
 
   **Shaofei Cai**, Liang Li, Xinzhe Han, Qi Tian, Qingming Huang
 
-  Institue of Computing Technology, Chinese Academy of Science
 
-  **TNNLS** (Under Review) \|
-[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)]() 
+  **IEEE Trans. Neural Netw. Learn. Syst. (TNNLS 2023)**
 
 </div>
 </div>
@@ -182,8 +166,6 @@ Institue of Computing Technology, Chinese Academy of Science
 [Edge-featured Graph Neural Architecture Search](https://arxiv.org/pdf/2109.01356.pdf)
 
 **Shaofei Cai**, Liang Li, Xinzhe Han, Zheng-jun Zha, Qingming Huang
-
-Institue of Computing Technology, Chinese Academy of Science
 
 Arxiv \|
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-01356.html?view=bibtex)
