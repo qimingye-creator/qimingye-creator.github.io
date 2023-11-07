@@ -117,6 +117,21 @@ Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
 <div class='paper-box-image'><div class="badge">WACV 2023</div><img src='images/dystyle.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">TNNLS 2023</div><img src='images/SCDGC.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Semantic and Correlation Disentangled Graph Propagation for Multi-label Image Recognition](-)
+
+  **Shaofei Cai**, Liang Li, Xinzhe Han, Qi Tian, Qingming Huang
+
+
+  **IEEE Trans. Neural Netw. Learn. Syst. (TNNLS 2023)**
+
+</div>
+</div>
+
+
 [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
 
  Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
@@ -144,19 +159,6 @@ Zhenhuan Liu, Jincan Deng, Liang Li, **Shaofei Cai**, Qianqian Xu, Shuhui Wang, 
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-image'><div class="badge">TNNLS 2023</div><img src='images/SCDGC.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[Semantic and Correlation Disentangled Graph Propagation for Multi-label Image Recognition](-)
-
-  **Shaofei Cai**, Liang Li, Xinzhe Han, Qi Tian, Qingming Huang
-
-
-  **IEEE Trans. Neural Netw. Learn. Syst. (TNNLS 2023)**
-
-</div>
-</div>
 
 
 <div class='paper-box'>
