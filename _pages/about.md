@@ -113,9 +113,6 @@ Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-image'><div class="badge">WACV 2023</div><img src='images/dystyle.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
 
 <div class='paper-box'>
 <div class='paper-box-image'><div class="badge">TNNLS 2023</div><img src='images/SCDGC.png' alt="sym" width="100%"></div>
@@ -130,6 +127,12 @@ Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
 
 </div>
 </div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">WACV 2023</div><img src='images/dystyle.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+
 
 
 [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
