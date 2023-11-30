@@ -29,17 +29,38 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 # 📝 Publications 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/GROOT.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">arxiv</div><img src='images/GROOT.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[GROOT: Learning to Follow Instructions by Watching Gameplay Videos](https://craftjarvis-groot.github.io/)
+**GROOT: Learning to Follow Instructions by Watching Gameplay Videos**
 
 **Shaofei Cai**, Bowei Zhang, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
   
-**Arxiv** \|
-[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://arxiv.org/abs/2310.08235) \| 
-[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/GROOT) \|
-[![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)](https://craftjarvis-groot.github.io/) 
+**arxiv** \|
+[Paper](https://arxiv.org/abs/2310.08235) \|
+[Cite](https://dblp.org/rec/journals/corr/abs-2310-08235.html?view=bibtex) \| 
+[Code](https://github.com/CraftJarvis/GROOT) \|
+[Page](https://craftjarvis-groot.github.io/) \|
+[Twitter](https://twitter.com/jeasinema/status/1712526192665047493?s=20)
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">arxiv</div><img src='images/jarvis-1.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models**
+
+
+Zihao Wang, **Shaofei Cai**, Anji Liu, Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, Xiaojian Ma, Yitao Liang
+  
+**arxiv** \|
+[Paper](https://arxiv.org/pdf/2311.05997.pdf) \|
+[Cite](https://arxiv.org/abs/2310.08235) \| 
+[Code](https://github.com/CraftJarvis/GROOT) \|
+[Page](https://craftjarvis-jarvis1.github.io/) \|
+[Twitter](https://twitter.com/jeasinema/status/1723900032653643796) 
 
 </div>
 </div>
@@ -49,15 +70,16 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 <div class='paper-box-image'><div class="badge">Neurips 2023</div><img src='images/deps.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
+**Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**
 
 Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
 
 <span style="color:red">ICML 2023 TEACH Workshop Best Paper Award</span>
 
 **Neurips 2023** \|
-[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
-[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/MC-Planner)
+[Paper](https://arxiv.org/pdf/2302.01560.pdf) \|
+[Cite](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
+[Code](https://github.com/CraftJarvis/MC-Planner)
 
 </div>
 </div>
@@ -66,13 +88,14 @@ Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
 <div class='paper-box-image'><div class="badge">CVPR 2023</div><img src='images/MC-Controller.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction](https://arxiv.org/pdf/2301.10034.pdf)
+**Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction**
 
 **Shaofei Cai**, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
 
 **CVPR 2023** \| 
-[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
-[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/CraftJarvis/MC-Controller) 
+[Paper](https://arxiv.org/pdf/2301.10034.pdf) \|
+[Cite](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
+[Code](https://github.com/CraftJarvis/MC-Controller) 
 
 </div>
 </div>
@@ -81,17 +104,18 @@ Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
 <div class='paper-box-image'><div class="badge">CVPR 2022</div><img src='images/ARGNP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Automatic Relation-aware Graph Network Proliferation](https://arxiv.org/abs/2205.15678)
+**Automatic Relation-aware Graph Network Proliferation**
 
 **Shaofei Cai**, Liang Li, Xinzhe Han, Jiebo Luo, Zheng-jun Zha, Qingming Huang
 
 <span style="color:red">Oral Presentation</span>
 
 **CVPR 2022**  \| 
-[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2205-15678.html?view=bibtex) \| 
-[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/ARGNP) \| 
-[![](https://img.shields.io/badge/video-red?style=plastic&logo=airplayvideo)](https://0633e92166c0a27ea1aa-ab47878a9e45eb9e2f15be38a59f867e.ssl.cf1.rackcdn.com/PJNEQWFQ-2100498-1663000-Upload-1652882468.mp4) \| 
-[![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)](https://www.conferenceharvester.com/uploads/harvester/presentations/PJNEQWFQ/PJNEQWFQ-PDF-2100498-1663000-1-PDF(1).pdf) 
+[Paper](https://arxiv.org/abs/2205.15678) \|
+[Cite](https://dblp.org/rec/journals/corr/abs-2205-15678.html?view=bibtex) \| 
+[Code](https://github.com/phython96/ARGNP) \| 
+[Video](https://0633e92166c0a27ea1aa-ab47878a9e45eb9e2f15be38a59f867e.ssl.cf1.rackcdn.com/PJNEQWFQ-2100498-1663000-Upload-1652882468.mp4) \| 
+[Poster](https://www.conferenceharvester.com/uploads/harvester/presentations/PJNEQWFQ/PJNEQWFQ-PDF-2100498-1663000-1-PDF(1).pdf) 
 
 </div>
 </div>
@@ -102,13 +126,14 @@ Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
 <div class='paper-box-image'><div class="badge">CVPR 2021</div><img src='images/GNAS.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Rethinking Graph Neural Architecture Search from Message-Passing](https://github.com)
+**Rethinking Graph Neural Architecture Search from Message-Passing**
 
 **Shaofei Cai**, Liang Li, Jincan Deng, Beichen Zhang, Zheng-Jun Zha, Li Su, Qingming Huang
 
   **CVPR 2021** \| 
-  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/cvpr/Cai0DZZ0H21.html?view=bibtex) \| 
-  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phython96/GNAS-MP) 
+  [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cai_Rethinking_Graph_Neural_Architecture_Search_From_Message-Passing_CVPR_2021_paper.pdf) \|
+  [Cite](https://dblp.org/rec/conf/cvpr/Cai0DZZ0H21.html?view=bibtex) \| 
+  [Code](https://github.com/phython96/GNAS-MP) 
 
 </div>
 </div>
@@ -118,12 +143,14 @@ Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
 <div class='paper-box-image'><div class="badge">TNNLS 2023</div><img src='images/SCDGC.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Semantic and Correlation Disentangled Graph Propagation for Multi-label Image Recognition](-)
+**Semantic and Correlation Disentangled Graph Propagation for Multi-label Image Recognition**
 
   **Shaofei Cai**, Liang Li, Xinzhe Han, Qi Tian, Qingming Huang
 
 
-  **IEEE Trans. Neural Netw. Learn. Syst. (TNNLS 2023)**
+  **IEEE Trans. Neural Netw. Learn. Syst. (TNNLS 2023)** \|
+  Paper \|
+  Cite 
 
 </div>
 </div>
@@ -135,13 +162,14 @@ Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
 
 
 
-[DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/abs/2109.10737)
+**DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing**
 
  Bingchuan Li*, **Shaofei Cai\***, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi
 
-  **WACV 2023** \|
-  [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2301-10034.html?view=bibtex) \| 
-  [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/phycvgan/DyStyle) 
+**WACV 2023** \|
+[Paper](https://arxiv.org/abs/2109.10737) \|
+[Cite](https://dblp.org/rec/journals/corr/abs-2301-10034.html?view=bibtex) \| 
+[Code](https://github.com/phycvgan/DyStyle) 
 </div>
 </div>
 
@@ -150,14 +178,15 @@ Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
 <div class='paper-box-image'><div class="badge">ACM MM 2020</div><img src='images/irgan.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[IR-GAN: Image Manipulation with Linguistic Instruction by Increment Reasoning](https://vipl.ict.ac.cn/uploadfile/upload/2020122810513917.pdf)
+**IR-GAN: Image Manipulation with Linguistic Instruction by Increment Reasoning**
 
 Zhenhuan Liu, Jincan Deng, Liang Li, **Shaofei Cai**, Qianqian Xu, Shuhui Wang, Qingming Huang
 
 <span style="color:red">Oral Presentation</span>
 
 **ACM MM 2020**  \| 
-[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/conf/mm/LiuDLCXWH20.html?view=bibtex)
+[Paper](https://vipl.ict.ac.cn/uploadfile/upload/2020122810513917.pdf) \|
+[Cite](https://dblp.org/rec/conf/mm/LiuDLCXWH20.html?view=bibtex)
 
 </div>
 </div>
@@ -165,15 +194,16 @@ Zhenhuan Liu, Jincan Deng, Liang Li, **Shaofei Cai**, Qianqian Xu, Shuhui Wang, 
 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/egnas.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">arxiv</div><img src='images/egnas.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Edge-featured Graph Neural Architecture Search](https://arxiv.org/pdf/2109.01356.pdf)
+**Edge-featured Graph Neural Architecture Search**
 
 **Shaofei Cai**, Liang Li, Xinzhe Han, Zheng-jun Zha, Qingming Huang
 
-Arxiv \|
-[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://dblp.org/rec/journals/corr/abs-2109-01356.html?view=bibtex)
+arxiv \|
+[Paper](https://arxiv.org/pdf/2109.01356.pdf) \|
+[Cite](https://dblp.org/rec/journals/corr/abs-2109-01356.html?view=bibtex)
 
 </div>
 </div>
