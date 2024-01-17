@@ -37,7 +37,7 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 
 **Shaofei Cai**, Bowei Zhang, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
 
-<span style="color:red">Spotlight Presentation</span>
+<span style="color:red">Spotlight Presentation (Top-5%)</span>
 
 **ICLR 2024** \|
 [Paper](https://arxiv.org/abs/2310.08235) \|
@@ -111,7 +111,7 @@ Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
 
 **Shaofei Cai**, Liang Li, Xinzhe Han, Jiebo Luo, Zheng-jun Zha, Qingming Huang
 
-<span style="color:red">Oral Presentation</span>
+<span style="color:red">Oral Presentation (Top-4%)</span>
 
 **CVPR 2022**  \| 
 [Paper](https://arxiv.org/abs/2205.15678) \|
