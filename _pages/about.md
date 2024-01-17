@@ -22,6 +22,7 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 Our paper ''GROOT: Learning to Follow Instructions by Watching Gameplay Videos'' has been accepted by International Conference on Learning Representations (ICLR) 2024 as a **Spotlight** presentation (Top-5%). 
 - *2023.09*: &nbsp;🎉🎉 Our paper ''Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents'' has been accepted by Neural Information Processing Systems (Neurips) 2023.
 - *2023.08*: &nbsp;🎉🎉 Our paper ''Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents'' has won the **best paper award** in ICML 2023 TEACH workshop.
 - *2023.03*: &nbsp;🎉🎉 Our paper ''Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2023.
@@ -35,8 +36,10 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 **GROOT: Learning to Follow Instructions by Watching Gameplay Videos**
 
 **Shaofei Cai**, Bowei Zhang, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
-  
-**arxiv** \|
+
+<span style="color:red">Spotlight Presentation</span>
+
+**ICLR 2024** \|
 [Paper](https://arxiv.org/abs/2310.08235) \|
 [Cite](https://dblp.org/rec/journals/corr/abs-2310-08235.html?view=bibtex) \| 
 [Code](https://github.com/CraftJarvis/GROOT) \|
@@ -47,7 +50,7 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">arxiv</div><img src='images/jarvis-1.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">ICLR 2024</div><img src='images/jarvis-1.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models**
