@@ -30,7 +30,7 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 # 📝 Publications 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">arxiv</div><img src='images/GROOT.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">ICLR 2024</div><img src='images/GROOT.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **GROOT: Learning to Follow Instructions by Watching Gameplay Videos**
@@ -50,7 +50,7 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">ICLR 2024</div><img src='images/jarvis-1.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">arxiv</div><img src='images/jarvis-1.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models**
