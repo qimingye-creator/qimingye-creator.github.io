@@ -18,14 +18,14 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofei@stu.pku.edu.cn. I am currently pursuing my Ph.D. at the School of Intelligence Science and Technology, Peking University, under the supervision of Professor Yitao Liang. My journey began in 2022. Prior to this, I earned my Bachelor's degree from Xi'an Jiaotong University in 2019, followed by a Master's degree from the Institute of Computing Technology, Chinese Academy of Sciences in 2022, under the guidance of Professor Liang Li. My primary research interests involve computer vision and decision-making. Currently, I am focused on building generally capable agents in open-world environments, such as Minecraft. Additionally, I am enthralled by graph neural architecture search. 
+My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofei@stu.pku.edu.cn. I am currently pursuing my Ph.D. at the School of Intelligence Science and Technology, Peking University, under the supervision of Professor Yitao Liang. My journey began in 2022. Prior to this, I earned my Bachelor's degree from Xi'an Jiaotong University in 2019, followed by a Master's degree from the Institute of Computing Technology, Chinese Academy of Sciences in 2022, under the guidance of Professor Liang Li. My primary research interests involve generative models and sequential control. Currently, I am focused on building generally capable agents in open-world environments, such as Minecraft. 
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Our paper ''GROOT: Learning to Follow Instructions by Watching Gameplay Videos'' has been accepted by International Conference on Learning Representations (ICLR) 2024 as a **Spotlight** presentation (Top-5%). 
+- *2024.01*: &nbsp;🎉🎉 Our paper ''GROOT: Learning to Follow Instructions by Watching Gameplay Videos'' has been accepted by the International Conference on Learning Representations (ICLR) 2024 as a **Spotlight** presentation (Top-5%). 
 - *2023.09*: &nbsp;🎉🎉 Our paper ''Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents'' has been accepted by Neural Information Processing Systems (Neurips) 2023.
-- *2023.08*: &nbsp;🎉🎉 Our paper ''Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents'' has won the **best paper award** in ICML 2023 TEACH workshop.
-- *2023.03*: &nbsp;🎉🎉 Our paper ''Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2023.
+- *2023.08*: &nbsp;🎉🎉 Our paper ''Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents'' has won the **best paper award** in the ICML 2023 TEACH workshop.
+- *2023.03*: &nbsp;🎉🎉 Our paper ''Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction'' is accepted by the IEEE Computer Vision and Pattern Recognition (CVPR) 2023.
 
 # 📝 Publications 
 
