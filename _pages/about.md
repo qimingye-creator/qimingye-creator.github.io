@@ -22,12 +22,41 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Our paper ''ROCKET-1: Master Open-Wolrd Interaction with Visual-Temporal Context Prompting'' has been realeased! 
+- *2024.10*: &nbsp;🎉🎉 Our paper ''OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents'' has been accepted by the Neural Information Processing Systems (NeurIPS) 2024. 
 - *2024.01*: &nbsp;🎉🎉 Our paper ''GROOT: Learning to Follow Instructions by Watching Gameplay Videos'' has been accepted by the International Conference on Learning Representations (ICLR) 2024 as a **Spotlight** presentation (Top-5%). 
-- *2023.09*: &nbsp;🎉🎉 Our paper ''Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents'' has been accepted by Neural Information Processing Systems (Neurips) 2023.
-- *2023.08*: &nbsp;🎉🎉 Our paper ''Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents'' has won the **best paper award** in the ICML 2023 TEACH workshop.
-- *2023.03*: &nbsp;🎉🎉 Our paper ''Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction'' is accepted by the IEEE Computer Vision and Pattern Recognition (CVPR) 2023.
-
 # 📝 Publications 
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/ROCKET-1.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**ROCKET-1: Master Open-Wolrd Interaction with Visual-Temporal Context Prompting**
+
+**Shaofei Cai**, Zihao Wang, Kewei Lian, Zhancun Mu, Xiaojian Ma, Anji Liu, Yitao Liang
+
+**Arxiv** \|
+[Paper](https://arxiv.org/pdf/2410.17856) \|
+[Cite](https://scholar.google.com/scholar_lookup?arxiv_id=2410.17856) \| 
+[Code](https://github.com/CraftJarvis/ROCKET-1) \|
+[Page](https://craftjarvis.github.io/ROCKET-1)
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/OmniJARVIS.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents**
+
+Zihao Wang, **Shaofei Cai**, Zhancun Mu, Haowei Lin, Ceyao Zhang, Xueije Liu, Qing Li, Anji Liu, Xiaojian Ma, Yitao Liang
+
+**NeurIPS 2024** \|
+[Paper](https://arxiv.org/pdf/2410.17856) \|
+[Twitter](https://x.com/jeasinema/status/1808346701205516395) \| 
+[Page](https://omnijarvis.github.io/)
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'><div class="badge">ICLR 2024</div><img src='images/GROOT.png' alt="sym" width="100%"></div>
