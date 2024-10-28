@@ -297,3 +297,5 @@ Xi'an Jiaotong University, Xi'an
 | ---     | ---          | ---   | ---  |
 | 2022.06 - now | Beijing Institute for General Artificial Intelligence | Machine learning | Research Assistant |
 | 2020.10 - 2021.08 | Beijing Bytedance Technology Co. LTD | Image Generation | Computer Vision Intern | -->
+
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=qb0VJ7w28vitkm94PFolR4u9UYS3XRg5b98SXTdLh-c'></script>
