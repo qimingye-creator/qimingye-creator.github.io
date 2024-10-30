@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofei@stu.pku.edu.cn. I am currently pursuing my Ph.D. at the School of Intelligence Science and Technology, Peking University, under the supervision of Professor Yitao Liang. My journey began in 2022. Prior to this, I earned my Bachelor's degree from Xi'an Jiaotong University in 2019, followed by a Master's degree from the Institute of Computing Technology, Chinese Academy of Sciences in 2022, under the guidance of Professor Liang Li. My primary research interests involve generative models and sequential control. Currently, I am focused on building generally capable agents in open-world environments, such as Minecraft. 
+My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofei@stu.pku.edu.cn. I am currently pursuing my Ph.D. at the Institute for Artificial Intelligence, Peking University, under the supervision of Professor Yitao Liang. My journey began in 2022. Prior to this, I earned my Bachelor's degree from Xi'an Jiaotong University in 2019, followed by a Master's degree from the Institute of Computing Technology, Chinese Academy of Sciences in 2022, under the guidance of Professor Liang Li. My primary research interests involve generative models and sequential control. Currently, I am focused on building generally capable agents in open-world environments, such as Minecraft. 
 
 
 # 🔥 News
@@ -258,7 +258,7 @@ arxiv \|
 <div class='school-box-text' markdown="1">
 2022.09 - now, PhD student
 
-School of Artifical Intelligence
+Institute for Artificial Intelligence
 
 Peking University, Beijing
 </div>
