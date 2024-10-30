@@ -31,7 +31,7 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 <div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/ROCKET-1.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**ROCKET-1: Master Open-Wolrd Interaction with Visual-Temporal Context Prompting**
+**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**
 
 **Shaofei Cai**, Zihao Wang, Kewei Lian, Zhancun Mu, Xiaojian Ma, Anji Liu, Yitao Liang
 
@@ -52,7 +52,7 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 Zihao Wang, **Shaofei Cai**, Zhancun Mu, Haowei Lin, Ceyao Zhang, Xueije Liu, Qing Li, Anji Liu, Xiaojian Ma, Yitao Liang
 
 **NeurIPS 2024** \|
-[Paper](https://arxiv.org/pdf/2410.17856) \|
+[Paper](https://omnijarvis.github.io/static/pdf/OmniJARViS.pdf) \|
 [Twitter](https://x.com/jeasinema/status/1808346701205516395) \| 
 [Page](https://omnijarvis.github.io/)
 </div>
