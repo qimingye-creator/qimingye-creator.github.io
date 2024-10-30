@@ -28,14 +28,14 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 # 📝 Publications 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/ROCKET-1.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">NeurIPS 2024-OWA</div><img src='images/ROCKET-1.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**
 
 **Shaofei Cai**, Zihao Wang, Kewei Lian, Zhancun Mu, Xiaojian Ma, Anji Liu, Yitao Liang
 
-**Arxiv** \|
+**NeurIPS 2024 Open-World Agent Workshop** \|
 [Paper](https://arxiv.org/pdf/2410.17856) \|
 [Cite](https://scholar.google.com/scholar_lookup?arxiv_id=2410.17856) \| 
 [Code](https://github.com/CraftJarvis/ROCKET-1) \|
