@@ -22,7 +22,7 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Our paper ''ROCKET-1: Master Open-Wolrd Interaction with Visual-Temporal Context Prompting'' has been realeased! 
+- *2024.10*: &nbsp;🎉🎉 Our paper ''ROCKET-1: Mastering Open-Wolrd Interaction with Visual-Temporal Context Prompting'' has been realeased! 
 - *2024.10*: &nbsp;🎉🎉 Our paper ''OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents'' has been accepted by the Neural Information Processing Systems (NeurIPS) 2024. 
 - *2024.01*: &nbsp;🎉🎉 Our paper ''GROOT: Learning to Follow Instructions by Watching Gameplay Videos'' has been accepted by the International Conference on Learning Representations (ICLR) 2024 as a **Spotlight** presentation (Top-5%). 
 # 📝 Publications 
@@ -43,20 +43,6 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/OmniJARVIS.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents**
-
-Zihao Wang, **Shaofei Cai**, Zhancun Mu, Haowei Lin, Ceyao Zhang, Xueije Liu, Qing Li, Anji Liu, Xiaojian Ma, Yitao Liang
-
-**NeurIPS 2024** \|
-[Paper](https://omnijarvis.github.io/static/pdf/OmniJARViS.pdf) \|
-[Twitter](https://x.com/jeasinema/status/1808346701205516395) \| 
-[Page](https://omnijarvis.github.io/)
-</div>
-</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'><div class="badge">ICLR 2024</div><img src='images/GROOT.png' alt="sym" width="100%"></div>
@@ -75,6 +61,37 @@ Zihao Wang, **Shaofei Cai**, Zhancun Mu, Haowei Lin, Ceyao Zhang, Xueije Liu, Qi
 [Page](https://craftjarvis-groot.github.io/) \|
 [Twitter](https://twitter.com/jeasinema/status/1712526192665047493?s=20)
 
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">CVPR 2023</div><img src='images/MC-Controller.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction**
+
+**Shaofei Cai**, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
+
+**CVPR 2023** \| 
+[Paper](https://arxiv.org/pdf/2301.10034.pdf) \|
+[Cite](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
+[Code](https://github.com/CraftJarvis/MC-Controller) 
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/OmniJARVIS.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents**
+
+Zihao Wang, **Shaofei Cai**, Zhancun Mu, Haowei Lin, Ceyao Zhang, Xueije Liu, Qing Li, Anji Liu, Xiaojian Ma, Yitao Liang
+
+**NeurIPS 2024** \|
+[Paper](https://omnijarvis.github.io/static/pdf/OmniJARViS.pdf) \|
+[Twitter](https://x.com/jeasinema/status/1808346701205516395) \| 
+[Page](https://omnijarvis.github.io/)
 </div>
 </div>
 
@@ -112,22 +129,6 @@ Zihao Wang, **Shaofei Cai**, Xiaojian Ma, Anji Liu, Yitao Liang
 [Paper](https://arxiv.org/pdf/2302.01560.pdf) \|
 [Cite](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
 [Code](https://github.com/CraftJarvis/MC-Planner)
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image'><div class="badge">CVPR 2023</div><img src='images/MC-Controller.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction**
-
-**Shaofei Cai**, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
-
-**CVPR 2023** \| 
-[Paper](https://arxiv.org/pdf/2301.10034.pdf) \|
-[Cite](https://dblp.org/rec/journals/corr/abs-2109-10737.html?view=bibtex) \| 
-[Code](https://github.com/CraftJarvis/MC-Controller) 
 
 </div>
 </div>
