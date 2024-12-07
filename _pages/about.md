@@ -27,6 +27,6 @@ redirect_from:
 
 # 📖 Educations
 - *2022.03 - now,  Doctor, Computer Science,   Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China. 
-- *2019.09 - 2021.12,  Master, Computer Science,   Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China..
-- *2015.09 - 2019.06,  Bachelor, Computer Science,  Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China.. 
+- *2019.09 - 2021.12,  Master, Computer Science,   Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China.
+- *2015.09 - 2019.06,  Bachelor, Computer Science,  Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China.
 
