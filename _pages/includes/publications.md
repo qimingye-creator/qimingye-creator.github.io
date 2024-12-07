@@ -1,5 +1,5 @@
 # 📝 Publications 
-
+<!-- 
 ## Selected Publications
 
 ### Multi-view Late Fusion Alignment
@@ -62,6 +62,8 @@
 - the first large-scale multi-view anchor framework for incomplete scenerios. 
 </div>
 </div>
+
+-->
 
 - [A Non-parametric Graph Clustering Framework for Multi-View Data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 - [Sample-Level Cross-View Similarity Learning for Incomplete Multi-View Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:g5m5HwL7SMYC), Suyuan Liu, Junpu Zhang, Yi Wen, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, Xinwang Liu, **AAAI 2024**
