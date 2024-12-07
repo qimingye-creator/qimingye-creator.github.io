@@ -67,11 +67,13 @@
 
 - [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 -->
+
 ## 2024
 - Hard-sample guided cluster refinement for unsupervised person re-identification, Cong Zhang, Yanzhao Su, Nian Wang, Yunwei Lan, Tao Wang, Aihua Li, **Signal, Image and Video Processing**. [Code](https://github.com/Emersonzc/HGCR)
 - Capsule Attention Network for Hyperspectral Image Classification, Nian Wang, Aitao Yang, Zhigao Cui, Yao Ding, Yuanliang Xue, Yanzhao Su, **Remote Sensing**. [Code](https://github.com/NianWang-HJJGCDX/CAN)
 - Handling occlusion in uav visual tracking with query-guided redetection, Yuanliang Xue, Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang, Jing Gao, **IEEE TIM**. [Code](https://github.com/xyl-507/QRDT)
 - Consistent Representation Mining for Multi-Drone Single Object Tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE TCSVT**. [Code](https://github.com/xyl-507/CRM)
+
 ## 2023
 - Smalltrack: Wavelet pooling and graph enhanced classification for uav small object tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE TGRS**. [Code](https://github.com/xyl-507/SmallTrack)
 - Physical model and image translation fused network for single-image dehazing, Yan Zhao Su, Chuan He, Zhi Gao Cui, Ai Hua Li, Nian Wang, **Pattern Recognition**. [Code](https://github.com/syzlhh/PMITFN)
