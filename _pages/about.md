@@ -19,15 +19,8 @@ redirect_from:
 
 {% include_relative includes/intro.md %}
 
-{% include_relative includes/news.md %}
-
-{% include_relative includes/services.md %}
-
-{% include_relative includes/latestprojects.md %}
-
 {% include_relative includes/publications.md %}
 
-{% include_relative includes/projects.md %}
 
 # 🎖 Honors and Awards
 - *2022.12* excellent master dissertation from the China Ordnance Industry Society. 
