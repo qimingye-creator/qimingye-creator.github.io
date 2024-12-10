@@ -81,7 +81,7 @@ My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofe
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">Arxiv</div><img src='images/OmniJARVIS.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">NeurIPS 2024</div><img src='images/OmniJARVIS.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents**
@@ -96,7 +96,7 @@ Zihao Wang, **Shaofei Cai**, Zhancun Mu, Haowei Lin, Ceyao Zhang, Xueije Liu, Qi
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">arxiv</div><img src='images/jarvis-1.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">T-PAMI 2024</div><img src='images/jarvis-1.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models**
@@ -104,7 +104,7 @@ Zihao Wang, **Shaofei Cai**, Zhancun Mu, Haowei Lin, Ceyao Zhang, Xueije Liu, Qi
 
 Zihao Wang, **Shaofei Cai**, Anji Liu, Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, Xiaojian Ma, Yitao Liang
   
-**arxiv** \|
+**T-PAMI 2024** \|
 [Paper](https://arxiv.org/pdf/2311.05997.pdf) \|
 [Cite](https://arxiv.org/abs/2310.08235) \| 
 [Code](https://github.com/CraftJarvis/GROOT) \|
