@@ -19,11 +19,11 @@ redirect_from:
 
 I am now a first-year PhD student at the Nanyang Technological University, CCDS, supervised by Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en).
 
-I am working as a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm).
+I am working as a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm) since April 2023.
 
 Before joining PKU, I have been an AI4Edu Algorithm Researcher and lead the developer team of [OpenXLab-Edu](https://xedu.readthedocs.io/zh/master/about/team.html) at Shanghai AI Lab in 2021-2023.
 
-🤔 My research interests include Multi-Modal Retrieval, AI4Science Tasks, and NeuronScience. I keep collobration with Dr. [Hao Li](https://scholar.google.com/citations?user=y4va91AAAAAJ&hl=en) and Dr. [Peng Jin](https://jpthu17.github.io/) on Multi-Modal Tasks, Dr. [Zhaokun Zhou](https://scholar.google.com/citations?user=4nz-h1QAAAAJ&hl=en&oi=ao) on Spiking Neural Network and Dr. [Xinyi Wu](https://riesummer.github.io/) on AI4Education. Specially, I aim to develop models with human reasoning capabilities and liberate human productivity.
+🤔 My research interests include Multi-Modal Retrieval, AI4Science Tasks, and NeuronScience. I keep collobration with my friends Dr. [Hao Li](https://scholar.google.com/citations?user=y4va91AAAAAJ&hl=en) on Multi-Modal Tasks, Dr. [Zhaokun Zhou](https://scholar.google.com/citations?user=4nz-h1QAAAAJ&hl=en&oi=ao) on Spiking Neural Network and Dr. [Xinyi Wu](https://riesummer.github.io/) on AI4Education. Specially, I aim to develop models with human reasoning capabilities and liberate human productivity.
 
 
 🤝 **Looking for collobration. If you are interested in working with me in AI tasks or AI4Sci tasks, please drop me an email.**
@@ -40,9 +40,9 @@ Before joining PKU, I have been an AI4Edu Algorithm Researcher and lead the deve
 
 - ``NIPS 2024`` [Spiking Transformer with Experts Mixture](), Zhaokun Zhou, Yijie Lu, **Yanhao Jia**, Kaiwei Che, Jun Niu, Liwei Huang, Xinyu Shi, Yuesheng Zhu, Guoqi Li, Zhaofei Yu, Li Yuan.
 
-- ``ECCV 2024`` [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://arxiv.org/abs/2312.02428), Hao Li, **Yanhao Jia**, Peng Jin, Zesen Cheng, Kehan Li, Jialu Sui, Chang Liu, Li Yuan.
+- ``ECCV 2024`` [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03384.pdf), Hao Li<sup>*</sup>, **Yanhao Jia<sup>*</sup>**, Peng Jin, Zesen Cheng, Kehan Li, Jialu Sui, Chang Liu, Li Yuan.
 
-- ``Nuclear Science and Techniques`` [OML: An online multi-particle locating method for high-resolution single event effects studies](), **Yanhao Jia**, Jianwei Liao, Haibo Yang, Qihao Duan, Longjie Wang, Jiangyong Du, Honglin Zhang, Chengxin Zhao.
+- ``Nuclear Science and Techniques`` [OML: An online multi-particle locating method for high-resolution single event effects studies](https://link.springer.com/article/10.1007/s41365-024-01539-6), **Yanhao Jia**, Jianwei Liao, Haibo Yang, Qihao Duan, Longjie Wang, Jiangyong Du, Honglin Zhang, Chengxin Zhao.
 
 - ``Nuclear Science and Techniques`` [A real-time calibration method based on time-to-digital converter for accelerator timing system](https://link.springer.com/article/10.1007/s41365-024-01510-5), Qihao Duan, Liang Ge, **Yanhao Jia**, Jieyu Zhu, Wei Zhang.
 
@@ -62,7 +62,7 @@ Before joining PKU, I have been an AI4Edu Algorithm Researcher and lead the deve
 - *2017.09 - 2021.06*, B.S. in Computer Science, Shandong University
 
 # 💻 Internships
-- *2023.07 - (now)*, Research Intern, Centre for Frontier AI Research, A*STAR
+- *2024.07 - (now)*, Research Intern, Centre for Frontier AI Research, A*STAR
 - *2023.05 - (now)*, Research Intern, Peking University
 - *2021.11 - 2023.03*, AI Research Engineer, Shanghai AI Lab
 - *2021.08 - 2021.09*, AI Teaching Assistant, State Gird Fujian Electric Power Company
