@@ -30,6 +30,21 @@ My research is focused on developing autonomous agents capable of operating in o
 + *Jun 2024*: 🎉🎉 Our paper "A Contextual Combinatorial Bandits Approach to Negotiation" is accepted at ICML 2024.
 + *Jan 2024*: 🎉🎉 [PTGM](https://openreview.net/forum?id=o2IEmeLL9r) is accepted by ICLR 2024 for **oral** presentation (<span style="color:red">top 1.2%</span>).
 
+# 📚 Preprints
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/globaltomo.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**GlobalTomo: A global dataset for physics-ML seismic wavefield modeling and full-waveform inversion**
+
+Shiqian Li, Zhi Li, **Zhancun Mu**, Shiji Xin, Zhixiang Dai, Kuangdai Leng, Ruihua Zhang, Xiaodong Song, Yixin Zhu
+
+**arXiv** \|
+[Paper](https://arxiv.org/abs/2406.18202) \|
+[Page](https://global-tomo.github.io/) \|
+[Code](https://github.com/lishiqianhugh/GlobalTomo)
+
 # 📝 Publications 
 
 <div class='paper-box'>
