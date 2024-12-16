@@ -44,6 +44,8 @@ Shiqian Li, Zhi Li, **Zhancun Mu**, Shiji Xin, Zhixiang Dai, Kuangdai Leng, Ruih
 [Paper](https://arxiv.org/abs/2406.18202) \|
 [Page](https://global-tomo.github.io/) \|
 [Code](https://github.com/lishiqianhugh/GlobalTomo)
+</div>
+</div>
 
 # 📝 Publications 
 
