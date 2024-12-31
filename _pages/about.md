@@ -32,13 +32,15 @@ My research is focused on developing autonomous agents capable of operating in o
 
 # 📚 Preprints
 
+<span style="font-size:small; color:grey;"><i>*Equal contribution</i></span>
+
 <div class='paper-box'>
 <div class='paper-box-image'><div class="badge">arXiv</div><img src='images/minestudio.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **MineStudio: A Streamlined Package for Minecraft AI Agent Development**
 
-Shaofei Cai*, Zhancun Mu*, Kaichen He, Bowei Zhang, Xinyue Zheng, Anji Liu, Yitao Liang
+Shaofei Cai\*, **Zhancun Mu*\***, Kaichen He, Bowei Zhang, Xinyue Zheng, Anji Liu, Yitao Liang
 
 **arXiv** \|
 [Paper](https://arxiv.org/abs/2412.18293) \|
@@ -66,6 +68,8 @@ Shiqian Li, Zhi Li, **Zhancun Mu**, Shiji Xin, Zhixiang Dai, Kuangdai Leng, Ruih
 </div>
 
 # 📝 Publications 
+
+<span style="font-size:small; color:grey;"><i>*Equal contribution</i></span>
 
 <div class='paper-box'>
 <div class='paper-box-image'><div class="badge">NeurIPS 2024-OWA</div><img src='images/ROCKET-1.png' alt="sym" width="100%"></div>
