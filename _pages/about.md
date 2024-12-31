@@ -33,6 +33,24 @@ My research is focused on developing autonomous agents capable of operating in o
 # 📚 Preprints
 
 <div class='paper-box'>
+<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/minestudio.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**MineStudio: A Streamlined Package for Minecraft AI Agent Development**
+
+Shaofei Cai*, Zhancun Mu*, Kaichen He, Bowei Zhang, Xinyue Zheng, Anji Liu, Yitao Liang
+
+**arXiv** \|
+[Paper](https://arxiv.org/abs/2412.18293) \|
+[Doc](https://craftjarvis.github.io/MineStudio/) \|
+[Code](https://github.com/CraftJarvis/MineStudio) \|
+[PyPI](https://pypi.org/project/minestudio/) \|
+[Dataset](https://huggingface.co/CraftJarvis)
+</div>
+</div>
+
+
+<div class='paper-box'>
 <div class='paper-box-image'><div class="badge">arXiv</div><img src='images/globaltomo.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
