@@ -38,7 +38,7 @@ My research is focused on developing autonomous agents capable of operating in o
 
 **MineStudio: A Streamlined Package for Minecraft AI Agent Development**
 
-Shaofei Cai\*, **Zhancun Mu*\***, Kaichen He, Bowei Zhang, Xinyue Zheng, Anji Liu, Yitao Liang
+Shaofei Cai\*, **Zhancun Mu\***, Kaichen He, Bowei Zhang, Xinyue Zheng, Anji Liu, Yitao Liang
 
 **arXiv** \|
 [Paper](https://arxiv.org/abs/2412.18293) \|
