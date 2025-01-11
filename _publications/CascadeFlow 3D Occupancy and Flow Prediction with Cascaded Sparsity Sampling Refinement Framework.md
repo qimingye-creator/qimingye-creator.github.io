@@ -2,7 +2,7 @@
 title: "CascadeFlow: 3D Occupancy and Flow Prediction with Cascaded Sparsity Sampling Refinement Framework"
 collection: IEEE Transactions on Neural Networks and Learning Systems
 permalink: /publication/Local-to-Global Perception Network for Point Cloud Segmentation
-excerpt: '![CascadeFlow 3D Occupancy and Flow Prediction with Cascaded Sparsity Sampling Refinement Framework.png](CascadeFlow 3D Occupancy and Flow Prediction with Cascaded Sparsity Sampling Refinement Framework.png)'
+excerpt: '![CascadeFlow.png](CascadeFlow.png)'
 
 date: 2024-6-19
 venue: 'CVPR'
@@ -10,7 +10,7 @@ paperurl: 'https://opendrivelab.github.io/Challenge%202024/occ_Harbour-Chips.pdf
 citation: 'Liao Z, Wei P. CascadeFlow: 3D Occupancy and Flow Prediction with Cascaded Sparsity Sampling Refinement Framework[C]. CVPR, 2024.'
 ---
 
-![CascadeFlow 3D Occupancy and Flow Prediction with Cascaded Sparsity Sampling Refinement Framework.png](CascadeFlow 3D Occupancy and Flow Prediction with Cascaded Sparsity Sampling Refinement Framework.png)
+![CascadeFlow.png](CascadeFlow.png)
 
 Abstract: In this technical report, we present our solution, named
 CascadeFlow, for the Vision-Centric 3D Occupancy and

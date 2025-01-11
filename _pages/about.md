@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Lzzzzzm Homepage"
+title: "Zhimin Liao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+![img.png](img.png)
+
 Received my B.E degree in Automation from JiLin University, ChangChun, China(吉林大学) in 2023 
 and now I am pursuing my AI phd in Xi'an jiaotong University, Xi'an, China(西安交通大学).
 now, My research interest focus on 3D scene understanding.
