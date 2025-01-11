@@ -9,12 +9,12 @@ redirect_from:
 ---
 <table>
   <tr>
-    <td style="vertical-align: top; width: 50%;">
+    <td style="vertical-align: top; width: 60%;">
       My name is Zhimin Liao (廖智民)，comes from GuangDong Zhuhai. I Received my B.E degree in Automation from JiLin University, ChangChun, China(吉林大学) in 2023 
     and now I am pursuing my AI phd in Xi'an jiaotong University, Xi'an, China(西安交通大学).
     Now, my research interest focus on 3D scene understanding, autonomous driving.
     </td>
-    <td style="vertical-align: top; width: 50%; text-align: right;">
+    <td style="vertical-align: top; width: 40%; text-align: right;">
       <img src="/_pages/img.png" alt="描述" width="300" height="400">
     </td>
   </tr>
