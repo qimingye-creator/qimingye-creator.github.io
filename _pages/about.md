@@ -15,7 +15,7 @@ redirect_from:
     Now, my research interest focus on 3D scene understanding, autonomous driving.
     </td>
     <td style="vertical-align: top; width: 50%; text-align: right;">
-      <img src="img.png" alt="描述" width="300" height="400">
+      <img src="/_pages/img.png" alt="描述" width="300" height="400">
     </td>
   </tr>
 </table>
