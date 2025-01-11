@@ -13,7 +13,8 @@ now, My research interest focus on 3D scene understanding.
 
 
 # 🔥 News
-- *2023.07*: Finsh my first CVPR Challenge
+
+- *2024.07*: 🥈 Win the Second Prize in the 2024 CVPR Challenge——Occupancy and Flow Prediction
 
 
 # 📖 Educations
