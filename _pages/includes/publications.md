@@ -67,7 +67,8 @@
 
 - [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 -->
-
+## 2025
+-  Structured Doubly Stochastic Graph-Based Clustering, Nian Wang, Zhigao Cui, Aihua Li, Yihang Lu, Rong Wang and Feiping Nie,  **IEEE TNNLS**. [Code](https://github.com/NianWang-HJJGCDX/SDSGC)
 ## 2024
 - Hard-sample guided cluster refinement for unsupervised person re-identification, Cong Zhang, Yanzhao Su, Nian Wang, Yunwei Lan, Tao Wang, Aihua Li, **Signal, Image and Video Processing**. [Code](https://github.com/Emersonzc/HGCR)
 - Capsule Attention Network for Hyperspectral Image Classification, Nian Wang, Aitao Yang, Zhigao Cui, Yao Ding, Yuanliang Xue, Yanzhao Su, **Remote Sensing**. [Code](https://github.com/NianWang-HJJGCDX/CAN)
