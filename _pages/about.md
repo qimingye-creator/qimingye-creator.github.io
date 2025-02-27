@@ -25,9 +25,9 @@ My research is focused on developing autonomous agents capable of operating in o
 
 
 # 🔥 News
-+ *Oct 2024*: 🎉🎉 Our paper ‘‘ROCKET-1: Mastering Open-Wolrd Interaction with Visual-Temporal Context Prompting’’ has been realeased!
++ *Feb 2025*: 🎉🎉 Our paper ‘‘ROCKET-1: Mastering Open-Wolrd Interaction with Visual-Temporal Context Prompting’’ is accepted by CVPR 2025.
++ *Dec 2024*: 🎉🎉 Our open-world agent developing tool [MineStudio](https://craftjarvis.github.io/MineStudio/) is released on GitHub and PyPI.
 + *Sep 2024*: 🎉🎉 Our latest Vision-Language-Action model OmniJARVIS is accepted by NeurIPS 2024.
-+ *Jun 2024*: 🎉🎉 Our paper "A Contextual Combinatorial Bandits Approach to Negotiation" is accepted at ICML 2024.
 + *Jan 2024*: 🎉🎉 [PTGM](https://openreview.net/forum?id=o2IEmeLL9r) is accepted by ICLR 2024 for **oral** presentation (<span style="color:red">top 1.2%</span>).
 
 # 📚 Preprints
@@ -75,7 +75,7 @@ Shiqian Li, Zhi Li, **Zhancun Mu**, Shiji Xin, Zhixiang Dai, Kuangdai Leng, Ruih
 
 Shaofei Cai, Zihao Wang, Kewei Lian, **Zhancun Mu**, Xiaojian Ma, Anji Liu, Yitao Liang
 
-**NeurIPS 2024 Open-World Agent Workshop** \|
+**CVPR 2025** \|
 [Paper](https://arxiv.org/pdf/2410.17856) \|
 [Cite](https://scholar.google.com/scholar_lookup?arxiv_id=2410.17856) \| 
 [Code](https://github.com/CraftJarvis/ROCKET-1) \|
