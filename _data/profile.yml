@@ -1,13 +1,13 @@
-primary_name: "Xiang Li"
+primary_name: "Zhimin Liao"
 secondary_name: ""
-navbar_name: "Xiang Li"
+navbar_name: "Zhimin Liao"
 
 positions:
   - '<span class="no-break"><img src="assets/images/badges/THU.png" alt="Tsinghua University" class="inline-badge"/></span> Undergraduate Student, Department of Computer Science and Technology, Tsinghua University'
 
-email: "l-x21@mails.tsinghua.edu.cn"
+email: "liaozm@stu.xjtu.edu.cn"
 gscholar: tu963_kAAAAJ
-github: getterupper
+github: lzzzzzm
 # twitter: your_twitter_id
 # wechat_qrcode: assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -20,7 +20,7 @@ short_bios:
   - 'My research interests include <strong>3D Scene Understanding</strong>, <strong>Autonomous Driving</strong> and <strong>Embodied AI</strong>.'
 
 show_portrait: true
-portrait_url: assets/images/photos/lixiang.jpg
+portrait_url: assets/images/photos/lzm.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash.
 
