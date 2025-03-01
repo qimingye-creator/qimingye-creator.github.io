@@ -1,0 +1,56 @@
+primary_name: "Xiang Li"
+secondary_name: ""
+navbar_name: "Xiang Li"
+
+positions:
+  - '<span class="no-break"><img src="assets/images/badges/THU.png" alt="Tsinghua University" class="inline-badge"/></span> Undergraduate Student, Department of Computer Science and Technology, Tsinghua University'
+
+email: "l-x21@mails.tsinghua.edu.cn"
+gscholar: tu963_kAAAAJ
+github: getterupper
+# twitter: your_twitter_id
+# wechat_qrcode: assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
+short_bios:
+  - 'I am currently an undergraduate student of <a href="https://www.cs.tsinghua.edu.cn" target="_blank">Dept. of Computer Sci. & Tech., THU</a>, and an intern of <a href="https://air.tsinghua.edu.cn" target="_blank">AIR, THU</a>.'
+  - 'My research interests include <strong>3D Scene Understanding</strong>, <strong>Autonomous Driving</strong> and <strong>Embodied AI</strong>.'
+
+show_portrait: true
+portrait_url: assets/images/photos/lixiang.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash.
+
+education:
+- name: Tsinghua University
+  logo: assets/images/badges/THU.png
+  position: Undergraduate Student of Dept. of Computer Sci. & Tech.
+  date: Sep. 2021 - Now
+
+experience:
+- name: Institute for AI Industry Research, Tsinghua University
+  logo: assets/images/badges/AIR.png
+  position: Intern
+  date: Sep. 2023 - Now
+- name: HKU Musketeers Foundation Institute of Data Science
+  logo: assets/images/badges/IDS_HKU.png
+  position: Student Research Assistant
+  date: Jul. 2024 - Sept. 2024
+
+cv_link: https://getterupper.github.io/cv/CV.pdf
+
+awards:
+- name: Excellent Academic Scholarship
+  date: 2022 / 2023 / 2024
+- name: Excellent Art Scholarship
+  date: 2022 / 2023
+- name: Freshman Scholarship
+  date: 2021
+
+# Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
+# if you keep the link to the template so that more people can benefit from it. Thanks!
+# footer_text: >-
+#   <a href="https://github.com/luost26/academic-homepage" target="_blank"><i class="fas fa-pencil-ruler"></i> academic-homepage</a>
