@@ -2,8 +2,8 @@ primary_name: "Zhimin Liao"
 secondary_name: ""
 navbar_name: "Zhimin Liao"
 
-positions:
-  - '<span class="no-break"><img src="assets/images/badges/THU.png" alt="Tsinghua University" class="inline-badge"/></span> Undergraduate Student, Department of Computer Science and Technology, Tsinghua University'
+#positions:
+#  - '<span class="no-break"><img src="assets/images/badges/THU.png" alt="Tsinghua University" class="inline-badge"/></span> Undergraduate Student, Department of Computer Science and Technology, Tsinghua University'
 
 email: "liaozm@stu.xjtu.edu.cn"
 gscholar: tu963_kAAAAJ
@@ -16,7 +16,7 @@ github: lzzzzzm
 # orcid: 0000-0000-0000-0000
 
 short_bios:
-  - 'I am currently an undergraduate student of <a href="https://www.cs.tsinghua.edu.cn" target="_blank">Dept. of Computer Sci. & Tech., THU</a>, and an intern of <a href="https://air.tsinghua.edu.cn" target="_blank">AIR, THU</a>.'
+  - 'I am currently pursuing my Ph.D. degree at the Xian Jiaotong University, advised by Prof. <strong>Ping Wei</strong>.'
   - 'My research interests include <strong>3D Scene Understanding</strong>, <strong>Autonomous Driving</strong> and <strong>Embodied AI</strong>.'
 
 show_portrait: true
@@ -25,30 +25,31 @@ portrait_url: assets/images/photos/lzm.jpg
 #   Photo by Manja Vitolic on Unsplash.
 
 education:
-- name: Tsinghua University
-  logo: assets/images/badges/THU.png
-  position: Undergraduate Student of Dept. of Computer Sci. & Tech.
-  date: Sep. 2021 - Now
+- name: Jilin University
+  logo: assets/images/badges/jd.jpg
+  position: Undergraduate Student of Automation.
+  date: Sep. 2019 - 2023
 
-experience:
-- name: Institute for AI Industry Research, Tsinghua University
-  logo: assets/images/badges/AIR.png
-  position: Intern
+- name: Xian Jiaotong University
+  logo: assets/images/badges/xjtu.png
+  position: Ph.D. Student of Artificial Intelligence.
   date: Sep. 2023 - Now
-- name: HKU Musketeers Foundation Institute of Data Science
-  logo: assets/images/badges/IDS_HKU.png
-  position: Student Research Assistant
-  date: Jul. 2024 - Sept. 2024
 
-cv_link: https://getterupper.github.io/cv/CV.pdf
+#experience:
+#- name: Institute for AI Industry Research, Tsinghua University
+#  logo: assets/images/badges/AIR.png
+#  position: Intern
+#  date: Sep. 2023 - Now
+#- name: HKU Musketeers Foundation Institute of Data Science
+#  logo: assets/images/badges/IDS_HKU.png
+#  position: Student Research Assistant
+#  date: Jul. 2024 - Sept. 2024
+
+#cv_link: https://getterupper.github.io/cv/CV.pdf
 
 awards:
-- name: Excellent Academic Scholarship
-  date: 2022 / 2023 / 2024
-- name: Excellent Art Scholarship
-  date: 2022 / 2023
-- name: Freshman Scholarship
-  date: 2021
+- name: CVPR2024 Occupancy and Flow Challenge Runner-up
+  date: 2024
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
