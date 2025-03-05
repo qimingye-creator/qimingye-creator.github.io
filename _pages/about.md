@@ -25,12 +25,28 @@ My research is focused on developing autonomous agents capable of operating in o
 
 
 # 🔥 News
-+ *Feb 2025*: 🎉🎉 Our paper ‘‘ROCKET-1: Mastering Open-Wolrd Interaction with Visual-Temporal Context Prompting’’ is accepted by CVPR 2025.
++ *Mar 2025* 🐣🐣 We have released a state-of-the-art Minecraft Agent, "ROCKET-2", supporting cross-view goal specification!
++ *Feb 2025*: 🔥🔥 Our paper ‘‘ROCKET-1: Mastering Open-Wolrd Interaction with Visual-Temporal Context Prompting’’ is accepted by CVPR 2025.
 + *Dec 2024*: 🎉🎉 Our open-world agent developing tool [MineStudio](https://craftjarvis.github.io/MineStudio/) is released on GitHub and PyPI.
-+ *Sep 2024*: 🎉🎉 Our latest Vision-Language-Action model OmniJARVIS is accepted by NeurIPS 2024.
-+ *Jan 2024*: 🎉🎉 [PTGM](https://openreview.net/forum?id=o2IEmeLL9r) is accepted by ICLR 2024 for **oral** presentation (<span style="color:red">top 1.2%</span>).
++ *Sep 2024*: 🧠🧠 Our latest Vision-Language-Action model OmniJARVIS is accepted by NeurIPS 2024.
++ *Jan 2024*: 🍫🍫 [PTGM](https://openreview.net/forum?id=o2IEmeLL9r) is accepted by ICLR 2024 for **oral** presentation (<span style="color:red">top 1.2%</span>).
 
 # 📚 Preprints
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/ROCKET-2.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**ROCKET-2: Steering Visuomotor Policy via Cross-View Goal Alignment**
+
+Shaofei Cai, **Zhancun Mu**, Anji Liu, Yitao Liang
+
+**arXiv** \|
+[Paper](https://arxiv.org/abs/2503.02505) \|
+[Code](https://github.com/CraftJarvis/ROCKET-2) \|
+[Page](https://craftjarvis.github.io/ROCKET-2)
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'><div class="badge">arXiv</div><img src='images/minestudio.png' alt="sym" width="100%"></div>
