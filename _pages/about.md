@@ -33,7 +33,7 @@ I am working as a research intern at Peking University, advised by Prof. [Li Yua
 - *06/2024*: &nbsp;🎉🎉 One paper is accepted by Nuclear Instruments and Methods in Physics Research, A!
 - *04/2024*: &nbsp;🎉🎉 One paper is accepted by Sensors!
 - *03/2024*: &nbsp;🎉🎉 Two papers are accepted by Nuclear Science and Techniques!
-- **Reviewer Service**: ACM MM 2024, ECCV 2024 
+- **Reviewer Service**: ACM MM 2024, ECCV 2024, KDD 2025
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=jQx7NpQAAAAJ&hl=en'>
 
@@ -41,9 +41,9 @@ I am working as a research intern at Peking University, advised by Prof. [Li Yua
 
 - ``Nuclear Science and Techniques`` [OML: An online multi-particle locating method for high-resolution single event effects studies](https://link.springer.com/article/10.1007/s41365-024-01539-6), **Yanhao Jia**, Jianwei Liao, Haibo Yang, Qihao Duan, Longjie Wang, Jiangyong Du, Honglin Zhang, Chengxin Zhao.
 
-- ``IEEE Trans on Nuclear Science`` [Hi'Beam-SEE: A Real-time High-resolution Single Event Effects Locating Device for Heavy Ion Facilities](), Jianwei Liao, **Yanhao Jia**, Shun Liao, Jiangyong Du, Haibo Yang, Ju Huang, Honglin Zhang, Xianglun Wei, Peixiong Zhao, Xianqin Li, Xiaoyang Niu, Weijia Han, Rui He, Chaojie Zou, Wenchao Sun, Xiangwei Peng, Chengxin Zhao.
+- ``IEEE Trans on Nuclear Science`` [Hi'Beam-SEE: A Real-time High-resolution Single Event Effects Locating Device for Heavy Ion Facilities](https://ieeexplore.ieee.org/abstract/document/10851311/), Jianwei Liao, **Yanhao Jia**, Shun Liao, Jiangyong Du, Haibo Yang, Ju Huang, Honglin Zhang, Xianglun Wei, Peixiong Zhao, Xianqin Li, Xiaoyang Niu, Weijia Han, Rui He, Chaojie Zou, Wenchao Sun, Xiangwei Peng, Chengxin Zhao.
 
-- ``NIPS 2024`` [Spiking Transformer with Experts Mixture](https://openreview.net/pdf?id=WcIeEtY3AG), Zhaokun Zhou, Yijie Lu, **Yanhao Jia**, Kaiwei Che, Jun Niu, Liwei Huang, Xinyu Shi, Yuesheng Zhu, Guoqi Li, Zhaofei Yu, Li Yuan.
+- ``NIPS 2024`` [Spiking Transformer with Experts Mixture](https://proceedings.neurips.cc/paper_files/paper/2024/file/137101016144540ed3191dc2b02f09a5-Paper-Conference.pdf), Zhaokun Zhou, Yijie Lu, **Yanhao Jia**, Kaiwei Che, Jun Niu, Liwei Huang, Xinyu Shi, Yuesheng Zhu, Guoqi Li, Zhaofei Yu, Li Yuan.
 
 - ``Nuclear Science and Techniques`` [A real-time calibration method based on time-to-digital converter for accelerator timing system](https://link.springer.com/article/10.1007/s41365-024-01510-5), Qihao Duan, Liang Ge, **Yanhao Jia**, Jieyu Zhu, Wei Zhang.
 
