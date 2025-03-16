@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7053faf2-9eec-43ec-95aa-9419346d8538" name="Changes" comment="update about me">
-      <change afterPath="$PROJECT_DIR$/_publications/2023/3D_Scene_Graph_Generation_From_Point_Clouds.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_publications/2023/Semantic_Consistency_Reasoning_for_3-D_Object_Detection_in_Point_Clouds.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_publications/2023/images/3D_Scene_Grap_ Generation_From_Point_Clouds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_publications/2023/images/Semantic_Consistency_Reasoning_for_3-D_Object_Detection_in_Point_Clouds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_publications/2024/Local-to-Global Perception Network for Point Cloud Segmentation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2025/PreWorld.md" beforeDir="false" />
-    </list>
+    <list default="true" id="7053faf2-9eec-43ec-95aa-9419346d8538" name="Changes" comment="update publications" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -396,7 +387,39 @@
       <option name="project" value="LOCAL" />
       <updated>1742035020736</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="update publications">
+      <option name="closed" value="true" />
+      <created>1742094783221</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1742094783221</updated>
+    </task>
+    <task id="LOCAL-00044" summary="update publications">
+      <option name="closed" value="true" />
+      <created>1742094884972</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1742094884972</updated>
+    </task>
+    <task id="LOCAL-00045" summary="update publications">
+      <option name="closed" value="true" />
+      <created>1742095020435</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1742095020435</updated>
+    </task>
+    <task id="LOCAL-00046" summary="update publications">
+      <option name="closed" value="true" />
+      <created>1742095073801</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1742095073801</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,6 +440,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="update publication" />
     <MESSAGE value="update about me" />
-    <option name="LAST_COMMIT_MESSAGE" value="update about me" />
+    <MESSAGE value="update publications" />
+    <option name="LAST_COMMIT_MESSAGE" value="update publications" />
   </component>
 </project>
