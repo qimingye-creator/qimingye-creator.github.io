@@ -6,7 +6,7 @@ pub:            "IEEE International Conference on Acoustics, Speech and Signal P
 pub_date:       "2023"
 highlight: >-
    We introduce the RelationScanNet dataset with densely annotated semantic and geometric relationships, which extends one of the most widely used dataset ScanNetV2 in 3D indoor scene understanding.
-cover:          _publications/2023/images/3D_Scene_Grap_ Generation_From_Point_Clouds.png
+cover:          ./_publications/2023/images/3D_Scene_Grap_ Generation_From_Point_Clouds.png
 authors:
 - Wenwen Wei
 - Ping Wei
