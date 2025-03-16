@@ -13,7 +13,7 @@ wechat_prompt: >-
 
 short_bios:
   - 'I am currently pursuing my Ph.D. degree at the Xian Jiaotong University, advised by Prof. <strong>Ping Wei</strong>.'
-  - 'My research interests include <strong>3D Scene Understanding</strong>, <strong>Autonomous Driving</strong> and <strong>Embodied AI</strong>.'
+  - 'My research interests include <strong>3D Scene Understanding</strong>, <strong>Autonomous Driving</strong> and <strong>Embodied AI</strong>🤖.'
 
 show_portrait: true
 portrait_url: assets/images/photos/lzm.jpg
