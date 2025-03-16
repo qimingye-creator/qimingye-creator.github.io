@@ -1,5 +1,5 @@
 ---
-title:          "3D Scene Graph Generation From Point Clouds"
+title:          "Local-to-Global Perception Network for Point Cloud Segmentation"
 date:           2024-7-15
 selected:       true
 pub:            "2024 IEEE International Conference on Multimedia and Expo (<strong>ICME</strong>)"
