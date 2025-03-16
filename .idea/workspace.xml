@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7053faf2-9eec-43ec-95aa-9419346d8538" name="Changes" comment="update about me">
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2023/3D_Scene_Graph_Generation_From_Point_Clouds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2023/Semantic_Consistency_Reasoning_for_3-D_Object_Detection_in_Point_Clouds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2023/images/3D_Scene_Grap_ Generation_From_Point_Clouds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2023/images/Semantic_Consistency_Reasoning_for_3-D_Object_Detection_in_Point_Clouds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2024/Local-to-Global Perception Network for Point Cloud Segmentation.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/profile.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/profile.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2024/MonoOcc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2025/PreWorld.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -384,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740838926753</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="update about me">
+      <option name="closed" value="true" />
+      <created>1742035020736</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1742035020736</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
