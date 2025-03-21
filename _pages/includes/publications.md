@@ -68,6 +68,8 @@
 - [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 -->
 ## 2025
+-  Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Chang Liu, Jialun Peng, Nian Wang, Xin Luo, Dong Liu,  **AAAI 2025**. [Code](https://github.com/ywxjm/Diff-Dehazer)
+-  Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer, Yanzhao Su, Nian Wang, Zhigao Cui, Yanping Cai, Chuan He, Aihua Li  **IEEE TMM**. [Code](https://github.com/NianWang-HJJGCDX/DNMGDT)
 -  Structured Doubly Stochastic Graph-Based Clustering, Nian Wang, Zhigao Cui, Aihua Li, Yihang Lu, Rong Wang and Feiping Nie,  **IEEE TNNLS**. [Code](https://github.com/NianWang-HJJGCDX/SDSGC)
   
 ## 2024
