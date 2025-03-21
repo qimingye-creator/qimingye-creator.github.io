@@ -69,7 +69,7 @@
 -->
 ## 2025
 -  Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Chang Liu, Jialun Peng, Nian Wang, Xin Luo, Dong Liu,  **AAAI 2025**. [Code](https://github.com/ywxjm/Diff-Dehazer)
--  Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer, Yanzhao Su, Nian Wang, Zhigao Cui, Yanping Cai, Chuan He, Aihua Li  **IEEE TMM**. [Code](https://github.com/NianWang-HJJGCDX/DNMGDT)
+-  Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer, Yanzhao Su, Nian Wang, Zhigao Cui, Yanping Cai, Chuan He, Aihua Li,  **IEEE TMM**. [Code](https://github.com/NianWang-HJJGCDX/DNMGDT)
 -  Structured Doubly Stochastic Graph-Based Clustering, Nian Wang, Zhigao Cui, Aihua Li, Yihang Lu, Rong Wang and Feiping Nie,  **IEEE TNNLS**. [Code](https://github.com/NianWang-HJJGCDX/SDSGC)
   
 ## 2024
