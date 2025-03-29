@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7053faf2-9eec-43ec-95aa-9419346d8538" name="Changes" comment="update publications">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/publication_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/publication_item.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,14 +212,6 @@
       <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
       <updated>1690790187225</updated>
-    </task>
-    <task id="LOCAL-00031" summary="update about me">
-      <option name="closed" value="true" />
-      <created>1736607212800</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1736607212800</updated>
     </task>
     <task id="LOCAL-00032" summary="update about me">
       <option name="closed" value="true" />
@@ -445,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743234272641</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="update publications">
+      <option name="closed" value="true" />
+      <created>1743234665112</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1743234665112</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
