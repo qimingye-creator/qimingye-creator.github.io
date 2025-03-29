@@ -19,19 +19,18 @@
                     {% if site.data.profile.show_portrait %}
                     <div class="col-md-auto d-none d-md-block">
                         <figure class="figure">
-                            <img 
-                                src="{{ site.data.profile.portrait_url }}" 
-                                class="figure-img img-fluid img-thumbnail" 
+                            <img
+                                src="{{ site.data.profile.portrait_url }}"
+                                class="figure-img img-fluid img-thumbnail"
                                 style="height: 200px;"
-                                data-toggle="tooltip" 
-                                data-placement="top" 
+                                data-toggle="tooltip"
+                                data-placement="top"
                                 title="{{ site.data.profile.portrait_caption }}"
                             >
                             <figcaption class="figure-caption text-right"></figcaption>
                         </figure>
                     </div>
                     {% endif %}
-        
                 </div>
                 <hr />
                 <div class="row">
@@ -45,7 +44,7 @@
                             <i class="fab fa-google"></i> Google Scholar
                         </a>
                         {% endif %}
-                        
+
                         {% if site.data.profile.github %}
                         <a class="pr-3 no-break" target="_blank" href="https://github.com/{{ site.data.profile.github }}">
                             <i class="fab fa-github"></i> GitHub
@@ -83,8 +82,14 @@
                         {% endif %}
                     </div>
                 </div>
+                <hr />
+                <div class="row">
+                    <div class="col">
+                        <div id="github-stars">Loading...</div>
+                    </div>
+                </div>
             </div>
-        </div>        
+        </div>
     </div>
 </div>
 
@@ -107,3 +112,23 @@
     </div>
 </div>
 {% endif %}
+
+<script>
+async function getTotalStars(username) {
+    const response = await fetch(`https://api.github.com/users/${username}/repos`);
+    const repos = await response.json();
+    let totalStars = 0;
+    repos.forEach(repo => {
+        totalStars += repo.stargazers_count;
+    });
+    return totalStars;
+}
+
+async function displayTotalStars(username) {
+    const totalStars = await getTotalStars(username);
+    document.getElementById('github-stars').innerText = `Total Stars: ${totalStars}`;
+}
+
+const githubUsername = '{{ site.data.profile.github_username }}';
+displayTotalStars(githubUsername);
+</script>
