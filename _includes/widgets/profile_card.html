@@ -47,7 +47,7 @@
 
                         {% if site.data.profile.github %}
                         <a class="pr-3 no-break" target="_blank" href="https://github.com/{{ site.data.profile.github }}">
-                            <i class="fab fa-github"></i> GitHub
+                            <i class="fab fa-github"></i> GitHub <span id="github-stars">(Loading...)</span>
                         </a>
                         {% endif %}
 
@@ -80,12 +80,6 @@
                             <i class="fas fa-file-alt"></i> CV
                         </a>
                         {% endif %}
-                    </div>
-                </div>
-                <hr />
-                <div class="row">
-                    <div class="col">
-                        <div id="github-stars">Loading...</div>
                     </div>
                 </div>
             </div>
@@ -126,7 +120,7 @@ async function getTotalStars(username) {
 
 async function displayTotalStars(username) {
     const totalStars = await getTotalStars(username);
-    document.getElementById('github-stars').innerText = `Total Stars: ${totalStars}`;
+    document.getElementById('github-stars').innerText = `(${totalStars})`;
 }
 
 const githubUsername = '{{ site.data.profile.github_username }}';
