@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7053faf2-9eec-43ec-95aa-9419346d8538" name="Changes" comment="update publications" />
+    <list default="true" id="7053faf2-9eec-43ec-95aa-9419346d8538" name="Changes" comment="update publications">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,14 +212,6 @@
       <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
       <updated>1690790187225</updated>
-    </task>
-    <task id="LOCAL-00023" summary="init">
-      <option name="closed" value="true" />
-      <created>1736602775357</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1736602775357</updated>
     </task>
     <task id="LOCAL-00024" summary="update publication">
       <option name="closed" value="true" />
@@ -443,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742095988242</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="update publications">
+      <option name="closed" value="true" />
+      <created>1742096077338</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1742096077338</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
