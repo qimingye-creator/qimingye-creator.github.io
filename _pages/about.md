@@ -159,3 +159,6 @@ Peking University, Beijing
 
 # 💻 Internships
 - *2023.07 - 2023.10*, [BAAI](https://baai.ac.cn/), China.
+
+# 🏆 Selected Awards
+- *2025.06*, Outstanding Graduate of Peking University.
