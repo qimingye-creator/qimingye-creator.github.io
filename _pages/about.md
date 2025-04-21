@@ -27,6 +27,7 @@ I am working as a research intern at Peking University, advised by Prof. [Li Yua
 🤝 **Looking for collobration. If you are interested in working with me in AI tasks or AI4Sci tasks, please drop me an email.**
 
 # 🔥 News
+- *04/2025*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing!
 - *01/2025*: &nbsp;🎉🎉 Two papers are accepted by IEEE Trans on Nuclear Science and Journal of Instrumentation!
 - *09/2024*: &nbsp;🎉🎉 One paper is accepted by NIPS2024!
 - *07/2024*: &nbsp;🎉🎉 One paper is accepted by ECCV2024!
@@ -36,6 +37,8 @@ I am working as a research intern at Peking University, advised by Prof. [Li Yua
 - **Reviewer Service**: ACM MM24&25, ECCV24, KDD25, ICCV25
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=jQx7NpQAAAAJ&hl=en'>
+
+- ``Submit to ACL25`` [Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education](https://arxiv.org/abs/2502.05863), **Yanhao Jia<sup>*</sup>**, Xinyi Wu<sup>*</sup>, Hao Li, Qinglin Zhang, Yuxiao Hu, Shuai Zhao, Wenqi Fan.
 
 - ``ECCV 2024`` [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03384.pdf), Hao Li<sup>*</sup>, **Yanhao Jia<sup>*</sup>**, Peng Jin, Zesen Cheng, Kehan Li, Jialu Sui, Chang Liu, Li Yuan.
 
@@ -48,6 +51,8 @@ I am working as a research intern at Peking University, advised by Prof. [Li Yua
 - ``Nuclear Science and Techniques`` [A real-time calibration method based on time-to-digital converter for accelerator timing system](https://link.springer.com/article/10.1007/s41365-024-01510-5), Qihao Duan, Liang Ge, **Yanhao Jia**, Jieyu Zhu, Wei Zhang.
 
 - ``Journal of Instrumentation`` [FOML, A deep learning based fast online multi-track locating algorithm for MPGD with silicon pixel sensors](), Jiangyong Du, Xiangyu Deng, **Yanhao Jia**, Jianwei Liao, Chengxin Zhao.
+
+- ``IEEE Transactions on Affective Computing`` [Exploring Cognitive and Aesthetic Causality for Multimodal Aspect-Based Sentiment Analysis](), Luwei Xiao, Rui Mao, Shuai Zhao, Qika Lin, **Yanhao Jia**, Liang He, Erik Cambria.
 
 - ``Nuclear Instruments and Methods in Physics Research, A`` [A pixel sensor-based heavy ion positioning system for high-resolution single event effects studies](https://www.sciencedirect.com/science/article/abs/pii/S0168900224004649), Jianwei Liao, Xianglun Wei, Haibo Yang, Honglin Zhang, **Yanhao Jia**, Ju Huang, Yuansheng Yang, Peixiong Zhao, Herun Yang, Jiangyong Du, Shun Liao, Xianqin Li, Xiaoyang Niu, Weijia Han, Rui He, Chengxin Zhao
 
