@@ -17,28 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a first-year PhD student at the Nanyang Technological University, CCDS, supervised by Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en).
+I am now a PhD student at the Nanyang Technological University, CCDS, supervised by Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en).
 
 I am working as a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm) since April 2023. Before joining PKU, I have been an AI4Edu Algorithm Researcher and lead the developer team of [OpenXLab-Edu](https://xedu.readthedocs.io/zh/master/about/team.html) at Shanghai AI Lab in 2021-2023.
 
-🤔 My research interests include Neuron-Inspired Multi-Modal AI models and their downstream applications on cross fields. I keep collobration with my friends Dr. [Hao Li](https://scholar.google.com/citations?user=y4va91AAAAAJ&hl=en) on Multi-Modal Tasks, Dr. [Shuai Zhao](https://scholar.google.com/citations?user=upbsFBAAAAAJ&hl=en) on LLMs-related Tasks and Dr. [Xinyi Wu](https://riesummer.github.io/) on AI4Education. Specially, I aim to develop models with human reasoning capabilities and liberate human productivity.
+🤔 My research interests include Neuron-Inspired Multi-Modal AI methods and their downstream applications on cross fields. I keep collobration with my friends Dr. [Hao Li](https://scholar.google.com/citations?user=y4va91AAAAAJ&hl=en) on Multi-Modal Tasks, Dr. [Shuai Zhao](https://scholar.google.com/citations?user=upbsFBAAAAAJ&hl=en) on LLMs-related Tasks and Dr. [Xinyi Wu](https://riesummer.github.io/) on AI4Education. Specially, I aim to develop models with human reasoning capabilities and liberate human productivity.
 
 
 🤝 **Looking for collobration. If you are interested in working with me in AI tasks or AI4Sci tasks, please drop me an email.**
 
 # 🔥 News
+- *05/2025*: &nbsp;🎉🎉 Two papers are accepted by ACL2025(1 main & 1 findings)!
 - *04/2025*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing!
 - *01/2025*: &nbsp;🎉🎉 Two papers are accepted by IEEE Trans on Nuclear Science and Journal of Instrumentation!
 - *09/2024*: &nbsp;🎉🎉 One paper is accepted by NIPS2024!
 - *07/2024*: &nbsp;🎉🎉 One paper is accepted by ECCV2024!
-- *06/2024*: &nbsp;🎉🎉 One paper is accepted by Nuclear Instruments and Methods in Physics Research, A!
-- *04/2024*: &nbsp;🎉🎉 One paper is accepted by Sensors!
-- *03/2024*: &nbsp;🎉🎉 Two papers are accepted by Nuclear Science and Techniques!
-- **Reviewer Service**: ACM MM24&25, ECCV24, KDD25, ICCV25
+- **Reviewer Service**: ACM MM24&25, ECCV24, KDD25, ICCV25, NIPS25
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=jQx7NpQAAAAJ&hl=en'>
 
-- ``Submit to ACL25`` [Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education](https://arxiv.org/abs/2502.05863), **Yanhao Jia<sup>*</sup>**, Xinyi Wu<sup>*</sup>, Hao Li, Qinglin Zhang, Yuxiao Hu, Shuai Zhao, Wenqi Fan.
+- ``ACL 2025`` [Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education](https://arxiv.org/abs/2502.05863), **Yanhao Jia<sup>*</sup>**, Xinyi Wu<sup>*</sup>, Hao Li, Qinglin Zhang, Yuxiao Hu, Shuai Zhao, Wenqi Fan.
 
 - ``ECCV 2024`` [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03384.pdf), Hao Li<sup>*</sup>, **Yanhao Jia<sup>*</sup>**, Peng Jin, Zesen Cheng, Kehan Li, Jialu Sui, Chang Liu, Li Yuan.
 
@@ -52,13 +50,9 @@ I am working as a research intern at Peking University, advised by Prof. [Li Yua
 
 - ``Journal of Instrumentation`` [FOML, A deep learning based fast online multi-track locating algorithm for MPGD with silicon pixel sensors](), Jiangyong Du, Xiangyu Deng, **Yanhao Jia**, Jianwei Liao, Chengxin Zhao.
 
-- ``IEEE Transactions on Affective Computing`` [Exploring Cognitive and Aesthetic Causality for Multimodal Aspect-Based Sentiment Analysis](), Luwei Xiao, Rui Mao, Shuai Zhao, Qika Lin, **Yanhao Jia**, Liang He, Erik Cambria.
+- ``ACL 2025 (Findings)`` [Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation](https://arxiv.org/abs/2410.14425), Shuai Zhao, Xiaobao Wu, Cong-Duy T Nguyen, Yanhao Jia, Meihuizi Jia, Feng Yichao, Anh Tuan Luu.
 
-- ``Nuclear Instruments and Methods in Physics Research, A`` [A pixel sensor-based heavy ion positioning system for high-resolution single event effects studies](https://www.sciencedirect.com/science/article/abs/pii/S0168900224004649), Jianwei Liao, Xianglun Wei, Haibo Yang, Honglin Zhang, **Yanhao Jia**, Ju Huang, Yuansheng Yang, Peixiong Zhao, Herun Yang, Jiangyong Du, Shun Liao, Xianqin Li, Xiaoyang Niu, Weijia Han, Rui He, Chengxin Zhao
-
-- ``Sensors`` [Development of a Time Projection Chamber Readout with Hybrid Pixel Sensors for Beam Monitoring](https://www.mdpi.com/1424-8220/24/8/2387), Yingdong Song, Haibo Yang, Yuezhao Zhang, Jianwei Liao, **Yanhao Jia**, Peng Ma, Yufeng Hou, Xiangming Sun, Hulin Wang, Haisheng Song, Chengxin Zhao.
-
-- ``Journal of Instrumentation`` [Design and characterization of multichannel front-end electronics for detectors at HIRFL and HIAF](https://iopscience.iop.org/article/10.1088/1748-0221/18/11/C11006/meta), Shucai Wan, Haibo Yang, Jieyu Zhu, Chengcheng Liu, Yingdong Song, **Yanhao Jia**, Tao Liu, Chengxin Zhao.
+- ``IEEE Trans on Affective Computing`` [Exploring Cognitive and Aesthetic Causality for Multimodal Aspect-Based Sentiment Analysis](), Luwei Xiao, Rui Mao, Shuai Zhao, Qika Lin, **Yanhao Jia**, Liang He, Erik Cambria.
 
 
 # 👨‍💻 Open-Source Projects
