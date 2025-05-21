@@ -25,6 +25,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 通过学士学位论文答辩，获得"山东大学优秀本科毕设论文"称号.
 - *2024.12*: &nbsp;🎉🎉 获得山东大学本科生最高荣誉"校长奖(综合)".
 - *2024.10*: &nbsp;🎉🎉 顺利通过学校答辩，获得本科生“詹天佑”奖学金.
 - *2024.10*: &nbsp;🎉🎉 顺利通过学院答辩，连续三年蝉联本科生国家奖学金. 
@@ -33,6 +34,7 @@ redirect_from:
 
 
 # 🏅 Honors and Awards
+- *2025.05* Outstanding thesis(bachelor's degree) of Shandong University(Top 2%)
 - *2024.12* President's Award of Shandong University (the highest undergraduate award of Shandong University).
 - *2024.10* "ZhanTianYou" Scholarship, ZhanTianYou Development Foundation of Science and Technology ([39 undergraduate students in China](https://zhijianli2003.github.io/images/2024_ZhanTianYou_Scholarship.pdf)).
 - *2024.05* Excellent University Student of Shandong Province.
