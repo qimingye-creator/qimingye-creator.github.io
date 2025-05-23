@@ -68,10 +68,14 @@
 - [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 -->
 ## 2025
+-  Dual representation modeling and progressive contrastive learning for unsupervised video person re-identification, Cong Zhnag, Yanzhao Su, Nian Wang, Tao Wang, Aihua Li   **Neurocomputing**. [Code](https://github.com/ywxjm/Diff-Dehazer)
+-   Large-Scale Hyperspectral Image-Projected Clustering via Doubly Stochastic Graph Learning, Nian Wang, Zhigao Cui, Yunwei Lan, Cong Zhang, Yuanliang Xue, 
+Yanzhao Su, Aihua Li   **remote Sensing**. [Code](https://github.com/ywxjm/Diff-Dehazer)
+-   Multi-order Graph based Clustering Via Dynamical Low Rank Tensor Approximation, Nian Wang, Zhigao Cui, Aihua Li, Yuanliang Xue, Rong Wang, Feiping Nie,   **Neurocomputing**. [Code](https://github.com/ywxjm/Diff-Dehazer)
 -  Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Chang Liu, Jialun Peng, Nian Wang, Xin Luo, Dong Liu,  **AAAI 2025**. [Code](https://github.com/ywxjm/Diff-Dehazer)
 -  Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer, Yanzhao Su, Nian Wang, Zhigao Cui, Yanping Cai, Chuan He, Aihua Li,  **IEEE TMM**. [Code](https://github.com/NianWang-HJJGCDX/DNMGDT)
 -  Structured Doubly Stochastic Graph-Based Clustering, Nian Wang, Zhigao Cui, Aihua Li, Yihang Lu, Rong Wang and Feiping Nie,  **IEEE TNNLS**. [Code](https://github.com/NianWang-HJJGCDX/SDSGC)
-  
+ 
 ## 2024
 - Hard-sample guided cluster refinement for unsupervised person re-identification, Cong Zhang, Yanzhao Su, Nian Wang, Yunwei Lan, Tao Wang, Aihua Li, **Signal, Image and Video Processing**. [Code](https://github.com/Emersonzc/HGCR)
 - Capsule Attention Network for Hyperspectral Image Classification, Nian Wang, Aitao Yang, Zhigao Cui, Yao Ding, Yuanliang Xue, Yanzhao Su, **Remote Sensing**. [Code](https://github.com/NianWang-HJJGCDX/CAN)
