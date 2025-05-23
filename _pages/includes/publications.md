@@ -68,7 +68,7 @@
 - [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 -->
 ## 2025
--  Dual representation modeling and progressive contrastive learning for unsupervised video person re-identification, Cong Zhang, Yanzhao Su, Nian Wang, Tao Wang, Aihua Li   **Neurocomputing**. 
+-  Dual representation modeling and progressive contrastive learning for unsupervised video person re-identification, Cong Zhang, Yanzhao Su, Nian Wang, Tao Wang, Aihua Li,   **Neurocomputing**. 
 -   Large-Scale Hyperspectral Image-Projected Clustering via Doubly Stochastic Graph Learning, Nian Wang, Zhigao Cui, Yunwei Lan, Cong Zhang, Yuanliang Xue, 
 Yanzhao Su, Aihua Li, **Remote Sensing**. [Code](https://github.com/NianWang-HJJGCDX/HPCDL)
 -   Multi-order Graph based Clustering Via Dynamical Low Rank Tensor Approximation, Nian Wang, Zhigao Cui, Aihua Li, Yuanliang Xue, Rong Wang, Feiping Nie,   **Neurocomputing**. [Code](https://github.com/NianWang-HJJGCDX/MCDLT)
