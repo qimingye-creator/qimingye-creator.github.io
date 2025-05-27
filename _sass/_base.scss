@@ -14,7 +14,7 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  background-color: #F5F3E8; // Added this line
+  // background-color: #F5F3E8; // Added this line
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
