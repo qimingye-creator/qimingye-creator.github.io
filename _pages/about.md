@@ -23,6 +23,10 @@ I am an incoming Ph.D. candidate at the Institute for Artificial Intelligence, P
 
 My research is focused on developing autonomous agents capable of operating in open-ended, dynamic environments such as Minecraft. To achieve this goal, I concentrate on two key elements: First, designing robust planning systems that enable agents to make complex decisions over long time horizons. This involves developing algorithms for reasoning about uncertain outcomes, decomposing high-level goals into executable subgoals, and continuously revising plans as new information becomes available. Second, creating intuitive controllers that allow agents to seamlessly interact with their environments. This requires integrating perception, decision-making, and low-level control in a unified framework that can handle the rich, multimodal inputs and outputs characteristic of virtual worlds. In addition to these core areas, I am keenly interested in multi-agent systems, exploring how autonomous agents can coordinate their behaviors to accomplish shared objectives. I am also drawn to cognitive reasoning and developing computational models that capture aspects of human-like intelligence. Furthermore, I am excited by the potential of AI to accelerate scientific discovery across domains. My ultimate vision is to develop intelligent agents that can autonomously explore, understand, and shape the open-ended environments they inhabit in pursuit of complex, self-motivated goals.
 
+<div style="width: 550px; height: 550px; margin: auto; background-color: #F5F3E8; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+  <canvas id="taiji-canvas" width="550" height="550" style="display: block; width: 550px; height: 550px;"></canvas>
+</div>
+<script src="/assets/js/taiji-tessellation.js"></script>
 
 # 🔥 News
 + *Mar 2025* 🐣🐣 We have released a state-of-the-art Minecraft Agent, "ROCKET-2", supporting cross-view goal specification!
