@@ -31,7 +31,7 @@
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: $sans-serif; // Changed from $sans-serif-narrow
   }
 
   h3, h4 {
@@ -98,7 +98,7 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 1px solid $nord3; // Explicitly $nord3, though $border-color is already $nord3
     }
   }
 }
@@ -182,11 +182,12 @@
   margin-top: 15px;
   padding: 10px;
   list-style-type: none;
-  border: 1px solid $border-color;
+  border: 1px solid $nord2;
   border-radius: $border-radius;
-  background: #fff;
+  background: $nord1;
+  color: $nord5; // Added for text content
   z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  box-shadow: 0 0 10px rgba($nord0, 0.25); // Changed #000 to $nord0
   cursor: default;
 
   @include breakpoint($large) {
@@ -208,7 +209,7 @@
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
-    border-color: $border-color transparent;
+    border-color: $nord2 transparent; // Use new border color
     z-index: 0;
 
     @include breakpoint($large) {
@@ -225,7 +226,7 @@
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
-    border-color: #fff transparent;
+    border-color: $nord1 transparent; // Use new background color
     z-index: 1;
 
     @include breakpoint($large) {
@@ -243,12 +244,13 @@
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: inherit;
+    color: $nord5; // Changed from inherit
     font-size: $type-size-5;
     text-decoration: none;
 
     &:hover {
       text-decoration: underline;
+      color: $nord6; // Added hover color
     }
   }
 }
@@ -258,7 +260,7 @@
   font-size: 1.75em;
   display: block;
   a {
-    color: inherit;
+    color: $nord9; // Changed from inherit
     text-decoration: none;
     &:hover {
       text-decoration: underline;

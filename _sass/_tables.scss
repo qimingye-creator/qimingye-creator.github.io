@@ -8,7 +8,6 @@ table {
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
-  // border: 1px solid $light-gray;
 
   & + table {
     margin-top: 1em;
@@ -16,15 +15,14 @@ table {
 }
 
 thead {
-  background-color: $lighter-gray;
-  // border-bottom: 1px solid $light-gray;
+  background-color: $nord5;
 }
 
 th {
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
-  // border-right: 1px solid $light-gray;
+  color: $nord0;
 }
 tr {
   padding-bottom: .5em;
@@ -32,8 +30,7 @@ tr {
 }
 td {
   padding: .5em;
-  border-bottom: 1px solid $light-gray;
-  // border-right: 1px solid $light-gray;
+  border-bottom: 1px solid $nord4;
 }
 
 tr, td, th {

@@ -14,7 +14,7 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  // background-color: #F5F3E8; // Added this line
+  background-color: $background-color;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
+  color: $nord0;
 }
 
 h1 {
@@ -104,7 +105,8 @@ blockquote {
   padding-left: 1em;
   padding-right: 1em;
   font-style: italic;
-  border-left: 0.25em solid $primary-color;
+  border-left: 0.25em solid $nord10; // Use nord10 as requested, $primary-color is $nord9
+  color: $nord2;
 
   cite {
     font-style: italic;
@@ -149,7 +151,8 @@ td > code {
   padding-bottom: 0.1rem;
   font-size: $type-size-6;
   background: $code-background-color;
-  border: 1px solid $lighter-gray;
+  border: 1px solid $nord2;
+  color: $nord4;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
 
@@ -244,20 +247,20 @@ figure {
 
 figcaption {
   margin-bottom: 0.5em;
-  color: mix(#fff, $text-color, 25%);
+  color: $nord3;
   font-family: $caption-font-family;
   font-size: $type-size-6;
 
   a {
     color: inherit;
     text-decoration: none;
-    border-bottom: 1px solid $light-gray;
+    border-bottom: 1px solid $nord3; // Use a Nord color, e.g., nord3
     -webkit-transition: $global-transition;
     transition: $global-transition;
 
     &:hover {
-      color: #000;
-      border-bottom-color: #000;
+      color: $nord1; // Use a darker Nord color for hover
+      border-bottom-color: $nord2; // Use a darker Nord color for hover border
     }
   }
 }

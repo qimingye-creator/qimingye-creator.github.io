@@ -46,7 +46,7 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px hsl(0, 0%, 94%) solid;
+    border-bottom: 1px solid $nord3; // Updated border-bottom
     padding: 0.75em 0 0.75em 0;
     
     .school-box-image{
@@ -56,8 +56,9 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            box-shadow: 0 2px 5px rgba($nord0, 0.15); // Updated box-shadow
             object-fit: cover;
+            border-radius: $border-radius; // Added border-radius
         }
         
     }
@@ -94,7 +95,7 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px hsl(0, 0%, 94%) solid;
+    border-bottom: 1px solid $nord3; // Updated border-bottom
     padding: 2em 0 2em 0;
     
     
@@ -106,8 +107,9 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            box-shadow: 0 2px 5px rgba($nord0, 0.15); // Updated box-shadow
             object-fit: cover;
+            border-radius: $border-radius; // Added border-radius
         }
         
     }
@@ -157,8 +159,10 @@ h1:before, .anchor:before {
     position: absolute;
     margin-top: .5em;
     margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
+    color: $nord6; // Updated text color
+    background-color: $nord10; // Updated background-color ($info-color)
     font-size: .8em;
+    border-radius: $border-radius; // Added border-radius
+    text-shadow: 1px 1px 1px rgba($nord0, 0.1); // Added subtle text-shadow
     
 }
