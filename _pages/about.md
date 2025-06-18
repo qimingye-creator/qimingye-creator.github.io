@@ -34,6 +34,13 @@ I am working as a research intern at Peking University, advised by Prof. [Li Yua
 - *07/2024*: &nbsp;🎉🎉 One paper is accepted by ECCV2024!
 - **Reviewer Service**: ACM MM24&25, ECCV24, KDD25, ICCV25, NIPS25
 
+# 📝 Preprint
+- [Seeing sound, hearing sight: Uncovering modality bias and conflict of ai models in sound localization](https://arxiv.org/abs/2505.11217), **Yanhao Jia**, Ji Xie, S Jivaganesh, Hao Li, Xu Wu, Mengmi Zhang.
+
+- [Towards Robust Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning](https://arxiv.org/abs/2505.17050), **Yanhao Jia**, Xinyi Wu, Qinglin Zhang, Yiran Qin, Luwei Xiao, Shuai Zhao.
+
+- [Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models](https://arxiv.org/abs/2506.11521), Jinming Wen, Xinyi Wu, Shuai Zhao, **Yanhao Jia**, Yuwen Li.
+
 # 📝 Publications <a href='https://scholar.google.com/citations?user=jQx7NpQAAAAJ&hl=en'>
 
 - ``ACL 2025`` [Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education](https://arxiv.org/abs/2502.05863), **Yanhao Jia<sup>*</sup>**, Xinyi Wu<sup>*</sup>, Hao Li, Qinglin Zhang, Yuxiao Hu, Shuai Zhao, Wenqi Fan.
@@ -48,11 +55,11 @@ I am working as a research intern at Peking University, advised by Prof. [Li Yua
 
 - ``Nuclear Science and Techniques`` [A real-time calibration method based on time-to-digital converter for accelerator timing system](https://link.springer.com/article/10.1007/s41365-024-01510-5), Qihao Duan, Liang Ge, **Yanhao Jia**, Jieyu Zhu, Wei Zhang.
 
-- ``Journal of Instrumentation`` [FOML, A deep learning based fast online multi-track locating algorithm for MPGD with silicon pixel sensors](), Jiangyong Du, Xiangyu Deng, **Yanhao Jia**, Jianwei Liao, Chengxin Zhao.
+- ``Journal of Instrumentation`` [FOML, A deep learning based fast online multi-track locating algorithm for MPGD with silicon pixel sensors](https://indico.cern.ch/event/1453371/contributions/6176737/contribution.pdf), Jiangyong Du, Xiangyu Deng, **Yanhao Jia**, Jianwei Liao, Chengxin Zhao.
 
-- ``ACL 2025 (Findings)`` [Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation](https://arxiv.org/abs/2410.14425), Shuai Zhao, Xiaobao Wu, Cong-Duy T Nguyen, Yanhao Jia, Meihuizi Jia, Feng Yichao, Anh Tuan Luu.
+- ``ACL 2025 (Findings)`` [Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation](https://arxiv.org/abs/2410.14425), Shuai Zhao, Xiaobao Wu, Cong-Duy T Nguyen, **Yanhao Jia**, Meihuizi Jia, Feng Yichao, Anh Tuan Luu.
 
-- ``IEEE Trans on Affective Computing`` [Exploring Cognitive and Aesthetic Causality for Multimodal Aspect-Based Sentiment Analysis](), Luwei Xiao, Rui Mao, Shuai Zhao, Qika Lin, **Yanhao Jia**, Liang He, Erik Cambria.
+- ``IEEE Trans on Affective Computing`` [Exploring Cognitive and Aesthetic Causality for Multimodal Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2504.15848), Luwei Xiao, Rui Mao, Shuai Zhao, Qika Lin, **Yanhao Jia**, Liang He, Erik Cambria.
 
 
 # 👨‍💻 Open-Source Projects
