@@ -52,8 +52,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Student in Artificial Intelligence
+    institution: Xi'an Jiaotong University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
