@@ -92,6 +92,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
+      - name: Soccer
+        description: ''
+        percent: 80
+        icon: soccer-ball
       - name: Photography
         description: ''
         percent: 80
