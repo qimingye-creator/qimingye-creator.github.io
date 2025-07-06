@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 廖智民
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Zhimin Liao
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Zhimin
-last_name: Liao
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -20,30 +20,36 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D Student in Artificial Intelligence
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Xi'an Jiaotong University-AIAR Lab
-    url: http://www.aiar.xjtu.edu.cn/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'liaozzm@gmail.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/lzzzzzm
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=Wnn_6nsAAAAJ&hl=zh-CN
+    url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0009-0007-8737-8127
+    url: https://orcid.org/
 
 interests:
-  - 3D Scene Understanding
-  - Autonomous Driving
-  - World Models 
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
@@ -177,4 +183,4 @@ awards:
 
 ## About Me
 
-Zhimin Liao is a Ph.D student in the AIAR Lab at Xi'an Jiaotong University, supervised by Ping Wei. His research interests include 3D scene understanding, autonomous driving, and world models. He has a strong background in automation and data science, with a Bachelor's degree from Jilin University.
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
