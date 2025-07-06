@@ -37,7 +37,7 @@ sections:
       text: |-
         I'm a Ph.D. student in Artificial Intelligence at Xi'an Jiaotong University, working in the AIAR Lab under the supervision of [Ping Wei](https://gr.xjtu.edu.cn/web/pingwei). My research focuses on 3D scene understanding, autonomous driving, and world models.
 
-        Exploring world model in embodied 🤖.
+        I'm now Exploring world model in embodied 🤖. I have passion for advancing the field of AI and contributing to the development of intelligent systems that can understand and interact with the world in a more human-like manner.
         
         Please reach out to collaborate 😃
     design:
