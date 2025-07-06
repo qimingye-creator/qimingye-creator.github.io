@@ -51,10 +51,7 @@ education:
     date_start: 2023-09-01
     date_end: 2028-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Supervised by [Ping Wei](https://gr.xjtu.edu.cn/web/pingwei). Exploring world model in embodied area..
   - area: BS in Automation
     institution: Jilin University
     date_start: 2019-09-01
