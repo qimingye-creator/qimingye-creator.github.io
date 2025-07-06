@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
-date: 2022-10-24
+title: "Zhimin Liao's Academic CV"
+date: 2025-07-06
 type: landing
 
 design:
@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a Ph.D. student in Artificial Intelligence at Xi'an Jiaotong University, working in the AIAR Lab under the supervision of [Ping Wei](https://gr.xjtu.edu.cn/web/pingwei). My research focuses on 3D scene understanding, autonomous driving, and world models.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Exploring world model in embodied 🤖.
         
         Please reach out to collaborate 😃
     design:
