@@ -89,6 +89,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
+      - name: Reading
+        description: ''
+        percent: 70
+        icon: book-open
       - name: Photography
         description: ''
         percent: 80
