@@ -52,7 +52,6 @@ education:
     date_end: Now
     summary: |
       Supervised by [Ping Wei](https://gr.xjtu.edu.cn/web/pingwei). Exploring world model in embodied area.
-      
   - area: BS Automation
     institution: Jilin University
     date_start: 2019-09-01
