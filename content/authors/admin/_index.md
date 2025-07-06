@@ -92,7 +92,7 @@ skills:
       - name: Reading
         description: ''
         percent: 70
-        icon: book-open
+        icon: camera
       - name: Photography
         description: ''
         percent: 80
