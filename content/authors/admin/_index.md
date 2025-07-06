@@ -52,9 +52,6 @@ education:
     date_end: 2028-06-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: BS in Automation
     institution: Jilin University
     date_start: 2019-09-01
