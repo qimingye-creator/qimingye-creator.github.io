@@ -47,22 +47,36 @@ interests:
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Xi'an Jiaotong University
-    date_start: 2023-09-01
-    date_end: Now
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Supervised by [Ping Wei](https://gr.xjtu.edu.cn/web/pingwei). Exploring world model in embodied area.
-  - area: BS Automation
-    institution: Jilin University
-    date_start: 2019-09-01
-    date_end: 2023-06-31
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
 
       Courses included:
-      - Principle of automatic control
-      - Digital Signal Processing
-      - Microcontrolles & embedded systems
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
