@@ -45,11 +45,6 @@ interests:
   - Autonomous Driving
   - World Models 
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
