@@ -90,10 +90,6 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: dog
       - name: Photography
         description: ''
         percent: 80
