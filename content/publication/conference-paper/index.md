@@ -48,13 +48,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2504.19749'
-url_code: 'https://github.com/lzzzzzm/STCOcc'
-url_dataset: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
-url_video: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
