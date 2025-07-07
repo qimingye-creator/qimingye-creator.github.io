@@ -74,4 +74,7 @@ projects:
 slides: example
 ---
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Our main contribution:
+
+- We propose STCOcc, a novel explicit state-based modeling method designed to leverage the occupied state to renovate 3D features for occupancy and scene flow prediction.
+
