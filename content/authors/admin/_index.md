@@ -6,8 +6,8 @@ title: Zhimin Liao
 name_pronunciation: Zhimin Liao
 
 # Full name (for SEO)
-first_name: Zhimin
-last_name: Liao
+first_name: 智民
+last_name: 廖
 
 # Status emoji
 status:
