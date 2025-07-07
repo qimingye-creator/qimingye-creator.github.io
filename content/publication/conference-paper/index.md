@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2504.19749'
+url_pdf: ''
 url_code: 'https://github.com/lzzzzzm/STCOcc'
 url_dataset: ''
 url_poster: ''
