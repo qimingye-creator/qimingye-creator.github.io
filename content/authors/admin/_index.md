@@ -3,11 +3,11 @@
 title: Zhimin Liao
 
 # Name pronunciation (optional)
-name_pronunciation: Zhimin Liao
+name_pronunciation: 廖智民
 
 # Full name (for SEO)
-first_name: 智民
-last_name: 廖
+first_name: Zhimin
+last_name: Liao
 
 # Status emoji
 status:
