@@ -37,7 +37,7 @@ abstract: 3D occupancy and scene flow offer a detailed and dynamic representatio
 summary: We propose STCOcc, a novel explicit state-based modeling method designed to leverage the occupied state to renovate 3D features for occupancy and scene flow prediction.
 
 tags:
-  - Large Language Models
+  - Autonomous Driving
 
 # Display this page in the Featured widget?
 featured: true
@@ -49,11 +49,7 @@ featured: true
 
 url_pdf: ''
 url_code: 'https://github.com/lzzzzzm/STCOcc'
-url_dataset: '#'
 url_poster: ''
-url_project: '#'
-url_slides: '#'
-url_source: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
