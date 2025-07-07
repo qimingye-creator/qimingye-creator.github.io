@@ -1,6 +1,8 @@
 ---
 # Display name
 title: 廖智民
+authors:
+    - Zhimin Liao
 
 # Name pronunciation (optional)
 name_pronunciation: Zhimin Liao
