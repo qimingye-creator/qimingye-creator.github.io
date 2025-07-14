@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhijian Li"
-description              : "ShanDong University"
+description              : "Aerospace Information Research Institute, Chinese Academy of Sciences, AIRCAS"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhijian Li(李志坚)"
   avatar           : "images/ZhijianLi1.jpg" 
-  bio              : "A senior undergraduate"
+  bio              : "A PhD Student"
   location         : "WeiHai, China"
   employer         :
   pubmed           : 
