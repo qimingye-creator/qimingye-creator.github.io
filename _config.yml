@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zijian Wang"
   avatar           : "images/ZIJIAN.jpeg"
-  bio              : "[Curriculum Vitae]"
+  bio              : "docs/CV_Jun.pdf"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
