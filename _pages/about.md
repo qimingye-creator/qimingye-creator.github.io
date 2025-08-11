@@ -46,11 +46,13 @@ redirect_from:
 # 🏆 Competition Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The 18th Undergraduate Smart Car Competition</div><img src='images/5G_Project .png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[**5G Outdoor Autonomous Vehicle With Multi-sensor Fusion(Undergraduate Project)**](https://zhijianli2003.github.io/images/5G_Team_Introduce.pdf)
+**5G Outdoor Autonomous Vehicle With Multi-sensor Fusion(Undergraduate Project)**
+
 
 **Zhijian Li**, Zhang Yu, Tianyu Zhou, Yanmao He, Yuesheng Liu
 
-**Features**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Contents**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - GNSS/INS Combination Positioning based on EKF.
 - Visual Navigation based on CV
 - Stanley Path Tracking and Fuzzy PID Control
@@ -66,7 +68,7 @@ redirect_from:
 - [First Prize of 2024 Provincial Undergraduate Electronic Design Competition](https://zhijianli2003.github.io/images/2024H.jpg)[(We are invited by Texas Instruments and open source our code)](https://github.com/ZhijianLi2003/ZLC_MSPM0_Peripheral_Library), **Zhijian Li**, Haoran Chen, Tianyu Zhou,  &nbsp;2024.08,&nbsp;Shandong,&nbsp;China
 
 # 📖 Educations and Work experience
-- ***2025.06 - 2030.06 (future)***,  &nbsp;Ph.D.student(Supervisor: [Prof. Fu Kun](http://www.aircas.ac.cn/sourcedb/cn/expert/yjy/201811/t20181106_5165762.html)), &nbsp;Aerospace Information Research Institute,&nbsp; Chinese Academy of Sciences,&nbsp; Beijing, &nbsp;China
+- ***2025.09 - 2030.06 (future)***,  &nbsp;Ph.D.student(Supervisor: [Prof. Fu Kun](http://www.aircas.ac.cn/sourcedb/cn/expert/yjy/201811/t20181106_5165762.html)), &nbsp;Aerospace Information Research Institute,&nbsp; Chinese Academy of Sciences,&nbsp; Beijing, &nbsp;China
 - ***2021.09 - 2025.06 (now)***,  &nbsp;B.Eng. in Electronic Science and Technology, &nbsp;School of Mechanial, Electrical and Information Engineering, &nbsp;Shandong University, &nbsp;Weihai,&nbsp; China. 
 
 # 💬 Talk and Contact
