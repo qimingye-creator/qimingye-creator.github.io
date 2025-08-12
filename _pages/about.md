@@ -45,6 +45,7 @@ My research interest includes Multimodal Fusion, AI4H(Artificial Intelligence fo
 </div> -->
 <!-- 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+> Coming soon —— still polishing this section.
 
 # 🎖 Honors and Awards
 - *2022* Excellent Student of the Year, DUT. 
@@ -54,3 +55,4 @@ My research interest includes Multimodal Fusion, AI4H(Artificial Intelligence fo
 
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+> To be added —— content under preparation.
