@@ -96,7 +96,7 @@
     width: 75px;    /* match small avatar column */
     height: 100px;  /* taller than width for vertical ellipse */
     object-fit: cover; /* keep face centered and fill */
-    object-position: center;
+    object-position: center top;
     border-radius: 50% / 60%; /* ellipse: horizontal 50%, vertical 60% */
 
     @include breakpoint($large) {
