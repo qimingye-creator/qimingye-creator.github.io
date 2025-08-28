@@ -22,7 +22,6 @@ Nice to meet you! I am Zhe Li (李哲), and I received my Ph.D. degree from the 
 My research interests broadly lie in the fields of Multimodal Artificial Intelligence and Deep Learning, including vision-language alignment, cross-modal retrieval, and retrieval-augmented generation.
 
 
-
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
