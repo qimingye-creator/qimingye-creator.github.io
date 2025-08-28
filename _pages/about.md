@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Nice to meet you! I am Zhe Li (李哲), and I received my Ph.D. degree from the School of Cyber Science and Technology at the University of Science and Technology of China (USTC) in 2025, advised by  <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=zh-CN'> Prof. Yongdong Zhang</a> (IEEE Fellow) and  <a href='https://scholar.google.com/citations?user=m-0P8sgAAAAJ&hl=zh-CN'>  Prof. Zhendong Mao</a>. From 2019 to 2021, I studied at the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. Jie Tian. Prior to that, I obtained my B.S. degree in Electronic Information Engineering from Shandong University (SDU) in 2019.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests broadly lie in the fields of Multimodal Artificial Intelligence and Deep Learning, including vision-language alignment, cross-modal retrieval, and retrieval-augmented generation.
+
 
 
 # 🔥 News
