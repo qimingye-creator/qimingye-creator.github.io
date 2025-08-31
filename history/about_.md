@@ -39,8 +39,9 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 </div><img src='images/papers/3-IAL-ICML25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICML 2025**] [How Do Images Align and Complement LiDAR? Towards a Harmonized Multi-modal 3D Panoptic Segmentation](Paper(Coming-soon)) \\
+[**ICML 2025**] [How Do Images Align and Complement LiDAR? Towards a Harmonized Multi-modal 3D Panoptic Segmentation](https://arxiv.org/abs/2505.18956) \\
 **Yining Pan**, Qiongjie Cui, Xulei Yang, Na Zhao
+[[Project page]](https://github.com/IMPL-Lab/IAL)
 
 - This paper proposes the Image-Assists-LiDAR (IAL) model, which harmonizes LiDAR and images through synchronized augmentation, token fusion, and prior query generation.
 - IAL achieves SOTA performance on 3D panoptic benchmarks, outperforming baseline methods by over 4%.
