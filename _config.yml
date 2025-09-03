@@ -7,12 +7,12 @@
 
 # Site Settings
 title                    : "Zhijie Zhong"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "I am a PhD student in the School of Information Science and Engineering, South China University of Technology, advised by Prof. Zhiwen Yu. My research interests include machine learning, time series analysis, and LLM."
+repository               : "EmorZz1G/EmorZz1G.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  rn_Xd0kAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-TJSRJMFMDY # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
