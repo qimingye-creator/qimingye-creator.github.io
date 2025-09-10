@@ -68,7 +68,7 @@
 - [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 -->
 ## 2025
--   Target-Distractor Aware UAV Tracking via Global Agent, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **EEE Transactions on Intelligent Transportation Systems**. [Code](https://bgithub.xyz/xyl-507/TDAT)
+-   Target-Distractor Aware UAV Tracking via Global Agent, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Intelligent Transportation Systems**. [Code](https://bgithub.xyz/xyl-507/TDAT)
 -   When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Xin Luo, Chang Liu, Nian Wang, Menglin Zhang, Yanzhao Su, Dong Liu, **ICCV 2025**. [Code](https://bgithub.xyz/ywxjm/DehazeSB)
 -   Weakly Supervised Image Dehazing via Physics-Based Decomposition,  Nian Wang, Zhigao Cui, Yanzhao Su, Yunwei Lan, Yuanliang Xue, Cong Zhang, Aihua Li, **IEEE Transactions on Circuits and Systems for Video Technology**. [Code](https://bgithub.xyz/NianWang-HJJGCDX/PBD)
 -   Multi-view Clustering Based on Doubly Stochastic Graph, Nian Wang, Zhigao Cui, Aihua Li, Rong Wang and Feiping Nie, **Signal Processing**. [Code](https://bgithub.xyz/NianWang-HJJGCDX/MCDSG)
