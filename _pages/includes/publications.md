@@ -69,29 +69,19 @@
 - [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 -->
 
-</head>
-<body style="background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);">
-    <div class="wrapper">
-    <header>
-    <div class="topnav" id="myTopnav">
-              <a class="" href="./index.html">Home</a>
-              <a class="active" href="./publication.html">Publications</a>
-              <a class="" href="./project.html">Projects</a>
-              <a class="" href="./student.html">Students</a>
-            <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
-     <div style="padding-left:16px"> </div>
-     </div>
-      <script>
-      function myFunction() {
-        var x = document.getElementById("myTopnav");
-        if (x.className === "topnav") {
-          x.className += " responsive";
-        } else {
-          x.className = "topnav";
-        }
-      }
-      </script>   
-     </header>
+  <hr/>
+     <ol reversed id="papers">
+            <li>
+    <a href="https://arxiv.org/abs/2507.15253">Disentangling Homophily and Heterophily in Multimodal Graph Clustering
+</a>(<a href="https://github.com/Uncnbb/DMGC"  style="color: #00bbff">code here</a>)
+        <br />
+        <a class="author">Zhaochen Guo, Zhixiang Shen, Xuanting Xie, Liangjian Wen, Zhao Kang* </a>(<strong>Undergraduate:</strong>Zhaochen Guo)<br />
+     <a class="label label-primary-conference">MM</a>
+        <a class="label label-primary-year">2025</a>
+                    <a class="label label-primary-level">CCF-A类</a>
+
+  </li>
+                  <li>
      
 ## 2025
  <a href="https://arxiv.org/abs/2409.00687">When Heterophily Meets Heterogeneous Graphs: Latent Graphs Guided Unsupervised Representation Learning</a>(<a href="https://bgithub.xyz/zxlearningdeep/LatGRL"  style="color: #00bbff">code here</a>)<br />
