@@ -97,7 +97,21 @@ Yanzhao Su, Aihua Li, **Remote Sensing**. [Code here](https://github.com/NianWan
 - Consistent Representation Mining for Multi-Drone Single Object Tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Circuits and Systems for Video Technology**. [Code here](https://github.com/xyl-507/CRM)
 
 ## 2023
-- Smalltrack: Wavelet pooling and graph enhanced classification for uav small object tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Geoscience and Remote Sensing**. [Code here](https://github.com/xyl-507/SmallTrack)
-- Physical model and image translation fused network for single-image dehazing, Yan Zhao Su, Chuan He, Zhi Gao Cui, Ai Hua Li, Nian Wang, **Pattern Recognition**. [Code here](https://github.com/syzlhh/PMITFN)
+- Smalltrack: Wavelet pooling and graph enhanced classification for uav small object tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Geoscience and Remote Sensing**. <span style="
+    background-color: #007bff; 
+    color: white; 
+    padding: 2px 6px; 
+    border-radius: 3px; 
+    font-weight: bold;">
+中科院1区 JCR1区
+</span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span> [Code here](https://github.com/xyl-507/SmallTrack)
+- Physical model and image translation fused network for single-image dehazing, Yan Zhao Su, Chuan He, Zhi Gao Cui, Ai Hua Li, Nian Wang, **Pattern Recognition**. <span style="
+    background-color: #007bff; 
+    color: white; 
+    padding: 2px 6px; 
+    border-radius: 3px; 
+    font-weight: bold;">
+中科院1区 JCR1区
+</span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">[Code here](https://github.com/syzlhh/PMITFN)
 
 
