@@ -97,7 +97,14 @@ CCF A类会议
     ">
 中科院1区 JCR1区
 </span>  [Code here](https://bgithub.xyz/NianWang-HJJGCDX/PBD)
--   Multi-view Clustering Based on Doubly Stochastic Graph, Nian Wang, Zhigao Cui, Aihua Li, Rong Wang and Feiping Nie, **Signal Processing**. [Code here](https://bgithub.xyz/NianWang-HJJGCDX/MCDSG)
+-   Multi-view Clustering Based on Doubly Stochastic Graph, Nian Wang, Zhigao Cui, Aihua Li, Rong Wang and Feiping Nie, **Signal Processing**. <span style="
+    background-color: #007bff; 
+    color: white; 
+    padding: 2px 6px; 
+    border-radius: 3px; 
+    font-weight: bold;">
+中科院2区 JCR1区
+</span>  [Code here](https://bgithub.xyz/NianWang-HJJGCDX/MCDSG)
 -   Large-Scale Hyperspectral Image-Projected Clustering via Doubly Stochastic Graph Learning, Nian Wang, Zhigao Cui, Yunwei Lan, Cong Zhang, Yuanliang Xue, 
 Yanzhao Su, Aihua Li, **Remote Sensing**. [Code here](https://github.com/NianWang-HJJGCDX/HPCDL)
 -   Multi-order Graph based Clustering Via Dynamical Low Rank Tensor Approximation, Nian Wang, Zhigao Cui, Aihua Li, Yuanliang Xue, Rong Wang, Feiping Nie,   **Neurocomputing**. <span style="
