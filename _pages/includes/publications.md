@@ -76,21 +76,21 @@
 -   Target-Distractor Aware UAV Tracking via Global Agent, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Intelligent Transportation Systems**. [Code here](https://bgithub.xyz/xyl-507/TDAT)
 -   When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Xin Luo, Chang Liu, Nian Wang, Menglin Zhang, Yanzhao Su, Dong Liu, **ICCV 2025**. [Code here](https://bgithub.xyz/ywxjm/DehazeSB)
 -   Weakly Supervised Image Dehazing via Physics-Based Decomposition,  Nian Wang, Zhigao Cui, Yanzhao Su, Yunwei Lan, Yuanliang Xue, Cong Zhang, Aihua Li, **IEEE Transactions on Circuits and Systems for Video Technology**. [Code](https://bgithub.xyz/NianWang-HJJGCDX/PBD)
--   Multi-view Clustering Based on Doubly Stochastic Graph, Nian Wang, Zhigao Cui, Aihua Li, Rong Wang and Feiping Nie, **Signal Processing**. [Code](https://bgithub.xyz/NianWang-HJJGCDX/MCDSG)
+-   Multi-view Clustering Based on Doubly Stochastic Graph, Nian Wang, Zhigao Cui, Aihua Li, Rong Wang and Feiping Nie, **Signal Processing**. [Code here](https://bgithub.xyz/NianWang-HJJGCDX/MCDSG)
 -   Large-Scale Hyperspectral Image-Projected Clustering via Doubly Stochastic Graph Learning, Nian Wang, Zhigao Cui, Yunwei Lan, Cong Zhang, Yuanliang Xue, 
-Yanzhao Su, Aihua Li, **Remote Sensing**. [Code](https://github.com/NianWang-HJJGCDX/HPCDL)
--   Multi-order Graph based Clustering Via Dynamical Low Rank Tensor Approximation, Nian Wang, Zhigao Cui, Aihua Li, Yuanliang Xue, Rong Wang, Feiping Nie,   **Neurocomputing**. [Code](https://github.com/NianWang-HJJGCDX/MCDLT)
--  Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Chang Liu, Jialun Peng, Nian Wang, Xin Luo, Dong Liu,  **AAAI 2025**. [Code](https://github.com/ywxjm/Diff-Dehazer)
--  Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer, Yanzhao Su, Nian Wang, Zhigao Cui, Yanping Cai, Chuan He, Aihua Li,  **IEEE Transactions on Multimedia**. [Code](https://github.com/NianWang-HJJGCDX/DNMGDT)
--  Structured Doubly Stochastic Graph-Based Clustering, Nian Wang, Zhigao Cui, Aihua Li, Yihang Lu, Rong Wang and Feiping Nie,  **IEEE Transactions on Neural Networks and Learning Systems**. [Code](https://github.com/NianWang-HJJGCDX/SDSGC)
+Yanzhao Su, Aihua Li, **Remote Sensing**. [Code here](https://github.com/NianWang-HJJGCDX/HPCDL)
+-   Multi-order Graph based Clustering Via Dynamical Low Rank Tensor Approximation, Nian Wang, Zhigao Cui, Aihua Li, Yuanliang Xue, Rong Wang, Feiping Nie,   **Neurocomputing**. [Code here](https://github.com/NianWang-HJJGCDX/MCDLT)
+-  Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Chang Liu, Jialun Peng, Nian Wang, Xin Luo, Dong Liu,  **AAAI 2025**. [Code here](https://github.com/ywxjm/Diff-Dehazer)
+-  Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer, Yanzhao Su, Nian Wang, Zhigao Cui, Yanping Cai, Chuan He, Aihua Li,  **IEEE Transactions on Multimedia**. [Code here](https://github.com/NianWang-HJJGCDX/DNMGDT)
+-  Structured Doubly Stochastic Graph-Based Clustering, Nian Wang, Zhigao Cui, Aihua Li, Yihang Lu, Rong Wang and Feiping Nie,  **IEEE Transactions on Neural Networks and Learning Systems**. [Code here](https://github.com/NianWang-HJJGCDX/SDSGC)
  
 ## 2024
-- Capsule Attention Network for Hyperspectral Image Classification, Nian Wang, Aitao Yang, Zhigao Cui, Yao Ding, Yuanliang Xue, Yanzhao Su, **Remote Sensing**. [Code](https://github.com/NianWang-HJJGCDX/CAN)
-- Handling occlusion in uav visual tracking with query-guided redetection, Yuanliang Xue, Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang, Jing Gao, **IEEE Transactions on Instrumentation and Measurement**. [Code](https://github.com/xyl-507/QRDT)
-- Consistent Representation Mining for Multi-Drone Single Object Tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Circuits and Systems for Video Technology**. [Code](https://github.com/xyl-507/CRM)
+- Capsule Attention Network for Hyperspectral Image Classification, Nian Wang, Aitao Yang, Zhigao Cui, Yao Ding, Yuanliang Xue, Yanzhao Su, **Remote Sensing**. [Code here](https://github.com/NianWang-HJJGCDX/CAN)
+- Handling occlusion in uav visual tracking with query-guided redetection, Yuanliang Xue, Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang, Jing Gao, **IEEE Transactions on Instrumentation and Measurement**. [Code here](https://github.com/xyl-507/QRDT)
+- Consistent Representation Mining for Multi-Drone Single Object Tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Circuits and Systems for Video Technology**. [Code here](https://github.com/xyl-507/CRM)
 
 ## 2023
 - Smalltrack: Wavelet pooling and graph enhanced classification for uav small object tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Geoscience and Remote Sensing**. [Code](https://github.com/xyl-507/SmallTrack)
-- Physical model and image translation fused network for single-image dehazing, Yan Zhao Su, Chuan He, Zhi Gao Cui, Ai Hua Li, Nian Wang, **Pattern Recognition**. [Code](https://github.com/syzlhh/PMITFN)
+- Physical model and image translation fused network for single-image dehazing, Yan Zhao Su, Chuan He, Zhi Gao Cui, Ai Hua Li, Nian Wang, **Pattern Recognition**. [Code here](https://github.com/syzlhh/PMITFN)
 
 
