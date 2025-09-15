@@ -69,11 +69,93 @@
 - [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 -->
 
-  <hr/>
+
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>康昭 | Publication Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="description" content="康昭, 康昭电子科大，康昭计算机, 计算机康昭，Zhao Kang, Kang Zhao">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="stylesheets/all.css">
+    <link rel="stylesheet" href="stylesheets/font-awesome.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <script src="javascripts/jquery.min.js"></script>
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body style="background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);">
+    <div class="wrapper">
+    <header>
+    <div class="topnav" id="myTopnav">
+              <a class="" href="./index.html">Home</a>
+              <a class="active" href="./publication.html">Publications</a>
+              <a class="" href="./project.html">Projects</a>
+              <a class="" href="./student.html">Students</a>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
+     <div style="padding-left:16px"> </div>
+     </div>
+      <script>
+      function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+          x.className += " responsive";
+        } else {
+          x.className = "topnav";
+        }
+      }
+      </script>   
+     </header>
+ <section>
+     <p><img style="float: right;height:14rem;weight:auto;border-radius: 0.5rem;" src="1611676768275_.pic_hd.jpg"  /></p>
+<!--     <div id="admysenseHeader">Zhao Kang</div>-->
+     <div id="admysenseHeader">康 昭</div>
+      <br>
+     <p><br />
+         <em><strong>教授，四川省青年人才计划特聘专家, 全球高潜力AI华人青年学者Top100，全球Top 2%顶尖科学家, 最佳计算机科学领域科学家，唐立新优秀学者，教育部/新疆/四川省科学技术进步一等奖，优秀共产党员，优秀班主任，本科生创新能力培养奖</strong><br />
+        <strong>美国南伊利诺伊大学博士，2017年5月</strong><br />
+        <strong>电子科技大学，计算机科学与工程学院，认知计算与智能决策团队</strong><br />
+             <b><strong>邮箱: </strong></b><strong>zkang@uestc.edu.cn</strong><br/>
+               <a href="https://scholar.google.com/citations?user=T_yCaN4AAAAJ&hl=en">GoogleScholar</a>
+               <a href="https://github.com/sckangz">Github</a>     
+         </em>
+     </p>
+
+</p>
+<h2 id="research-focus">Publications</h2>
+
+<!--     <script src="./showdown-master/dist/showdown.min.js"></script>-->
+<!--     <script type="text/javascript">-->
+<!--         var converter = new showdown.Converter(),-->
+<!--             text = "",   //需要显示的markdown笔记-->
+<!--             html = converter.makeHtml(text);-->
+<!--         document.getElementById('test').innerHTML = html;-->
+<!--     </script>-->
+
+     <hr/>
      <ol reversed id="papers">
             <li>
     <a href="https://arxiv.org/abs/2507.15253">Disentangling Homophily and Heterophily in Multimodal Graph Clustering
 </a>(<a href="https://github.com/Uncnbb/DMGC"  style="color: #00bbff">code here</a>)
+        <br />
+        <a class="author">Zhaochen Guo, Zhixiang Shen, Xuanting Xie, Liangjian Wen, Zhao Kang* </a>(<strong>Undergraduate:</strong>Zhaochen Guo)<br />
+     <a class="label label-primary-conference">MM</a>
+        <a class="label label-primary-year">2025</a>
+                    <a class="label label-primary-level">CCF-A类</a>
+                    
+  <hr/>
+     <ol reversed id="papers">
+            <li>
+    <a href="https://arxiv.org/abs/2507.15253">Disentangling Homophily and Heterophily in Multimodal Graph Clustering
+</a>(<a href="https://bgithub.xyz/Uncnbb/DMGC"  style="color: #00bbff">code here</a>)
         <br />
         <a class="author">Zhaochen Guo, Zhixiang Shen, Xuanting Xie, Liangjian Wen, Zhao Kang* </a>(<strong>Undergraduate:</strong>Zhaochen Guo)<br />
      <a class="label label-primary-conference">MM</a>
