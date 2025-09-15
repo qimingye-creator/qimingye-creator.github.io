@@ -73,7 +73,8 @@
      
 ## 2025
 
--   Target-Distractor Aware UAV Tracking via Global Agent, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Intelligent Transportation Systems**. [Code here](https://bgithub.xyz/xyl-507/TDAT)
+-   Target-Distractor Aware UAV Tracking via Global Agent, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Intelligent Transportation Systems**.
+-   <span style="background-color:#FFC0CB; padding: 2px 4px; border-radius: 3px;">SDM</span>, <span style="color:#FF5733;">中科院JCR</span>, [Code here](https://bgithub.xyz/xyl-507/TDAT)
 -   When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Xin Luo, Chang Liu, Nian Wang, Menglin Zhang, Yanzhao Su, Dong Liu, **ICCV 2025**. [Code here](https://bgithub.xyz/ywxjm/DehazeSB)
 -   Weakly Supervised Image Dehazing via Physics-Based Decomposition,  Nian Wang, Zhigao Cui, Yanzhao Su, Yunwei Lan, Yuanliang Xue, Cong Zhang, Aihua Li, **IEEE Transactions on Circuits and Systems for Video Technology**. [Code](https://bgithub.xyz/NianWang-HJJGCDX/PBD)
 -   Multi-view Clustering Based on Doubly Stochastic Graph, Nian Wang, Zhigao Cui, Aihua Li, Rong Wang and Feiping Nie, **Signal Processing**. [Code here](https://bgithub.xyz/NianWang-HJJGCDX/MCDSG)
