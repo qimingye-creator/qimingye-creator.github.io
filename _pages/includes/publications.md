@@ -116,7 +116,7 @@ CCF A类会议
     color: white; 
     padding: 2px 6px; 
     border-radius: 3px; 
-    font-weight: bold;">
+    ">
 中科院1区 JCR1区
 </span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span> [Code here](https://github.com/xyl-507/SmallTrack)
 - Physical model and image translation fused network for single-image dehazing, Yan Zhao Su, Chuan He, Zhi Gao Cui, Ai Hua Li, Nian Wang, **Pattern Recognition**. <span style="
