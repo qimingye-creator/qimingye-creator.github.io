@@ -123,9 +123,8 @@ CCF A类会议
     background-color: #007bff; 
     color: white; 
     padding: 2px 6px; 
-    border-radius: 3px; 
-    font-weight: bold;">
+    border-radius: 3px; ">
 中科院1区 JCR1区
-</span> [Code here](https://github.com/syzlhh/PMITFN)
+</span> &ensp; [Code here](https://github.com/syzlhh/PMITFN)
 
 
