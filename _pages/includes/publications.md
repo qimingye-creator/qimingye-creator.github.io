@@ -69,7 +69,11 @@
 - [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 -->
 
-
+- **期刊/会议类型**：Neural Networks（期刊）、<span style="background-color:#FFC0CB; padding:2px 6px; border-radius:3px; font-weight:bold;">SDM（会议）</span>
+- **发表年份**：2025年
+- **期刊分区**：<span style="color:#FF5733; font-weight:bold;">中科院JCR 1区</span>
+- **论文标题**：Fine-grained Spatio-temporal Event Prediction with Self-adaptive Anchor Graph
+- **作者团队**：Wang-Tao Zhou, Zhao Kang, Sicong Liu, Lizong Zhang, Ling Tian
      
 ## 2025
 
