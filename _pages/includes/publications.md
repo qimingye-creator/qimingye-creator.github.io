@@ -99,7 +99,7 @@ Yanzhao Su, Aihua Li, **Remote Sensing**. [Code here](https://github.com/NianWan
     color: white; 
     padding: 2px 6px; 
     border-radius: 3px; 
-    font-weight: bold;">
+   ">
 CCF A类会议
 </span> [Code here](https://github.com/ywxjm/Diff-Dehazer)
 -  Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer, Yanzhao Su, Nian Wang, Zhigao Cui, Yanping Cai, Chuan He, Aihua Li,  **IEEE Transactions on Multimedia**. [Code here](https://github.com/NianWang-HJJGCDX/DNMGDT)
