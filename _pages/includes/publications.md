@@ -69,7 +69,14 @@
 - [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 -->
 
-<span style="color:#FF5733;">中科院JCR</span>
+  <!-- SDM框与JCR框组合 -->​
+  <div style="display: inline-block; border: 1px solid #FFC0CB; background-color: #FF69B4; padding: 6px 12px; border-radius: 4px;">​
+    <span style="color: white; font-weight: bold; font-size: 14px;">SDM 2025</span>​
+  </div>​
+  <div style="display: inline-block; border: 1px solid #4169E1; background-color: #1E90FF; padding: 6px 12px; border-radius: 4px; margin-left: 8px;">​
+    <span style="color: white; font-weight: bold; font-size: 14px;">中科院JCR 1区</span>​
+  </div>​
+- **作者**：Zhang San, Li Si, Wang Wu
      
 ## 2025
 
