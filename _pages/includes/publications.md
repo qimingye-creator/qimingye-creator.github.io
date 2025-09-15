@@ -68,6 +68,18 @@
 - [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 -->
 ## 2025
+ <a href="https://arxiv.org/abs/2409.00687">When Heterophily Meets Heterogeneous Graphs: Latent Graphs Guided Unsupervised Representation Learning</a>(<a href="https://github.com/zxlearningdeep/LatGRL"  style="color: #00bbff">code here</a>)<br />
+        <a class="author">Zhixiang Shen, Zhao Kang*</a>(<strong>Undergraduate:</strong>Zhixiang Shen)<br />
+     <a class="label label-primary-journal">IEEE Transactions on Neural Networks and Learning Systems</a>
+        <a class="label label-primary-year">2025</a>
+                     <a class="label label-primary-level">中科院JCR 1区</a>
+  </li>  
+         <li>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0893608025000851?dgcid=author">Robust Graph Structure Learning under Heterophily</a>(<a href=" https://github.com/XieXuanting/RGSL"  style="color: #00bbff">code here</a>)<br />
+        <a class="author">Xuanting Xie, Wenyu Chen, Zhao Kang*</a><br />
+     <a class="label label-primary-journal">Neural Networks</a>
+        <a class="label label-primary-year">2025</a>
+                     <a class="label label-primary-level">中科院JCR 1区</a>
 -   Target-Distractor Aware UAV Tracking via Global Agent, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Intelligent Transportation Systems**. [Code](https://bgithub.xyz/xyl-507/TDAT)
 -   When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Xin Luo, Chang Liu, Nian Wang, Menglin Zhang, Yanzhao Su, Dong Liu, **ICCV 2025**. [Code](https://bgithub.xyz/ywxjm/DehazeSB)
 -   Weakly Supervised Image Dehazing via Physics-Based Decomposition,  Nian Wang, Zhigao Cui, Yanzhao Su, Yunwei Lan, Yuanliang Xue, Cong Zhang, Aihua Li, **IEEE Transactions on Circuits and Systems for Video Technology**. [Code](https://bgithub.xyz/NianWang-HJJGCDX/PBD)
