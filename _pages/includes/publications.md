@@ -94,14 +94,7 @@ CCF A类会议
 -   Large-Scale Hyperspectral Image-Projected Clustering via Doubly Stochastic Graph Learning, Nian Wang, Zhigao Cui, Yunwei Lan, Cong Zhang, Yuanliang Xue, 
 Yanzhao Su, Aihua Li, **Remote Sensing**. [Code here](https://github.com/NianWang-HJJGCDX/HPCDL)
 -   Multi-order Graph based Clustering Via Dynamical Low Rank Tensor Approximation, Nian Wang, Zhigao Cui, Aihua Li, Yuanliang Xue, Rong Wang, Feiping Nie,   **Neurocomputing**. [Code here](https://github.com/NianWang-HJJGCDX/MCDLT)
--  Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Chang Liu, Jialun Peng, Nian Wang, Xin Luo, Dong Liu,  **AAAI 2025**. <span style="
-    background-color: #007bff; 
-    color: white; 
-    padding: 2px 6px; 
-    border-radius: 3px; 
-    font-weight: bold;">
-CCF A类会议
-</span> [Code here](https://github.com/ywxjm/Diff-Dehazer)
+-  Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Chang Liu, Jialun Peng, Nian Wang, Xin Luo, Dong Liu,  **AAAI 2025**.  [Code here](https://github.com/ywxjm/Diff-Dehazer)
 -  Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer, Yanzhao Su, Nian Wang, Zhigao Cui, Yanping Cai, Chuan He, Aihua Li,  **IEEE Transactions on Multimedia**. [Code here](https://github.com/NianWang-HJJGCDX/DNMGDT)
 -  Structured Doubly Stochastic Graph-Based Clustering, Nian Wang, Zhigao Cui, Aihua Li, Yihang Lu, Rong Wang and Feiping Nie,  **IEEE Transactions on Neural Networks and Learning Systems**. [Code here](https://github.com/NianWang-HJJGCDX/SDSGC)
  
@@ -111,20 +104,6 @@ CCF A类会议
 - Consistent Representation Mining for Multi-Drone Single Object Tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Circuits and Systems for Video Technology**. [Code here](https://github.com/xyl-507/CRM)
 
 ## 2023
-- Smalltrack: Wavelet pooling and graph enhanced classification for uav small object tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Geoscience and Remote Sensing**. <span style="
-    background-color: #007bff; 
-    color: white; 
-    padding: 2px 6px; 
-    border-radius: 3px; 
-    ">
-中科院1区 JCR1区
-</span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span> [Code here](https://github.com/xyl-507/SmallTrack)
-- Physical model and image translation fused network for single-image dehazing, Yan Zhao Su, Chuan He, Zhi Gao Cui, Ai Hua Li, Nian Wang, **Pattern Recognition**. <span style="
-    background-color: #007bff; 
-    color: white; 
-    padding: 2px 6px; 
-    border-radius: 3px; ">
-中科院1区 JCR1区
-</span> &ensp; [Code here](https://github.com/syzlhh/PMITFN)
+- Smalltrack: Wavelet pooling and graph enhanced classification for uav small object tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Geoscience and Remote Sensing**.  [Code here](https://github.com/syzlhh/PMITFN)
 
 
