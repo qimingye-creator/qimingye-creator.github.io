@@ -89,11 +89,25 @@
     font-weight: bold;">
 CCF A类会议
 </span> [Code here](https://bgithub.xyz/ywxjm/DehazeSB)
--   Weakly Supervised Image Dehazing via Physics-Based Decomposition,  Nian Wang, Zhigao Cui, Yanzhao Su, Yunwei Lan, Yuanliang Xue, Cong Zhang, Aihua Li, **IEEE Transactions on Circuits and Systems for Video Technology**. [Code here](https://bgithub.xyz/NianWang-HJJGCDX/PBD)
+-   Weakly Supervised Image Dehazing via Physics-Based Decomposition,  Nian Wang, Zhigao Cui, Yanzhao Su, Yunwei Lan, Yuanliang Xue, Cong Zhang, Aihua Li, **IEEE Transactions on Circuits and Systems for Video Technology**. <span style="
+    background-color: #007bff; 
+    color: white; 
+    padding: 2px 6px; 
+    border-radius: 3px; 
+    ">
+中科院1区 JCR1区
+</span>  [Code here](https://bgithub.xyz/NianWang-HJJGCDX/PBD)
 -   Multi-view Clustering Based on Doubly Stochastic Graph, Nian Wang, Zhigao Cui, Aihua Li, Rong Wang and Feiping Nie, **Signal Processing**. [Code here](https://bgithub.xyz/NianWang-HJJGCDX/MCDSG)
 -   Large-Scale Hyperspectral Image-Projected Clustering via Doubly Stochastic Graph Learning, Nian Wang, Zhigao Cui, Yunwei Lan, Cong Zhang, Yuanliang Xue, 
 Yanzhao Su, Aihua Li, **Remote Sensing**. [Code here](https://github.com/NianWang-HJJGCDX/HPCDL)
--   Multi-order Graph based Clustering Via Dynamical Low Rank Tensor Approximation, Nian Wang, Zhigao Cui, Aihua Li, Yuanliang Xue, Rong Wang, Feiping Nie,   **Neurocomputing**. [Code here](https://github.com/NianWang-HJJGCDX/MCDLT)
+-   Multi-order Graph based Clustering Via Dynamical Low Rank Tensor Approximation, Nian Wang, Zhigao Cui, Aihua Li, Yuanliang Xue, Rong Wang, Feiping Nie,   **Neurocomputing**. <span style="
+    background-color: #007bff; 
+    color: white; 
+    padding: 2px 6px; 
+    border-radius: 3px; 
+    ">
+中科院2区 JCR1区
+</span>  [Code here](https://github.com/NianWang-HJJGCDX/MCDLT)
 -  Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Chang Liu, Jialun Peng, Nian Wang, Xin Luo, Dong Liu,  **AAAI 2025**. <span style="
     background-color: #007bff; 
     color: white; 
@@ -102,11 +116,32 @@ Yanzhao Su, Aihua Li, **Remote Sensing**. [Code here](https://github.com/NianWan
    ">
 CCF A类会议
 </span> [Code here](https://github.com/ywxjm/Diff-Dehazer)
--  Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer, Yanzhao Su, Nian Wang, Zhigao Cui, Yanping Cai, Chuan He, Aihua Li,  **IEEE Transactions on Multimedia**. [Code here](https://github.com/NianWang-HJJGCDX/DNMGDT)
--  Structured Doubly Stochastic Graph-Based Clustering, Nian Wang, Zhigao Cui, Aihua Li, Yihang Lu, Rong Wang and Feiping Nie,  **IEEE Transactions on Neural Networks and Learning Systems**. [Code here](https://github.com/NianWang-HJJGCDX/SDSGC)
+-  Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer, Yanzhao Su, Nian Wang, Zhigao Cui, Yanping Cai, Chuan He, Aihua Li,  **IEEE Transactions on Multimedia**. <span style="
+    background-color: #007bff; 
+    color: white; 
+    padding: 2px 6px; 
+    border-radius: 3px; 
+    ">
+中科院1区 JCR1区
+</span> [Code here](https://github.com/NianWang-HJJGCDX/DNMGDT)
+-  Structured Doubly Stochastic Graph-Based Clustering, Nian Wang, Zhigao Cui, Aihua Li, Yihang Lu, Rong Wang and Feiping Nie,  **IEEE Transactions on Neural Networks and Learning Systems**. <span style="
+    background-color: #007bff; 
+    color: white; 
+    padding: 2px 6px; 
+    border-radius: 3px; 
+    ">
+中科院1区 JCR1区
+</span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span>  [Code here](https://github.com/NianWang-HJJGCDX/SDSGC)
  
 ## 2024
-- Capsule Attention Network for Hyperspectral Image Classification, Nian Wang, Aitao Yang, Zhigao Cui, Yao Ding, Yuanliang Xue, Yanzhao Su, **Remote Sensing**. [Code here](https://github.com/NianWang-HJJGCDX/CAN)
+- Capsule Attention Network for Hyperspectral Image Classification, Nian Wang, Aitao Yang, Zhigao Cui, Yao Ding, Yuanliang Xue, Yanzhao Su, **Remote Sensing**. <span style="
+    background-color: #007bff; 
+    color: white; 
+    padding: 2px 6px; 
+    border-radius: 3px; 
+    ">
+中科院2区 JCR1区
+</span>  [Code here](https://github.com/NianWang-HJJGCDX/CAN)
 - Handling occlusion in uav visual tracking with query-guided redetection, Yuanliang Xue, Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang, Jing Gao, **IEEE Transactions on Instrumentation and Measurement**. <span style="
     background-color: #007bff; 
     color: white; 
