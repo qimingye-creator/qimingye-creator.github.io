@@ -73,9 +73,17 @@
 - [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 -->
 
--   Target-Distractor Aware UAV Tracking via Global Agent, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Intelligent Transportation Systems**. <span style="color: #FF0000; font-weight: bold; text-decoration: underline;">🏆 ESI 高被引论文</span> </span> ​[Code here](https://bgithub.xyz/xyl-507/TDAT)
+-   Target-Distractor Aware UAV Tracking via Global Agent, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Intelligent Transportation Systems**. <span style="
+    background-color: #007bff; 
+    color: white; 
+    padding: 2px 6px; 
+    border-radius: 3px; 
+    font-weight: bold;
+    font-family: Arial, sans-serif;">
+中科院1区，JCR1区
+</span> <span style="color: #FF0000; font-weight: bold; text-decoration: underline;">🏆 ESI 高被引论文</span> </span> ​[Code here](https://bgithub.xyz/xyl-507/TDAT)
 -   When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Xin Luo, Chang Liu, Nian Wang, Menglin Zhang, Yanzhao Su, Dong Liu, **ICCV 2025**. [Code here](https://bgithub.xyz/ywxjm/DehazeSB)
--   Weakly Supervised Image Dehazing via Physics-Based Decomposition,  Nian Wang, Zhigao Cui, Yanzhao Su, Yunwei Lan, Yuanliang Xue, Cong Zhang, Aihua Li, **IEEE Transactions on Circuits and Systems for Video Technology**. [Code](https://bgithub.xyz/NianWang-HJJGCDX/PBD)
+-   Weakly Supervised Image Dehazing via Physics-Based Decomposition,  Nian Wang, Zhigao Cui, Yanzhao Su, Yunwei Lan, Yuanliang Xue, Cong Zhang, Aihua Li, **IEEE Transactions on Circuits and Systems for Video Technology**. [Code here](https://bgithub.xyz/NianWang-HJJGCDX/PBD)
 -   Multi-view Clustering Based on Doubly Stochastic Graph, Nian Wang, Zhigao Cui, Aihua Li, Rong Wang and Feiping Nie, **Signal Processing**. [Code here](https://bgithub.xyz/NianWang-HJJGCDX/MCDSG)
 -   Large-Scale Hyperspectral Image-Projected Clustering via Doubly Stochastic Graph Learning, Nian Wang, Zhigao Cui, Yunwei Lan, Cong Zhang, Yuanliang Xue, 
 Yanzhao Su, Aihua Li, **Remote Sensing**. [Code here](https://github.com/NianWang-HJJGCDX/HPCDL)
@@ -90,7 +98,7 @@ Yanzhao Su, Aihua Li, **Remote Sensing**. [Code here](https://github.com/NianWan
 - Consistent Representation Mining for Multi-Drone Single Object Tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Circuits and Systems for Video Technology**. [Code here](https://github.com/xyl-507/CRM)
 
 ## 2023
-- Smalltrack: Wavelet pooling and graph enhanced classification for uav small object tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Geoscience and Remote Sensing**. [Code](https://github.com/xyl-507/SmallTrack)
+- Smalltrack: Wavelet pooling and graph enhanced classification for uav small object tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Geoscience and Remote Sensing**. [Code here](https://github.com/xyl-507/SmallTrack)
 - Physical model and image translation fused network for single-image dehazing, Yan Zhao Su, Chuan He, Zhi Gao Cui, Ai Hua Li, Nian Wang, **Pattern Recognition**. [Code here](https://github.com/syzlhh/PMITFN)
 
 
