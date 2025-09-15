@@ -78,10 +78,9 @@
     color: white; 
     padding: 2px 6px; 
     border-radius: 3px; 
-    font-weight: bold;
-    font-family: Arial, sans-serif;">
+    font-weight: bold;">
 中科院1区 JCR1区
-</span> <span style="color: #FF0000; font-weight: bold; text-decoration: underline;">🏆 ESI 高被引论文</span> ​[Code here](https://bgithub.xyz/xyl-507/TDAT)
+</span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span> ​[Code here](https://bgithub.xyz/xyl-507/TDAT)
 -   When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Xin Luo, Chang Liu, Nian Wang, Menglin Zhang, Yanzhao Su, Dong Liu, **ICCV 2025**. [Code here](https://bgithub.xyz/ywxjm/DehazeSB)
 -   Weakly Supervised Image Dehazing via Physics-Based Decomposition,  Nian Wang, Zhigao Cui, Yanzhao Su, Yunwei Lan, Yuanliang Xue, Cong Zhang, Aihua Li, **IEEE Transactions on Circuits and Systems for Video Technology**. [Code here](https://bgithub.xyz/NianWang-HJJGCDX/PBD)
 -   Multi-view Clustering Based on Doubly Stochastic Graph, Nian Wang, Zhigao Cui, Aihua Li, Rong Wang and Feiping Nie, **Signal Processing**. [Code here](https://bgithub.xyz/NianWang-HJJGCDX/MCDSG)
