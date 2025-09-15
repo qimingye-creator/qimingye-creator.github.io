@@ -76,8 +76,8 @@
   <div style="display: inline-block; border: 1px solid #4169E1; background-color: #1E90FF; padding: 6px 12px; border-radius: 4px; margin-left: 8px;">​
     <span style="color: white; font-weight: bold; font-size: 14px;">中科院JCR 1区</span>​
   </div>​
-- **作者**：Zhang San, Li Si, Wang Wu
-     
+- **作者**：Zhang San, Li Si, Wang Wu 
+     🏆 **中科院JCR 1区**
 ## 2025
 
 -   Target-Distractor Aware UAV Tracking via Global Agent, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Intelligent Transportation Systems**.
