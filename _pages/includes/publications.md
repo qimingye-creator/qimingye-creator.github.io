@@ -95,7 +95,7 @@ CCF A类会议
     padding: 2px 6px; 
     border-radius: 3px; 
     ">
-中科院1区 JCR1区
+中科院1区 JCR1区 
 </span>  [Code here](https://bgithub.xyz/NianWang-HJJGCDX/PBD)
 -   Multi-view Clustering Based on Doubly Stochastic Graph, Nian Wang, Zhigao Cui, Aihua Li, Rong Wang and Feiping Nie, **Signal Processing**. <span style="
     background-color: #007bff; 
