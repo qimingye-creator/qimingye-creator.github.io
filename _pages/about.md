@@ -20,12 +20,6 @@ redirect_from:
 Hi! I’m **Tiantian Zhang**, an undergraduate student in Computer Science at Columbia University (Class of 2025).  
 My research interests span **machine learning theory**, **optimization**, and **quantitative finance** — especially Fourier-based methods for Transformers, time-series modeling, and algorithmic trading strategies.
 
----
-
-# 🔥 News
-- *2025.04* — Preprint on **Fourier Analysis in Proof Complexity and Transformers** posted to arXiv.  
-- *2024.09* — Quantitative Research Intern at **Cantor Fitzgerald / BGC Group**, New York.  
-- *2024.03* — Participated in the **MIT Premier Research Seminar** in Optimization and Systems.
 
 ---
 
