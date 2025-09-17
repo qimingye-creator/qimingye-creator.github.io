@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Tiantian Zhang"
-description              : "Machine Learning Theory • Optimization • Quantitative Finance"
+description              : "Machine Learning Theory • Optimization "
 # Set this to your own repo in the form USERNAME/REPO (e.g., CrystalZhangTiantian/crystalzhangtiantian.github.io)
 repository               : "YOUR_GITHUB_USERNAME/YOUR_REPO"
 google_scholar_stats_use_cdn : false
