@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi! I’m **Tiantian Zhang**, an undergraduate student in Computer Science at Columbia University (Class of 2025).  
-My research interests span **machine learning theory**, **combinatorics optimization**. During my undergrad study, I am fortunate to have worked with Yuri Faenza, Daniel Hsu.
+My research interests span **machine learning theory**, **combinatorics optimization**. During my undergrad study, I am fortunate to work with Prof. Yuri Faenza, Prof. Daniel Hsu.
 
 
 ---
@@ -32,7 +32,7 @@ My research interests span **machine learning theory**, **combinatorics optimiza
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  [*Partial Answer of How Transformers Learn Automata*](https://arxiv.org/abs/2504.XXXX)  
+  [*Partial Answer of How Transformers Learn Automata*]([https://arxiv.org/abs/](https://arxiv.org/abs/2504.20395))  
   **Tiantian Zhang**  
 
   We study the connection between representation theory, Fourier analysis, and how Transformers simulate finite automata, with applications to modular reasoning.
@@ -47,7 +47,7 @@ My research interests span **machine learning theory**, **combinatorics optimiza
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  [*Rank-Induced PL Mirror Descent*](#)  
+  [*Rank-Induced PL Mirror Descent*]  
   **Tiantian Zhang**, Jieru Zuo  , Daniel Hsu
 
   We propose a new mirror descent algorithm for the Plackett–Luce model using a Hessian-based preconditioner, achieving improved regret bounds under the rank–distributional equivalence framework.
