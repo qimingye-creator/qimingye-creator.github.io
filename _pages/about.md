@@ -42,7 +42,7 @@ My research interests span **machine learning theory**, **combinatorics optimiza
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Working Draft 2025</div>
+      <div class="badge">In submission into JMLR</div>
       <img src='images/500x300.png' alt="sym" width="100%">
     </div>
   </div>
