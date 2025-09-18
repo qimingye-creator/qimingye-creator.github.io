@@ -47,7 +47,7 @@ My research interests span **machine learning theory**, **combinatorics optimiza
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  [*Rank-Induced PL Mirror Descent*]  (https://tiantianzz.wordpress.com/2025/09/18/rank-induced-pl-mirror-descent/)
+  [*Rank-Induced PL Mirror Descent*](https://tiantianzz.wordpress.com/2025/09/18/rank-induced-pl-mirror-descent/)
   **Tiantian Zhang**, Daniel Hsu
 
   We propose a new mirror descent algorithm for the Plackett–Luce model using a Hessian-based preconditioner, achieving improved regret bounds under the rank–distributional equivalence framework.
