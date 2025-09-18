@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi! I’m **Tiantian Zhang**, an undergraduate student in Computer Science at Columbia University (Class of 2025).  
-My research interests span **machine learning theory**, **combinatorics optimization**. During my undergrad study, I am fortunate to work with Prof. Yuri Faenza, Prof. Daniel Hsu. Recently, I have been interested in LLM. I have a lot of ongoing thoughts and unaccompolished research idea where you can find on tiantianzz.wordpress.com, and I am always excited to talk about it.
+My research interests span **machine learning theory**, **combinatorics optimization**. During my undergrad study, I am fortunate to work with Prof. Yuri Faenza, Prof. Daniel Hsu. Recently, I have been interested in LLM. I have a lot of ongoing thoughts and unaccompolished research idea where you can find on [my blogs](tiantianzz.wordpress.com), and I am always excited to talk about it.
 
 
 ---
