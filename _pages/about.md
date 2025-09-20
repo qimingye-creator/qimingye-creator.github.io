@@ -41,3 +41,4 @@ My research interest includes image coding for machine vision.
 - *2017.09 - 2022.06*: Undergraduate, School of Remote Sensing and Information Engineering,Wuhan University. 
 
 # 💻 Internships
+- *2024.06-2024.08*:  Intern, Media Lab, Tencent.
