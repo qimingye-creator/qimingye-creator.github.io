@@ -68,13 +68,13 @@ redirect_from:
 - [First Prize of 2024 Provincial Undergraduate Electronic Design Competition](https://zhijianli2003.github.io/images/2024H.jpg)[(We are invited by Texas Instruments and open source our code)](https://github.com/ZhijianLi2003/ZLC_MSPM0_Peripheral_Library), **Zhijian Li**, Haoran Chen, Tianyu Zhou,  &nbsp;2024.08,&nbsp;Shandong,&nbsp;China
 
 # 📖 Educations and Work experience
-- ***2025.09 - 2030.06 (future)***,  &nbsp;Ph.D.student(Supervisor: [Prof. Fu Kun](http://www.aircas.ac.cn/sourcedb/cn/expert/yjy/201811/t20181106_5165762.html)), &nbsp;Aerospace Information Research Institute,&nbsp; Chinese Academy of Sciences,&nbsp; Beijing, &nbsp;China
-- ***2021.09 - 2025.06 (now)***,  &nbsp;B.Eng. in Electronic Science and Technology, &nbsp;School of Mechanial, Electrical and Information Engineering, &nbsp;Shandong University, &nbsp;Weihai,&nbsp; China. 
+- ***2025.09 - now***,  &nbsp;Ph.D.student(Supervisor: [Prof. Fu Kun](http://www.aircas.ac.cn/sourcedb/cn/expert/yjy/201811/t20181106_5165762.html)), &nbsp;Aerospace Information Research Institute,&nbsp; Chinese Academy of Sciences,&nbsp; Beijing, &nbsp;China
+- ***2021.09 - 2025.06 ***,  &nbsp;B.Eng. in Electronic Science and Technology, &nbsp;School of Mechanial, Electrical and Information Engineering, &nbsp;Shandong University, &nbsp;Weihai,&nbsp; China. 
 
 # 💬 Talk and Contact
 - *2024.11*, video:["我们把小车题做到了极致！3年电赛，冲刺最高奖！"](https://www.bilibili.com/video/BV1UJzgY7E3s/?vd_source=cc6e1299ec907ed5efddd8a4591377e3). 
 - *2025.05*, Talk:["志远笃行，攻坚克难——励志成为卓越的工程师(山东大学威海校区推文)"](https://mp.weixin.qq.com/s/6r0P3yXkhDmAeeeBova38A).
-- *Email:* lizhijian_sdu@163.com
+- *Email:* [lizhijian25@mails.ucas.ac.cn](lizhijian25@mails.ucas.ac.cn)
 - *github:* [ZhijianLi2003](https://github.com/ZhijianLi2003)
 - *gitee:* [warrior_Li](https://gitee.com/warrior_Li)
 
