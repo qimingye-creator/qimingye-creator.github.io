@@ -69,7 +69,7 @@ redirect_from:
 
 # 📖 Educations and Work experience
 - ***2025.09 - now***,  &nbsp;Ph.D.student(Supervisor: [Prof. Fu Kun](http://www.aircas.ac.cn/sourcedb/cn/expert/yjy/201811/t20181106_5165762.html)), &nbsp;Aerospace Information Research Institute,&nbsp; Chinese Academy of Sciences,&nbsp; Beijing, &nbsp;China
-- ***2021.09 - 2025.06 ***,  &nbsp;B.Eng. in Electronic Science and Technology, &nbsp;School of Mechanial, Electrical and Information Engineering, &nbsp;Shandong University, &nbsp;Weihai,&nbsp; China. 
+- ***2021.09 - 2025.06***,  &nbsp;B.Eng. in Electronic Science and Technology, &nbsp;School of Mechanial, Electrical and Information Engineering, &nbsp;Shandong University, &nbsp;Weihai,&nbsp; China. 
 
 # 💬 Talk and Contact
 - *2024.11*, video:["我们把小车题做到了极致！3年电赛，冲刺最高奖！"](https://www.bilibili.com/video/BV1UJzgY7E3s/?vd_source=cc6e1299ec907ed5efddd8a4591377e3). 
