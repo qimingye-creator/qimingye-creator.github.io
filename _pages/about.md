@@ -8,51 +8,106 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<h2 id="about-me">About Me</h2>
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+I am **Ruihua Mao**, a PhD researcher in Linguistics at the [*Laboratoire de Linguistique Formelle*](http://www.llf.cnrs.fr/fr), *Université Paris Cité*.  
+I am supervised by [**Dr. Anne Abeillé**](http://www.llf.cnrs.fr/fr/Gens/Abeille) (Université Paris Cité), [**Dr. Barbara Hemforth**](http://www.llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, Université Paris Cité), and [**Dr. Edward Gibson**](https://bcs.mit.edu/directory/edward-gibson) (Massachusetts Institute of Technology).  
 
-# 📝 Publications 
+My PhD dissertation, titled *“Meaning-based Approaches to Locality Constraints: Extraction from English and Chinese Adjuncts and Subjects”*, is scheduled for defense on **October 13, 2025**.  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+In 2023, I spent a semester at the [**TedLab**](https://tedlab.mit.edu/) at MIT, where I conducted research on noisy channel processing in Mandarin Chinese.  
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Before moving to Paris, I studied and worked in **Hong Kong**, conducting research on: **Second language acquisition** (island constraints), **Experimental semantics** (quantifier scope in Mandarin Chinese), and **Developmental psychology** (executive functioning and reading comprehension). 
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+### Research Interests
+
+  
+- Psycholinguistics  
+  
+- Experimental syntax
+  
+- Information theory
+  
+- Language development
+
+
+<br><br>
+
+
+### Non-degree Programs
+
+- **Visiting Student**, Department of Brain & Cognitive Science, Massachusetts Institute of Technology, Feb 2023-July 2023 <br>
+    Supervisor: Dr. Edward Gibson
+- **Introduction to Bayesian Statistics**, Summer School on Statistical Methods for Linguistics and Psychology.<br>
+   University of Potsdam, Germany *(Sep 2024)*
+- **LSA Summer Institute**. Amherst, USA *(Jul 2023)*
+- **Birmingham Statistics for Linguistics Summer School**. Birmingham, UK *(Jul 2022)*
+- **The Python4NLP Summer School**. Nancy, France *(May 2022)*
+<br><br>
+
+### Contact
+
+For research discussions or collaboration inquiries, please contact me at [ruihua.mao@etu.u-paris.fr](mailto:ruihua.mao@etu.u-paris.fr) or [ruihuamauri@gmail.com](mailto:ruihuamauri@gmail.com).
+
+<div style="background-color: #f5f0e6; padding: 12px; border-radius: 8px; margin-top: 10px;">
+  <p style="color: brown; font-weight: bold; margin: 0;">
+    I am actively seeking postdoctoral, lecturer, or assistant professor positions in psycholinguistics or experimental linguistics.
+    If you know of any relevant opportunities, I would be very grateful to hear from you.
+  </p>
 </div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<br><br><br>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+---
+<h2 id="research-output">Research Output</h2> 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+### 📚 Journal Articles
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<ul class="journal-list">
+<li><strong>Ruihua Mao</strong>, Sihan Chen, Edward Gibson (2024). Decoding the Implausible: Mandarin Sentence Interpretation through the Noisy Channel Model. <em>Memory and Cognition</em> (In press). <a href="https://rhmao.github.io/assets/papers/mandarin%20noisy%20channel.pdf">[Manuscript]</a></li>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025). How Strong are “Strong” Islands? Discourse constraints best explain long-distance extraction from English adjunct clauses. <em>Cognition</em> (Under Revision). <a href="https://drive.google.com/file/d/1c1BmYLJfVu70xcKtZvrq4Ln-xHAhFjNw/view?usp=share_link">[Manuscript]</a></li>
+
+<li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025). Extraction from subjects and objects in Chinese. (In preparation)</li>
+</ul>
+<br>
+
+### 🎤 Conference Presentations
+
+- Anne Abeillé, Barbara Hemforth, **Ruihua Mao**, Edward Gibson (2022). Acceptability of extraction out of English adjunct clauses: the role of topicalization. *the 35th Annual Conference on Human Sentence Processing*, UC Santa Cruz, US. [Poster Presentation].
+
+- **Ruihua Mao**, Edward Gibson, Barbara Hemforth, Anne Abeillé (2022). Extraction out of Mandarin and English if-adjunct clauses: the role of topicalization. *the 28th Architectures and Mechanisms for Language Processing (AMLaP)*, University of York, UK. [Poster Presentation].
+
+- **Ruihua Mao** (2022). Testing extraction (out) of subjects and objects in Mandarin Relative Clauses. *Linguistic Evidence 2022*, Université Paris Cité, France. [Oral Talk].
+  
+- **Ruihua Mao**, Edward Gibson, Barbara Hemforth, Anne Abeillé (2022). Topicalization out of English and Mandarin if-clauses and that-clauses. *ExLing 2022 Paris conference*, Université Paris Cité, France. [Poster Presentation]
+
+- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2023). An empirical investigation of Mandarin subject island. *the 29th Architectures and Mechanisms for Language Processing (AMLaP)*, Basque Center on Cognition, Brain and Language, Spain. [Poster].
+  
+- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2023). Extraction out of Mandarin Clauses: Topic vs. Focus. *AMLaP Asia*, Chinese University of Hong Kong, Hong Kong.[Poster].
+
+- **Ruihua Mao**, Sihan Chen, Edward Gibson (2023). How do Mandarin Natives interpret implausible sentences. *AMLaP Asia*, Chinese University of Hong Kong, Hong Kong.[Poster].
+  
+- **Ruihua Mao**, Sihan Chen, Edward Gibson (2023). How do Mandarin Natives interpret implausible sentences. *XL Workshop*, Laboratoire de Linguistique Formelle, Université Paris Cité.[Internal Presentation].
+
+- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2024). The Discourse Function Explains "Islands". *Proceedings of the 30th Architectures and Mechanisms for Language Processing (AMLaP)* [Poster].
+  
+
+<br><br><br>
+## Teaching
+
+- **Advanced Experimental Syntax** (Master level; Co-taught with Dr. Anne Abeillé; 2024 Spring)  
+- **Advanced Experimental Syntax** (Master level; Teaching assistant for Dr. Anne Abeillé; 2025 Spring)
+
+<br>
+
+<h2 id="awards">Awards and Grants</h2>
+
+- **IDEX PhD Fellowship**, Université Paris Cité — *€78,000* (2021–2024)  
+- **Smarts-Up Mobility Grant**, Université Paris Cité — *€1,000* (2023)  
+- **Laboratoire de Linguistique Formelle Mobility Grant**, Université Paris Cité — *€1,500* (2022)  
+- **Labex EFL Mobility Grant**, Université Paris Cité — *€3,500* (2022)  
+- **University First Class Scholarship** — (2016–2017)  
+- **University Second Class Scholarship** — (2014–2015)
