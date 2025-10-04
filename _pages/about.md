@@ -38,8 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
   [Strategic Planning of Charging Infrastructure for Shared Electric Vehicles: A Multi-Phase Stochastic Approach Using Reinforcement Learning](https://doi.org/10.1016/j.scs.2025.106850) 
   
   **Qiming Ye**, Bryan T. Adey, Prateek Bansal 
-  [**Code**](https://github.com/qimingye-creator/SEV_fast_charger_planning) | [**Google Scholar**](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=7haYvj8AAAAJ&citation_for_view=7haYvj8AAAAJ:ZeXyd9-uunAC)  
-  <strong><span class='show_paper_citations' data='7haYvj8AAAAJ:ZeXyd9-uunAC'></span></strong> 
+  [**Code**](https://github.com/qimingye-creator/SEV_fast_charger_planning) | [**Google Scholar**](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=7haYvj8AAAAJ&citation_for_view=7haYvj8AAAAJ:ZeXyd9-uunAC) <strong><span class='show_paper_citations' data='7haYvj8AAAAJ:ZeXyd9-uunAC'></span></strong> 
   
   Compared with myopic methods, the foresighted RL model deploys 30.5% fewer chargers islandwide and achieves 10.9% higher charging service efficiency.
   </div>
