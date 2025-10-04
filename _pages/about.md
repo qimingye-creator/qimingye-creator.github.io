@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Strategic Planning of Charging Infrastructure for Shared Electric Vehicles: A Multi-Phase Stochastic Approach Using Reinforcement Learning](https://doi.org/10.1016/j.scs.2025.107724)
+[Strategic Planning of Charging Infrastructure for Shared Electric Vehicles: A Multi-Phase Stochastic Approach Using Reinforcement Learning](https://doi.org/10.1016/j.scs.2025.106850)
 
 **Qiming Ye**, Bryan T. Adey, Prateek Bansal  
 
