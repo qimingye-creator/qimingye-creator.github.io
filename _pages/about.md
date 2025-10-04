@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">SCS 2025</div>
+      <div class="badge">Sustainable Cities and Society, 2025</div>
       <img src='images/qmy_SCS2025_framework.png' alt="SEV_RL" width="100%">
     </div>
   </div>
