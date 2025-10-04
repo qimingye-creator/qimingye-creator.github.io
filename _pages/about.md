@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
   <div class='paper-box-image'>
     <div>
       <div class="badge">SCS 2025</div>
-      <img src='images/sev_rl_paper.png' alt="SEV_RL" width="100%">
+      <img src='images/qmy_SCS2025_framework.png' alt="SEV_RL" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
