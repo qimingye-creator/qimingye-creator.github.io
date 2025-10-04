@@ -44,6 +44,24 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
 </div>
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Expert Systems with Applications, 2025</div>
+      <img src='images/qmy_SCS2025_framework.png' alt="expt" width="70%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Intelligent Urban On-street Parking Space Management for Autonomous Vehicles](https://doi.org/10.1016/j.eswa.2025.129626) 
+  
+  **Qiming Ye**, Prateek Bansal, Yuxiang (Felix) Feng, Simon Hu, Panagiotis Angeloudis
+  [**Code**](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=7haYvj8AAAAJ&sortby=pubdate&citation_for_view=7haYvj8AAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='7haYvj8AAAAJ:7PzlFSSx8tAC'></span></strong> 
+  
+  xxxxxxxxxx
+  </div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
