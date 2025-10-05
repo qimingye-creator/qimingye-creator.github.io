@@ -30,40 +30,36 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">SCS</div>
-      <img src='images/qmy_SCS2025_framework.png' alt="SEV_RL" width="70%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  [Strategic Planning of Charging Infrastructure for Shared Electric Vehicles: A Multi-Phase Stochastic Approach Using Reinforcement Learning](https://doi.org/10.1016/j.scs.2025.106850), Sustainable Cities and Society (2025): 106850.
 
-  **Qiming Ye**, Bryan T. Adey, Prateek Bansal 
-  [**Code**](https://github.com/qimingye-creator/SEV_fast_charger_planning) | [**Google Scholar**](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=7haYvj8AAAAJ&citation_for_view=7haYvj8AAAAJ:ZeXyd9-uunAC) <strong><span class='show_paper_citations' data='7haYvj8AAAAJ:ZeXyd9-uunAC'></span></strong>
-  
-  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    </div>
-</div>
+<ul class="pub-list">
 
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ESWA</div>
-      <img src='images/qmy_ESWA2025_framework.png' alt="expt" width="70%">
+  <li class="pub-item">
+    <div class="pub-left">
+      <div class="pub-venue">Sustainable Cities and Society</div>
+      <!-- 或用缩略图：
+      <img src="/images/qmy_SCS2025_framework.png" class="pub-thumb" alt="SCS 2025">
+      -->
     </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  [Intelligent Urban On-street Parking Space Management for Autonomous Vehicles](https://doi.org/10.1016/j.eswa.2025.129626), Expert Systems with Applications (2025): 129626.
-  
-  **Qiming Ye**, Prateek Bansal, Yuxiang (Felix) Feng, Simon Hu, Panagiotis Angeloudis
-  [**Google Scholar**](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=7haYvj8AAAAJ&sortby=pubdate&citation_for_view=7haYvj8AAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='7haYvj8AAAAJ:7PzlFSSx8tAC'></span></strong> 
-  
-  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  </div>
-</div>
+    <div class="pub-right">
+      <p class="title">
+        <a href="https://doi.org/10.1016/j.scs.2025.106850">
+          Strategic Planning of Charging Infrastructure for Shared Electric Vehicles:
+          A Multi-Phase Stochastic Approach Using Reinforcement Learning
+        </a>
+      </p>
+      <p class="authors">
+        <span class="me">Qiming Ye</span>, Bryan T. Adey, Prateek Bansal
+      </p>
+      <p class="links">
+        <a href="https://github.com/ye-qiming/SEV_fast_charger_planning">Code</a>
+        <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=7haYvj8AAAAJ&citation_for_view=7haYvj8AAAAJ:ZeXyd9-uunAC">Scholar</a>
+      </p>
+      <p class="teaser">
+        Compared with myopic methods, the foresighted RL model deploys 30.5% fewer chargers islandwide and achieves 10.9% higher charging service efficiency.
+      </p>
+    </div>
+  </li>
+</ul>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
