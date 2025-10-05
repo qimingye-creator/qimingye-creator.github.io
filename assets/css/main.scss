@@ -108,27 +108,92 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* ===== Compact publications (list-style) ===== */
-.pub-list { margin: 0; padding: 0; list-style: none; }
+/* ===== Enhanced publication list (v2) ===== */
+.pub-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
 .pub-item {
   display: grid;
   grid-template-columns: 1fr 5fr;
-  gap: 14px 18px;
-  padding: 14px 0;
-  border-bottom: 1px solid #eee;
+  gap: 14px 20px;
+  padding: 18px 0;
+  border-bottom: 1px solid #e6e6e6;
+  align-items: start;
 }
-.pub-left { min-width: 120px; text-align: right; opacity: .8; font-size: .92rem; }
+
+.pub-left {
+  min-width: 140px;
+  text-align: right;
+}
+
 .pub-venue {
-  display: inline-block; padding: 2px 8px; border-radius: 10px;
-  background: #eef2ff; border: 1px solid #dbeafe; white-space: nowrap;
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  background: #002d62; /* 深蓝色 */
+  color: #fff;
+  font-weight: 600;
+  margin-bottom: 10px;
 }
-.pub-thumb { width: 120px; height: 80px; object-fit: cover; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,.12); }
-.pub-right .title { margin: 0; font-weight: 600; line-height: 1.35; }
-.pub-right .authors { margin: 6px 0; color: #444; }
-.pub-right .me { font-weight: 700; } /* bold your name */
-.pub-right .links a { margin-right: 12px; text-decoration: none; font-weight: 600; }
-.pub-right .teaser { margin-top: 4px; color: #333; }
-@media (max-width: 720px){
-  .pub-item{ grid-template-columns: 1fr; }
-  .pub-left{ text-align: left; margin-bottom: 6px; }
+
+.pub-thumb {
+  width: 150px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 6px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+  margin-top: 8px;
+}
+
+.pub-right .title {
+  margin: 0 0 6px 0;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.pub-right .authors {
+  margin: 0;
+  color: #444;
+  font-size: 0.95rem;
+}
+
+.pub-right .me {
+  font-weight: 700;
+}
+
+.pub-links {
+  margin-top: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.pub-links a {
+  display: inline-block;
+  border: 1px solid #003366;
+  border-radius: 6px;
+  padding: 3px 10px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #003366;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.pub-links a:hover {
+  background: #003366;
+  color: #fff;
+}
+
+@media (max-width: 720px) {
+  .pub-item {
+    grid-template-columns: 1fr;
+  }
+  .pub-left {
+    text-align: left;
+  }
 }

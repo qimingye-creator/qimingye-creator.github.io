@@ -32,7 +32,6 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 <ul class="pub-list">
-
   <li class="pub-item">
     <div class="pub-left">
       <div class="pub-venue">Sustainable Cities and Society</div>
@@ -41,22 +40,22 @@ My research interest includes neural machine translation and computer vision. I 
     <div class="pub-right">
       <p class="title">
         <a href="https://doi.org/10.1016/j.scs.2025.106850">
-          Strategic Planning of Charging Infrastructure for Shared Electric Vehicles:
-          A Multi-Phase Stochastic Approach Using Reinforcement Learning
+          Strategic Planning of Charging Infrastructure for Shared Electric Vehicles: A Multi-Phase Stochastic Approach Using Reinforcement Learning
         </a>
       </p>
       <p class="authors">
-        <span class="me">Qiming Ye</span>, Bryan T. Adey, Prateek Bansal
+        Sustainable Cities and Society (2025): 106850 <span class="me">Qiming Ye</span>, Bryan T. Adey, Prateek Bansal
       </p>
-      <p class="links">
+      <div class="pub-links">
+        <a href="https://doi.org/10.1016/j.scs.2025.106850">PDF</a>
         <a href="https://github.com/ye-qiming/SEV_fast_charger_planning">Code</a>
         <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=7haYvj8AAAAJ&citation_for_view=7haYvj8AAAAJ:ZeXyd9-uunAC">Scholar</a>
-      </p>
-      <p class="teaser">
-        Compared with myopic methods, the foresighted RL model deploys 30.5% fewer chargers islandwide and achieves 10.9% higher charging service efficiency.
-      </p>
+        <a href="https://scholar.google.com/citations?user=7haYvj8AAAAJ">Citation</a>
+        <a href="/bibtex/Ye_SCS2025.bib">BibTeX</a>
+      </div>
     </div>
   </li>
+
 </ul>
 
 # 🎖 Honors and Awards
