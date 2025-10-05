@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qiming Ye — Transport/Energy/AI"
+title                    : "Qiming Ye 叶启明"
 description              : "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "ye-qiming.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qiming Ye (叶启明)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/qmy_PROFILE.png"
   bio              : "ETH Zurich"
   location         : "Singapore ETH Centre, Singapore"
   employer         :

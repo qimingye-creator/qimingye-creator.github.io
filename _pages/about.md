@@ -34,7 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
   <div class='paper-box-image'>
     <div>
       <div class="badge">Sustainable Cities and Society, 2025</div>
-      <img src='images/qmy_SCS2025_framework.png' alt="SEV_RL" width="70%">
+      <img src='images/qmy_SCS2025_framework.png' alt="SEV_RL" width="30%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
   <div class='paper-box-image'>
     <div>
       <div class="badge">Expert Systems with Applications, 2025</div>
-      <img src='images/qmy_ESWA2025_framework.png' alt="expt" width="70%">
+      <img src='images/qmy_ESWA2025_framework.png' alt="expt" width="30%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
