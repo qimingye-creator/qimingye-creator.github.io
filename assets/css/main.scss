@@ -61,11 +61,18 @@
   }
     
     @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 25%;
-            order: 1;
+        .paper-box-image {
+        position: relative;  /* ← 让 badge 定位基于图片容器 */
+        display: flex;
+        justify-content: center;
+        width: 35%;          /* 或根据你的布局调整 */
+        
+        img {
+            width: 100%;
+            max-width: 420px;
+            box-shadow: 3px 3px 6px #aaa;
+            object-fit: cover;
+        }
         }
         
         .paper-box-text{
@@ -88,14 +95,17 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+  position: absolute;         /* 让标签悬浮在图片内部 */
+  top: 8px;                   /* 距离图片上边缘 */
+  left: 8px;                  /* 距离图片左边缘 */
+  background-color: #003366;  /* 深蓝色背景 */
+  color: #fff;                /* 白色文字 */
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 0.3em 0.8em;
+  border-radius: 0;           /* ← 去掉圆角 */
+  z-index: 10;                /* 确保浮在图片上层 */
+  box-shadow: 1px 1px 4px rgba(0,0,0,0.3); /* 轻微阴影，提升层次感 */
 }
 
 /* ===== Enhanced publication list (v2) ===== */
@@ -120,14 +130,17 @@ h1:before, .anchor:before {
 }
 
 .pub-venue {
-  padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+  position: absolute;           /* 固定在图片容器内左上角 */
+  top: 8px;
+  left: 8px;
+  background-color: #003366;    /* 深蓝色背景（更沉稳） */
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 0.9em;
+  padding: 0.25em 0.8em;
+  border-radius: 0;             /* 去掉圆角 */
+  z-index: 10;                  /* 确保浮在图片上层 */
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
 }
 
 .pub-thumb {
