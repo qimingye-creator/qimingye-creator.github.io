@@ -120,14 +120,14 @@ h1:before, .anchor:before {
 }
 
 .pub-venue {
-  display: inline-block;
-  padding: 3px 10px;
-  border-radius: 12px;
-  font-size: 0.85rem;
-  background: #002d62; /* 深蓝色 */
-  color: #fff;
-  font-weight: 600;
-  margin-bottom: 10px;
+  padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
 }
 
 .pub-thumb {
