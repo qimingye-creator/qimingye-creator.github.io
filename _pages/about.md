@@ -36,9 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
   <li class="pub-item">
     <div class="pub-left">
       <div class="pub-venue">Sustainable Cities and Society</div>
-      <!-- 或用缩略图：
       <img src="/images/qmy_SCS2025_framework.png" class="pub-thumb" alt="SCS 2025">
-      -->
     </div>
     <div class="pub-right">
       <p class="title">
