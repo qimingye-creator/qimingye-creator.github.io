@@ -43,7 +43,7 @@ We are looking for .... please direct-message me via email qiming.ye@sec.ethz.ch
         <a href="https://doi.org/10.1016/j.scs.2025.106850">
           Strategic Planning of Charging Infrastructure for Shared Electric Vehicles: A Multi-Phase Stochastic Approach Using Reinforcement Learning
         </a>
-        Sustainable Cities and Society (2025): 106850
+        , Sustainable Cities and Society (2025): 106850
       </p>
       <p class="authors">
          <span class="me">Qiming Ye</span>, Bryan T. Adey, Prateek Bansal
