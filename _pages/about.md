@@ -34,7 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
   <div class='paper-box-image'>
     <div>
       <div class="badge">SCS</div>
-      <img src='images/qmy_SCS2025_framework.png' alt="SEV_RL" width="45%">
+      <img src='images/qmy_SCS2025_framework.png' alt="SEV_RL" width="70%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
   **Qiming Ye**, Bryan T. Adey, Prateek Bansal 
   [**Code**](https://github.com/qimingye-creator/SEV_fast_charger_planning) | [**Google Scholar**](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=7haYvj8AAAAJ&citation_for_view=7haYvj8AAAAJ:ZeXyd9-uunAC) <strong><span class='show_paper_citations' data='7haYvj8AAAAJ:ZeXyd9-uunAC'></span></strong>
   
-  xx
+  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     </div>
 </div>
 
@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
   <div class='paper-box-image'>
     <div>
       <div class="badge">ESWA</div>
-      <img src='images/qmy_ESWA2025_framework.png' alt="expt" width="45%">
+      <img src='images/qmy_ESWA2025_framework.png' alt="expt" width="70%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -61,7 +61,7 @@ My research interest includes neural machine translation and computer vision. I 
   **Qiming Ye**, Prateek Bansal, Yuxiang (Felix) Feng, Simon Hu, Panagiotis Angeloudis
   [**Google Scholar**](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=7haYvj8AAAAJ&sortby=pubdate&citation_for_view=7haYvj8AAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='7haYvj8AAAAJ:7PzlFSSx8tAC'></span></strong> 
   
-  xx
+  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   </div>
 </div>
 
