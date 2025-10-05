@@ -35,7 +35,7 @@ We are looking for .... please direct-message me via email qiming.ye@sec.ethz.ch
 <ul class="pub-list">
   <li class="pub-item">
     <div class="pub-left">
-      <div class="pub-venue">Sustainable Cities and Society</div>
+      <div class="pub-venue">SCS</div>
       <img src="/images/qmy_SCS2025_framework.png" class="pub-thumb" alt="SCS 2025">
     </div>
     <div class="pub-right">
@@ -43,9 +43,10 @@ We are looking for .... please direct-message me via email qiming.ye@sec.ethz.ch
         <a href="https://doi.org/10.1016/j.scs.2025.106850">
           Strategic Planning of Charging Infrastructure for Shared Electric Vehicles: A Multi-Phase Stochastic Approach Using Reinforcement Learning
         </a>
+        Sustainable Cities and Society (2025): 106850
       </p>
       <p class="authors">
-        Sustainable Cities and Society (2025): 106850 <span class="me">Qiming Ye</span>, Bryan T. Adey, Prateek Bansal
+         <span class="me">Qiming Ye</span>, Bryan T. Adey, Prateek Bansal
       </p>
       <div class="pub-links">
         <a href="https://doi.org/10.1016/j.scs.2025.106850">PDF</a>
