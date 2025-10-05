@@ -56,7 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
   [Intelligent Urban On-street Parking Space Management for Autonomous Vehicles](https://doi.org/10.1016/j.eswa.2025.129626) 
   
   **Qiming Ye**, Prateek Bansal, Yuxiang (Felix) Feng, Simon Hu, Panagiotis Angeloudis
-  [**Code**](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=7haYvj8AAAAJ&sortby=pubdate&citation_for_view=7haYvj8AAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='7haYvj8AAAAJ:7PzlFSSx8tAC'></span></strong> 
+  [**Google Scholar**](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=7haYvj8AAAAJ&sortby=pubdate&citation_for_view=7haYvj8AAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='7haYvj8AAAAJ:7PzlFSSx8tAC'></span></strong> 
   
   xxxxxxxxxx
   </div>
