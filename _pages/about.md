@@ -51,7 +51,7 @@ We are looking for .... please direct-message me via email qiming.ye@sec.ethz.ch
       <div class="pub-links">
         <a href="https://doi.org/10.1016/j.scs.2025.106850">PDF</a>
         <a href="https://github.com/ye-qiming/SEV_fast_charger_planning">Code</a>
-        <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=7haYvj8AAAAJ&citation_for_view=7haYvj8AAAAJ:ZeXyd9-uunAC">Scholar</a>
+        <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7haYvj8AAAAJ&sortby=pubdate&citation_for_view=7haYvj8AAAAJ:ZeXyd9-uunAC">Scholar</a>
         <a href="https://scholar.google.com/citations?user=7haYvj8AAAAJ">Citation</a>
         <a href="/bibtex/Ye_SCS2025.bib">BibTeX</a>
       </div>
