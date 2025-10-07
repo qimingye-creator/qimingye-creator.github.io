@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Hiring"
+    url: "/#hiring"
+    
   - title: "About Me"
     url: "/#about-me"
 
