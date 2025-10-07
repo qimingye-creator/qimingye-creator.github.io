@@ -46,7 +46,7 @@ We are looking for .... please direct-message me via email qiming.ye@sec.ethz.ch
         , Sustainable Cities and Society (2025): 106850
       </p>
       <p class="authors">
-         <span class="me">Qiming Ye</span>, Bryan T. Adey, Prateek Bansal
+         <span class="me">Qiming Ye</span>, Prateek Bansal*, Bryan T. Adey
       </p>
       <div class="pub-links">
         <a href="https://doi.org/10.1016/j.scs.2025.106850">PDF</a>
