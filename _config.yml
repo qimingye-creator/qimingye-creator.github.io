@@ -1,65 +1,38 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# --- Site Settings ---
+title: "Qiming Ye 叶启明"
+description: "AI-driven adaptive planning for urban transport–energy systems: SEVs, E-buses, and car-lite transitions."
+url: "https://ye-qiming.github.io"
+baseurl: ""   # user site must be empty
+repository: "ye-qiming/ye-qiming.github.io"
+google_scholar_stats_use_cdn: false
 
-# Site Settings
-title                    : "Qiming Ye 叶启明"
-description              : "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-repository               : "ye-qiming.github.io"
-google_scholar_stats_use_cdn : false
+# Analytics (use one of them as needed)
+google_analytics_id:    # theme-specific key (keep if theme expects it)
+google_analytics:       # jekyll-seo-tag key (fill with GA4 ID like G-XXXXXXX)
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+# SEO verifications (optional)
+google_site_verification:
+bing_site_verification:
+baidu_site_verification:
 
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
-
-# Site Author
+# --- Author ---
 author:
-  name             : "Qiming Ye (叶启明)"
-  avatar           : "images/qmy_PROFILE.png"
-  bio              : "ETH Zurich"
-  location         : "Singapore ETH Centre, Singapore"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7haYvj8AAAAJ"
-  email            : "qiming.ye@sec.ethz.ch"
-  researchgate     : "https://www.researchgate.net/profile/Qiming-Ye-2?ev=hdr_xprf"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/qimingye/"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-4732-2042"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name: "Qiming Ye (叶启明)"
+  avatar: "images/qmy_PROFILE.png"
+  bio: "ETH Zurich"
+  location: "Singapore ETH Centre, Singapore"
+  employer:
+  pubmed:
+  googlescholar: "https://scholar.google.com/citations?user=7haYvj8AAAAJ"
+  email: "qiming.ye@sec.ethz.ch"
+  researchgate: "https://www.researchgate.net/profile/Qiming-Ye-2?ev=hdr_xprf"
+  github: "ye-qiming"
+  linkedin: "https://www.linkedin.com/in/qimingye/"
+  orcid: "https://orcid.org/0000-0003-4732-2042"
+  twitter:
+  youtube:
 
-
-# Reading Files
+# --- Reading Files ---
 include:
   - .htaccess
   - _pages
@@ -97,18 +70,17 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
-# Conversion
+# --- Conversion ---
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-# Markdown Processing
+# --- Markdown Processing ---
 kramdown:
   input: GFM
+  math_engine: katex
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
@@ -117,9 +89,8 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Defaults
+# --- Defaults ---
 defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
@@ -127,36 +98,34 @@ defaults:
       layout: default
       author_profile: true
 
-
-# Sass/SCSS
+# --- Sass/SCSS ---
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
-
-# Outputting
+# --- Outputting ---
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Singapore
 
-
-# Plugins
+# --- Plugins ---
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+  - jekyll-seo-tag
+  - jemoji
+
+# If you run locally with --safe, keep whitelist; otherwise can remove.
 whitelist:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
   - jemoji
 
-
-# HTML Compression
-# - http://jch.penibelst.de/
+# --- HTML Compression ---
 compress_html:
   clippings: all
   ignore:
